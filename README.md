@@ -39,27 +39,27 @@
 |  6 | [kb](https://github.com/gnebbia/kb)                                       | 2020-09-21 | 2020-09-23 |       3 |
 |  7 | [iredis](https://github.com/laixintao/iredis)                             | 2019-12-30 | 2020-09-16 |       2 |
 |  8 | [activities](https://github.com/flopp/activities)                         | 2020-07-09 | 2020-07-14 |       2 |
-|  9 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 |       1 |
-| 10 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                     | 2019-09-25 | 2019-09-25 |       1 |
+|  9 | [TopList](https://github.com/tophubs/TopList)                             | 2019-08-19 | 2019-08-19 |       1 |
+| 10 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 |       1 |
 | 11 | [LearnJapan](https://github.com/wizicer/LearnJapan)                       | 2020-03-31 | 2020-03-31 |       1 |
-| 12 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 |       1 |
-| 13 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 |       1 |
-| 14 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 |       1 |
-| 15 | [TopList](https://github.com/tophubs/TopList)                             | 2019-08-19 | 2019-08-19 |       1 |
-| 16 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 |       1 |
+| 12 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 |       1 |
+| 13 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 |       1 |
+| 14 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 |       1 |
+| 15 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 |       1 |
+| 16 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                     | 2019-09-25 | 2019-09-25 |       1 |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [mkdocs](https://github.com/mkdocs/mkdocs)                                                           | 2019-09-19 | Python     | 2020-12-31   |
-|  2 | [note](https://github.com/arkingc/note)                                                              | 2019-09-03 | C++        | 2020-12-30   |
-|  3 | [javascript-notes](https://github.com/anbang/javascript-notes)                                       | 2019-05-07 | HTML       | 2020-12-31   |
-|  4 | [byterun](https://github.com/nedbat/byterun)                                                         | 2019-10-30 | Python     | 2020-12-29   |
-|  5 | [tablib](https://github.com/jazzband/tablib)                                                         | 2017-07-30 | Python     | 2020-12-30   |
-|  6 | [v8-bailout-reasons](https://github.com/vhf/v8-bailout-reasons)                                      | 2019-09-10 | md         | 2020-12-21   |
-|  7 | [react-use](https://github.com/streamich/react-use)                                                  | 2020-07-19 | TypeScript | 2020-12-31   |
-|  8 | [telebot](https://github.com/tucnak/telebot)                                                         | 2019-10-29 | Go         | 2020-12-30   |
-|  9 | [python_interview_question](https://github.com/kenwoodjw/python_interview_question)                  | 2019-04-17 | md         | 2020-12-31   |
-| 10 | [apple-watch-workouts-year-review](https://github.com/yannbertrand/apple-watch-workouts-year-review) | 2020-11-24 | JavaScript | 2020-12-27   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [dirmap](https://github.com/H4ckForJob/dirmap)                                     | 2019-05-01 | Python     | 2020-12-30   |
+|  2 | [Osmedeus](https://github.com/j3ssie/Osmedeus)                                     | 2019-07-16 | Python     | 2020-12-30   |
+|  3 | [legacy-blog](https://github.com/catmorphic/legacy-blog)                           | 2020-04-01 | JavaScript | 2020-10-07   |
+|  4 | [a_star_algorithm](https://github.com/pablogsal/a_star_algorithm)                  | 2019-09-03 | Python     | 2020-10-13   |
+|  5 | [Cyberbrain](https://github.com/laike9m/Cyberbrain)                                | 2020-10-01 | Python     | 2020-12-30   |
+|  6 | [gridstudio](https://github.com/ricklamers/gridstudio)                             | 2019-08-07 | JavaScript | 2020-12-30   |
+|  7 | [bustag](https://github.com/gxtrobot/bustag)                                       | 2020-01-21 | JavaScript | 2020-12-31   |
+|  8 | [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) | 2018-06-07 | JavaScript | 2020-12-30   |
+|  9 | [lightsocks](https://github.com/gwuhaolin/lightsocks)                              | 2019-07-23 | Go         | 2020-12-30   |
+| 10 | [cchess-zero](https://github.com/chengstone/cchess-zero)                           | 2020-09-10 | Python     | 2020-12-28   |
 
 <!--END_SECTION:my_github-->
