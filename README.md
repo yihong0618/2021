@@ -63,3 +63,13 @@
 | 10 | [garmin-connect-export](https://github.com/pe-st/garmin-connect-export)  | 2020-09-21 | Python           | 2021-01-02   |
 
 <!--END_SECTION:my_github-->
+
+## 刷剧
+
+- [《弥留之际的爱丽丝》](https://movie.douban.com/subject/34477588/)
+- [《后翼弃兵》](https://movie.douban.com/subject/32579283/)
+
+## 做饭
+
+- 包饺子 2021.01.01
+- 香菇油菜 2021.01.02
