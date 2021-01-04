@@ -76,3 +76,17 @@
 - 排骨炖土豆 2021.01.03
 - 白菜汤 2021.01.03
 
+
+## 收藏的文章
+| 文章名称 | 添加日期 | type | 备注 |
+| ------- | ------- | ---- | ---- |
+| [500lines-rewrite-interpreter](https://shuhari.dev/blog/2020/12/500lines-rewrite-interpreter) | 2021.01.04 | 技术文章 | 宝藏 |
+
+## 收藏的博客
+| 博客名称 | 添加日期 | type | 备注 |
+| ------- | ------- | ---- | ---- |
+| [SHUHARI 的博客](https://shuhari.dev/blog/) | 2021.01.04 | 重写 500 Lines | 宝藏 |
+
+
+
+
