@@ -81,6 +81,7 @@
 | 文章名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ---- | ---- |
 | [500lines-rewrite-interpreter](https://shuhari.dev/blog/2020/12/500lines-rewrite-interpreter) | 2021.01.04 | 技术文章 | 宝藏 |
+| [52020 年终总结](https://blog.changkun.de/posts/2020-summary/) | 2021.01.05 | 年终总结 | 思考我的人生 |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
