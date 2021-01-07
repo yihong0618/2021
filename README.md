@@ -87,6 +87,8 @@
 
 ## 写博客
 <!--START_SECTION:my_blog-->
+- [2021 开始。](https://github.com/yihong0618/gitblog/issues/200)--2021-01-04
+
 <!--END_SECTION:my_blog-->
 
 ## 收藏的文章
