@@ -38,10 +38,9 @@ jobs:
         if: steps.pip-cache.outputs.cache-hit != 'true'
 
       - name: Replace README
-        if: contains(github.event.issue.labels.*.name, ${{ env.COOK_LABEL }}) && github.event.comment.user.login == ${{ github.repository_owner }}
         run: |
           source venv/bin/activate
-          python main.py ${{ secrets.G_T }} ${{ github.repository }} 
+          python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_numbe '${{ github.event.issue.number }}'
       - name: Push new README
         uses: github-actions-x/commit@v2.6
         with:
