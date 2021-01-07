@@ -39,7 +39,8 @@ jobs:
       - name: Replace README
         if: contains(github.event.issue.labels.*.name, ${{ env.COOK_LABEL }}) && github.event.comment.user.login == ${{ github.repository_owner }}
         run: |
-          python3 main.py ${{ secrets.G_T }} ${{ github.repository }}
+          source venv/bin/activate
+          python main.py ${{ secrets.G_T }} ${{ github.repository }}
       - name: Push new README
         uses: github-actions-x/commit@v2.6
         with:
