@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
 
 env:
   GITHUB_NAME: yihong0618
