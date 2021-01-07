@@ -79,6 +79,9 @@
 - [葱爆羊肉](https://github.com/yihong0618/2021/issues/1#issuecomment-755339449) 2021-01-06
 - [火爆大头菜](https://github.com/yihong0618/2021/issues/1#issuecomment-755339940) 2021-01-06
 - [炒土豆片](https://github.com/yihong0618/2021/issues/1#issuecomment-755343687) 2021-01-06
+- [蚝油茼蒿](https://github.com/yihong0618/2021/issues/1#issuecomment-755977027) 2021-01-07
+- [蝴蝶面](https://github.com/yihong0618/2021/issues/1#issuecomment-755978839) 2021-01-07
+- [炒玉米粒](https://github.com/yihong0618/2021/issues/1#issuecomment-755988916) 2021-01-07
 <!--END_SECTION:my_cook-->
 
 ## 写博客
