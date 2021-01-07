@@ -82,6 +82,7 @@
 - [蚝油茼蒿](https://github.com/yihong0618/2021/issues/1#issuecomment-755977027) 2021-01-07
 - [蝴蝶面](https://github.com/yihong0618/2021/issues/1#issuecomment-755978839) 2021-01-07
 - [炒玉米粒](https://github.com/yihong0618/2021/issues/1#issuecomment-755988916) 2021-01-07
+- [拌黄瓜](https://github.com/yihong0618/2021/issues/1#issuecomment-756157190) 2021-01-07
 <!--END_SECTION:my_cook-->
 
 ## 写博客
