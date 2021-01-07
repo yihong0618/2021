@@ -75,12 +75,15 @@
 
 ## 做饭
 
-- 包饺子 2021.01.01
-- 香菇油菜 2021.01.02
-- 排骨炖土豆 2021.01.03
-- 白菜汤 2021.01.03
-- 芸豆炖土豆 2020.01.05
-- 辣白菜五花肉 2020.01.05
+<!--START_SECTION:my_cook-->
+- [葱爆羊肉](https://github.com/yihong0618/2021/issues/1#issuecomment-755339449) 2021-01-06
+- [火爆大头菜](https://github.com/yihong0618/2021/issues/1#issuecomment-755339940) 2021-01-06
+- [炒土豆片](https://github.com/yihong0618/2021/issues/1#issuecomment-755343687) 2021-01-06
+<!--END_SECTION:my_cook-->
+
+## 写博客
+<!--START_SECTION:my_blog-->
+<!--END_SECTION:my_blog-->
 
 ## 收藏的文章
 | 文章名称 | 添加日期 | type | 备注 |
