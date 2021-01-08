@@ -103,6 +103,7 @@
 | 博客名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ---- | ---- |
 | [SHUHARI 的博客](https://shuhari.dev/blog/) | 2021.01.04 | 重写 500 Lines | 宝藏 |
+| [hololive](https://hololive.me/archive/) | 2021.01.08 | 机器学习 | 有趣的大牛 |
 
 
 
