@@ -45,13 +45,13 @@ def parse_blog_title(issue):
     return f"- [{issue.title}]({issue.html_url})--{time}\n"
 
 
-def replace_readme_comments(cook_comment_str, comments_name):
+def replace_readme_comments(comment_str, comments_name):
     with open("README.md", "r+") as f:
         text = f.read()
         # regrex sub from github readme comments
         text = re.sub(
             GITHUB_README_COMMENTS.format(name=comments_name),
-            r"\1{}\n\3".format(cook_comment_str),
+            r"\1{}\n\3".format(comment_str),
             text,
             flags=re.DOTALL,
         )
