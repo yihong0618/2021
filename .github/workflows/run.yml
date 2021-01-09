@@ -17,7 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@v1.1
+        uses: yihong0618/github-readme-stats@v1.2
+        with:
+          WITH_STARED: false
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
