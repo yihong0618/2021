@@ -85,6 +85,7 @@
 - [拌黄瓜](https://github.com/yihong0618/2021/issues/1#issuecomment-756157190) 2021-01-07
 - [菠萝饭](https://github.com/yihong0618/2021/issues/1#issuecomment-757219170) 2021-01-09
 - [田园小炒](https://github.com/yihong0618/2021/issues/1#issuecomment-757219889) 2021-01-09
+- [宫保鸡丁](https://github.com/yihong0618/2021/issues/1#issuecomment-757444820) 2021-01-10
 <!--END_SECTION:my_cook-->
 
 ## 写博客
