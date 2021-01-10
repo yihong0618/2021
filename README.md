@@ -73,6 +73,12 @@
 - [《弥留之际的爱丽丝》](https://movie.douban.com/subject/34477588/)
 - [《后翼弃兵》](https://movie.douban.com/subject/32579283/)
 
+## 观影
+
+<!--START_SECTION:my_movie-->
+<!--END_SECTION:my_movie-->
+
+
 ## 做饭
 
 <!--START_SECTION:my_cook-->
