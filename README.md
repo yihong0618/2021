@@ -102,9 +102,7 @@
 ## 写博客
 <!--START_SECTION:my_blog-->
 - [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201)--2021-01-08
-
 - [2021 开始。](https://github.com/yihong0618/gitblog/issues/200)--2021-01-04
-
 <!--END_SECTION:my_blog-->
 
 ## 收藏的文章
