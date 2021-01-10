@@ -86,6 +86,8 @@
 - [菠萝饭](https://github.com/yihong0618/2021/issues/1#issuecomment-757219170) 2021-01-09
 - [田园小炒](https://github.com/yihong0618/2021/issues/1#issuecomment-757219889) 2021-01-09
 - [宫保鸡丁](https://github.com/yihong0618/2021/issues/1#issuecomment-757444820) 2021-01-10
+- [地三鲜](https://github.com/yihong0618/2021/issues/1#issuecomment-757444911) 2021-01-10
+- [油焖虾](https://github.com/yihong0618/2021/issues/1#issuecomment-757445255) 2021-01-10
 <!--END_SECTION:my_cook-->
 
 ## 写博客
