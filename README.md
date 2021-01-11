@@ -97,6 +97,7 @@
 - [宫保鸡丁](https://github.com/yihong0618/2021/issues/1#issuecomment-757444820) 2021-01-10
 - [地三鲜](https://github.com/yihong0618/2021/issues/1#issuecomment-757444911) 2021-01-10
 - [油焖虾](https://github.com/yihong0618/2021/issues/1#issuecomment-757445255) 2021-01-10
+- [烤金针菇](https://github.com/yihong0618/2021/issues/1#issuecomment-757942949) 2021-01-11
 <!--END_SECTION:my_cook-->
 
 ## 写博客
