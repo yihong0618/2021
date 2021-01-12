@@ -50,7 +50,7 @@ def get_repo(user: Github, repo: str):
 
 def to_add_spaces(longest_str_len, title):
     spaces = " " * (longest_str_len + 1 - len(title))
-    return spaces + "-->" + spaces
+    return spaces + "-->" + "  "
 
 
 def parse_comment_title(comment_body, comment_url, create_time, longest_str_len):
