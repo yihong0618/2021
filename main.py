@@ -68,7 +68,7 @@ def parse_blog_title(issue, longest_str_len):
     title = issue.title
     return (
         f"- [{title}]({issue.html_url})"
-        + to_add_spaces(title, longest_str_len)
+        + to_add_spaces(longest_str_len, title)
         + format_time(issue.created_at)
     )
 
