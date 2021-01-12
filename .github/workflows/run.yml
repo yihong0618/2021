@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@v1.2
+        uses: yihong0618/github-readme-stats@v1.1
         with:
           WITH_STARED: false
           TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
