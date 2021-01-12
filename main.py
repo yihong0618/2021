@@ -49,13 +49,16 @@ def get_repo(user: Github, repo: str):
 
 
 def to_add_spaces(longest_str_len, title):
-    spaces = " " * (longest_str_len + 1 - len(title))
-    return spaces + "-->" + "  "
+    # 这是个全角的空格
+    spaces = "　" * (longest_str_len + 1 - len(title)) 
+    return spaces + "-->" + "　"
 
 
 def parse_comment_title(comment_body, comment_url, create_time, longest_str_len):
     title = comment_body.split("\r\n")[0]
     # format markdown with same length
+    print(f"- [{title}]({comment_url})"
+        + to_add_spaces(longest_str_len, title))
     return (
         f"- [{title}]({comment_url})"
         + to_add_spaces(longest_str_len, title)
