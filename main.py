@@ -57,8 +57,6 @@ def to_add_spaces(longest_str_len, title):
 def parse_comment_title(comment_body, comment_url, create_time, longest_str_len):
     title = comment_body.split("\r\n")[0]
     # format markdown with same length
-    print(f"- [{title}]({comment_url})"
-        + to_add_spaces(longest_str_len, title))
     return (
         f"- [{title}]({comment_url})"
         + to_add_spaces(longest_str_len, title)
