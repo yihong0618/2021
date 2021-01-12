@@ -105,6 +105,7 @@
 - [烤金针菇](https://github.com/yihong0618/2021/issues/1#issuecomment-757942949)　　-->　2021-01-11
 - [速冻饺子](https://github.com/yihong0618/2021/issues/1#issuecomment-758333214)　　-->　2021-01-12
 - [韭菜炒豆芽](https://github.com/yihong0618/2021/issues/1#issuecomment-758654272)　-->　2021-01-12
+- [炒菜花](https://github.com/yihong0618/2021/issues/1#issuecomment-758656836)　　　-->　2021-01-12
 <!--END_SECTION:my_cook-->
 
 ## 写博客
