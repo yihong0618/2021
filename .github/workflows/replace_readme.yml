@@ -3,7 +3,7 @@ name: Replace README
 on:
   workflow_dispatch:
   issue_comment:
-    types: [created, edit]
+    types: [created, edited]
 
 env:
   GITHUB_NAME: yihong0618
