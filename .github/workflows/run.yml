@@ -20,6 +20,8 @@ jobs:
         uses: yihong0618/github-readme-stats@v1.2
         with:
           WITH_STARED: false
+          TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
