@@ -76,9 +76,9 @@
 ## 观影
 
 <!--START_SECTION:my_movie-->
-- [《汽车总动员2》](https://github.com/yihong0618/2021/issues/2#issuecomment-757446059)　　-->　2021-01-10
-- [《汽车总动员1》](https://github.com/yihong0618/2021/issues/2#issuecomment-757454250)　　-->　2021-01-10
-- [《送你一朵小红花》](https://github.com/yihong0618/2021/issues/2#issuecomment-757455042)　-->　2021-01-10
+- [《汽车总动员第一部》](https://github.com/yihong0618/2021/issues/2#issuecomment-757446059)　-->　2021-01-10
+- [《汽车总动员第二部》](https://github.com/yihong0618/2021/issues/2#issuecomment-757454250)　-->　2021-01-10
+- [《送你一朵小红花》](https://github.com/yihong0618/2021/issues/2#issuecomment-757455042)　　-->　2021-01-10
 <!--END_SECTION:my_movie-->
 
 ## 读书
