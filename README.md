@@ -90,19 +90,20 @@
 ## 做饭
 
 <!--START_SECTION:my_cook-->
-- [葱爆羊肉](https://github.com/yihong0618/2021/issues/1#issuecomment-755339449) 2021-01-06
-- [火爆大头菜](https://github.com/yihong0618/2021/issues/1#issuecomment-755339940) 2021-01-06
-- [炒土豆片](https://github.com/yihong0618/2021/issues/1#issuecomment-755343687) 2021-01-06
-- [蚝油茼蒿](https://github.com/yihong0618/2021/issues/1#issuecomment-755977027) 2021-01-07
-- [蝴蝶面](https://github.com/yihong0618/2021/issues/1#issuecomment-755978839) 2021-01-07
-- [炒玉米粒](https://github.com/yihong0618/2021/issues/1#issuecomment-755988916) 2021-01-07
-- [拌黄瓜](https://github.com/yihong0618/2021/issues/1#issuecomment-756157190) 2021-01-07
-- [菠萝饭](https://github.com/yihong0618/2021/issues/1#issuecomment-757219170) 2021-01-09
-- [田园小炒](https://github.com/yihong0618/2021/issues/1#issuecomment-757219889) 2021-01-09
-- [宫保鸡丁](https://github.com/yihong0618/2021/issues/1#issuecomment-757444820) 2021-01-10
-- [地三鲜](https://github.com/yihong0618/2021/issues/1#issuecomment-757444911) 2021-01-10
-- [油焖虾](https://github.com/yihong0618/2021/issues/1#issuecomment-757445255) 2021-01-10
-- [烤金针菇](https://github.com/yihong0618/2021/issues/1#issuecomment-757942949) 2021-01-11
+- [葱爆羊肉](https://github.com/yihong0618/2021/issues/1#issuecomment-755339449)  -->  2021-01-06
+- [火爆大头菜](https://github.com/yihong0618/2021/issues/1#issuecomment-755339940) --> 2021-01-06
+- [炒土豆片](https://github.com/yihong0618/2021/issues/1#issuecomment-755343687)  -->  2021-01-06
+- [蚝油茼蒿](https://github.com/yihong0618/2021/issues/1#issuecomment-755977027)  -->  2021-01-07
+- [蝴蝶面](https://github.com/yihong0618/2021/issues/1#issuecomment-755978839)   -->   2021-01-07
+- [炒玉米粒](https://github.com/yihong0618/2021/issues/1#issuecomment-755988916)  -->  2021-01-07
+- [拌黄瓜](https://github.com/yihong0618/2021/issues/1#issuecomment-756157190)   -->   2021-01-07
+- [菠萝饭](https://github.com/yihong0618/2021/issues/1#issuecomment-757219170)   -->   2021-01-09
+- [田园小炒](https://github.com/yihong0618/2021/issues/1#issuecomment-757219889)  -->  2021-01-09
+- [宫保鸡丁](https://github.com/yihong0618/2021/issues/1#issuecomment-757444820)  -->  2021-01-10
+- [地三鲜](https://github.com/yihong0618/2021/issues/1#issuecomment-757444911)   -->   2021-01-10
+- [油焖虾](https://github.com/yihong0618/2021/issues/1#issuecomment-757445255)   -->   2021-01-10
+- [烤金针菇](https://github.com/yihong0618/2021/issues/1#issuecomment-757942949)  -->  2021-01-11
+- [速冻饺子](https://github.com/yihong0618/2021/issues/1#issuecomment-758333214)  -->  2021-01-12
 <!--END_SECTION:my_cook-->
 
 ## 写博客
