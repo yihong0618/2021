@@ -108,6 +108,7 @@
 - [炒菜花](https://github.com/yihong0618/2021/issues/1#issuecomment-758656836)　　　-->　2021-01-12
 - [蛋炒饭](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270)　　　-->　2021-01-13
 - [韭菜炒鱿鱼](https://github.com/yihong0618/2021/issues/1#issuecomment-759561262)　-->　2021-01-13
+- [芝士鸡蛋卷](https://github.com/yihong0618/2021/issues/1#issuecomment-760578692)　-->　2021-01-15
 <!--END_SECTION:my_cook-->
 
 ## 写博客
