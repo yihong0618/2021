@@ -44,7 +44,7 @@ jobs:
         uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{ secrets.G_T }}
-          commit-message: "Refresh README (GITHUB STATUS)"
+          commit-message: "Refresh README (2021 NUM Daily)"
           files: README.md
           rebase: "true"
           name: ${{ env.GITHUB_NAME }}

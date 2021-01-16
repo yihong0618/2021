@@ -15,7 +15,7 @@ MY_NUMBER_STAT_HEAD = (
 MY_NUMBER_STAT_TEMPLATE = "| {name} | {total} | {streak} | {today} |\n"
 
 # this is a tricky ->  [a, b][False] => [a] [a, b][True] => [b]
-YES_OR_NO_LIST = ["NO", "YES"]
+NO_OR_YES_LIST = ["NO", "YES"]
 
 
 def get_shanbay_today_info():
@@ -117,15 +117,15 @@ def main(duolingo_user_name, duolingo_password):
     )
     str_shanbay = MY_NUMBER_STAT_TEMPLATE.format(
         name="扇贝",
-        total=shanbay_total,
+        total=str(shanbay_total) + "(Days)",
         streak=shanbay_streak,
-        today=YES_OR_NO_LIST[shanbay_today_check],
+        today=NO_OR_YES_LIST[shanbay_today_check],
     )
     str_duolingo = MY_NUMBER_STAT_TEMPLATE.format(
         name="多邻国",
-        total=duolingo_total,
+        total=str(duolingo_total) + "(Points)",
         streak=duolingo_streak,
-        today=YES_OR_NO_LIST[duolingo_today_check],
+        today=NO_OR_YES_LIST[duolingo_today_check],
     )
     my_num_stat_str = MY_NUMBER_STAT_HEAD + str_shanbay + str_duolingo
 
