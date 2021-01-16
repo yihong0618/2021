@@ -7,7 +7,7 @@
 | Name | Total | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | 扇贝 | 887 | 14 | NO |
-| 多邻国 | 841 | 7 | NO |
+| 多邻国 | 855 | 8 | YES |
 
 <!--END_SECTION:my_number-->
 
