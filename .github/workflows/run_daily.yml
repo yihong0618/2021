@@ -1,4 +1,4 @@
-name: Go
+name: Get Daily
 
 on:
   workflow_dispatch:
@@ -15,6 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.6
       - name: Configure pip cache
         uses: actions/cache@v1
         id: pip-cache
