@@ -117,13 +117,13 @@ def main(duolingo_user_name, duolingo_password):
     )
     str_shanbay = MY_NUMBER_STAT_TEMPLATE.format(
         name="扇贝",
-        total=str(shanbay_total) + "(Days)",
+        total=str(shanbay_total) + " (Days)",
         streak=shanbay_streak,
         today=NO_OR_YES_LIST[shanbay_today_check],
     )
     str_duolingo = MY_NUMBER_STAT_TEMPLATE.format(
         name="多邻国",
-        total=str(duolingo_total) + "(Points)",
+        total=str(duolingo_total) + " (Points)",
         streak=duolingo_streak,
         today=NO_OR_YES_LIST[duolingo_today_check],
     )
