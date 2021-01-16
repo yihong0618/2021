@@ -4,6 +4,11 @@
 ## 我的数字
 
 <!--START_SECTION:my_number-->
+| Name | Total | Streak | Today? | 
+ | ---- | ---- | ---- | ---- |
+| 扇贝 | 887 | 14 | NO |
+| 多邻国 | 841 | 7 | NO |
+
 <!--END_SECTION:my_number-->
 
 ## 跑步
