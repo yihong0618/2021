@@ -1,6 +1,11 @@
 # 2021
 关于我的2021的一些记录。想做就尽量去做，不要辜负自己好奇心。Be Nice.
 
+## 我的数字
+
+<!--START_SECTION:my_number-->
+<!--END_SECTION:my_number-->
+
 ## 跑步
 
 ![](https://github.com/yihong0618/blog/blob/master/assets/github_2021.svg)

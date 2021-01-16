@@ -1,31 +1,11 @@
 # -*- coding: utf-8 -*-
 import argparse
 from datetime import datetime
-import re
 
 from github import Github
 
-
-COOK_LABEL_LIST = [
-    "Cook",
-]
-MOVIE_LABEL_LIST = [
-    "Movie",
-]
-READ_LABEL_LIST = [
-    "Read",
-]
-MY_BLOG_REPO = "yihong0618/gitblog"
-GITHUB_README_COMMENTS = (
-    "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
-)
-
-# add new label here
-LABEL_DICT = {
-    "Cook": {"label_list": COOK_LABEL_LIST, "comment_name": "my_cook"},
-    "Movie": {"label_list": MOVIE_LABEL_LIST, "comment_name": "my_movie"},
-    "Read": {"label_list": READ_LABEL_LIST, "comment_name": "my_read"},
-}
+from config import LABEL_DICT, MY_BLOG_REPO
+from utils import replace_readme_comments
 
 
 def get_me(user):
@@ -50,7 +30,7 @@ def get_repo(user: Github, repo: str):
 
 def to_add_spaces(longest_str_len, title):
     # 这是个全角的空格
-    spaces = "　" * (longest_str_len + 1 - len(title)) 
+    spaces = "　" * (longest_str_len + 1 - len(title))
     return spaces + "-->" + "　"
 
 
@@ -71,21 +51,6 @@ def parse_blog_title(issue, longest_str_len):
         + to_add_spaces(longest_str_len, title)
         + format_time(issue.created_at)
     )
-
-
-def replace_readme_comments(comment_str, comments_name):
-    with open("README.md", "r+") as f:
-        text = f.read()
-        # regrex sub from github readme comments
-        text = re.sub(
-            GITHUB_README_COMMENTS.format(name=comments_name),
-            r"\1{}\n\3".format(comment_str),
-            text,
-            flags=re.DOTALL,
-        )
-        f.seek(0)
-        f.write(text)
-        f.truncate()
 
 
 def main(github_token, repo_name, issue_number, issue_label_name):
@@ -114,6 +79,7 @@ def main(github_token, repo_name, issue_number, issue_label_name):
         ]
         comments_name = labels.get("comment_name", "")
     else:
+        # from 2021
         since = datetime(2021, 1, 1)
         issues = u.get_repo(MY_BLOG_REPO).get_issues(since=since, creator=me)
         comment_list = []
