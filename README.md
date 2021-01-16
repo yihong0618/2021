@@ -109,6 +109,7 @@
 - [蛋炒饭](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270)　　　-->　2021-01-13
 - [韭菜炒鱿鱼](https://github.com/yihong0618/2021/issues/1#issuecomment-759561262)　-->　2021-01-13
 - [芝士鸡蛋卷](https://github.com/yihong0618/2021/issues/1#issuecomment-760578692)　-->　2021-01-15
+- [红烧肉](https://github.com/yihong0618/2021/issues/1#issuecomment-761529378)　　　-->　2021-01-16
 <!--END_SECTION:my_cook-->
 
 ## 写博客
