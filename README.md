@@ -6,8 +6,8 @@
 <!--START_SECTION:my_number-->
 | Name | Total | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| 扇贝 | 887 | 14 | NO |
-| 多邻国 | 855 | 8 | YES |
+| 扇贝 | 888(Days) | 15 | YES |
+| 多邻国 | 855(Points) | 8 | YES |
 
 <!--END_SECTION:my_number-->
 
