@@ -51,30 +51,30 @@
 |  4 | [nrc-exporter](https://github.com/yasoob/nrc-exporter)                    | 2020-07-05 | 2020-10-07 | [5](https://github.com/yasoob/nrc-exporter/pulls?q=is%3Apr+author%3Ayihong0618)                 |
 |  5 | [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)         | 2020-08-04 | 2020-08-10 | [3](https://github.com/ElaWorkshop/awesome-cn-cafe/pulls?q=is%3Apr+author%3Ayihong0618)         |
 |  6 | [kb](https://github.com/gnebbia/kb)                                       | 2020-09-21 | 2020-09-23 | [3](https://github.com/gnebbia/kb/pulls?q=is%3Apr+author%3Ayihong0618)                          |
-|  7 | [iredis](https://github.com/laixintao/iredis)                             | 2019-12-30 | 2020-09-16 | [2](https://github.com/laixintao/iredis/pulls?q=is%3Apr+author%3Ayihong0618)                    |
-|  8 | [activities](https://github.com/flopp/activities)                         | 2020-07-09 | 2020-07-14 | [2](https://github.com/flopp/activities/pulls?q=is%3Apr+author%3Ayihong0618)                    |
-|  9 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 | [1](https://github.com/wenyan-lang/highlight/pulls?q=is%3Apr+author%3Ayihong0618)               |
-| 10 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 | [1](https://github.com/jackiewillen/build-your-own-vue/pulls?q=is%3Apr+author%3Ayihong0618)     |
+|  7 | [activities](https://github.com/flopp/activities)                         | 2020-07-09 | 2020-07-14 | [2](https://github.com/flopp/activities/pulls?q=is%3Apr+author%3Ayihong0618)                    |
+|  8 | [iredis](https://github.com/laixintao/iredis)                             | 2019-12-30 | 2020-09-16 | [2](https://github.com/laixintao/iredis/pulls?q=is%3Apr+author%3Ayihong0618)                    |
+|  9 | [TopList](https://github.com/tophubs/TopList)                             | 2019-08-19 | 2019-08-19 | [1](https://github.com/tophubs/TopList/pulls?q=is%3Apr+author%3Ayihong0618)                     |
+| 10 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 | [1](https://github.com/flopp/py-staticmaps/pulls?q=is%3Apr+author%3Ayihong0618)                 |
 | 11 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                     | 2019-09-25 | 2019-09-25 | [1](https://github.com/rabbitism/GadioVideo/pulls?q=is%3Apr+author%3Ayihong0618)                |
-| 12 | [LearnJapan](https://github.com/wizicer/LearnJapan)                       | 2020-03-31 | 2020-03-31 | [1](https://github.com/wizicer/LearnJapan/pulls?q=is%3Apr+author%3Ayihong0618)                  |
-| 13 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 | [1](https://github.com/xiaolai/help-to-be-helped/pulls?q=is%3Apr+author%3Ayihong0618)           |
-| 14 | [TopList](https://github.com/tophubs/TopList)                             | 2019-08-19 | 2019-08-19 | [1](https://github.com/tophubs/TopList/pulls?q=is%3Apr+author%3Ayihong0618)                     |
-| 15 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 | [1](https://github.com/flopp/py-staticmaps/pulls?q=is%3Apr+author%3Ayihong0618)                 |
-| 16 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 | [1](https://github.com/antfu/awesome-cn-cafe-web/pulls?q=is%3Apr+author%3Ayihong0618)           |
+| 12 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 | [1](https://github.com/wenyan-lang/highlight/pulls?q=is%3Apr+author%3Ayihong0618)               |
+| 13 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 | [1](https://github.com/antfu/awesome-cn-cafe-web/pulls?q=is%3Apr+author%3Ayihong0618)           |
+| 14 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 | [1](https://github.com/xiaolai/help-to-be-helped/pulls?q=is%3Apr+author%3Ayihong0618)           |
+| 15 | [LearnJapan](https://github.com/wizicer/LearnJapan)                       | 2020-03-31 | 2020-03-31 | [1](https://github.com/wizicer/LearnJapan/pulls?q=is%3Apr+author%3Ayihong0618)                  |
+| 16 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 | [1](https://github.com/jackiewillen/build-your-own-vue/pulls?q=is%3Apr+author%3Ayihong0618)     |
 
 ## The repos I stared (random 10)
-| ID |                                                      REPO                                                       | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [spug](https://github.com/openspug/spug)                                                                        | 2019-07-31 | JavaScript       | 2021-01-17   |
-|  2 | [pyob2019](https://github.com/fluentpython/pyob2019)                                                            | 2019-09-22 | Jupyter Notebook | 2020-12-15   |
-|  3 | [SQL-exercise](https://github.com/XD-DENG/SQL-exercise)                                                         | 2017-07-17 | TSQL             | 2021-01-15   |
-|  4 | [data-visualize-chain](https://github.com/Honlan/data-visualize-chain)                                          | 2017-06-05 | PLpgSQL          | 2020-12-23   |
-|  5 | [E-ink-esp32-arduino-weather-time-note](https://github.com/Eddddddddy/E-ink-esp32-arduino-weather-time-note)    | 2020-09-05 | C                | 2021-01-17   |
-|  6 | [kubernetes-learning](https://github.com/cnych/kubernetes-learning)                                             | 2019-11-11 | Dockerfile       | 2021-01-16   |
-|  7 | [The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 2020-03-24 | Go               | 2021-01-17   |
-|  8 | [Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)                                | 2019-03-07 | md               | 2021-01-14   |
-|  9 | [snake-ai](https://github.com/Hawstein/snake-ai)                                                                | 2017-09-16 | Python           | 2020-12-17   |
-| 10 | [douyin](https://github.com/cnbattle/douyin)                                                                    | 2019-09-02 | Go               | 2021-01-14   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|-----------|--------------|
+|  1 | [broadcaster](https://github.com/encode/broadcaster)                        | 2020-03-04 | Python    | 2021-01-17   |
+|  2 | [python-guide](https://github.com/realpython/python-guide)                  | 2017-06-13 | Batchfile | 2021-01-17   |
+|  3 | [rentomatic](https://github.com/lgiordani/rentomatic)                       | 2019-12-10 | Python    | 2021-01-17   |
+|  4 | [trio](https://github.com/python-trio/trio)                                 | 2018-05-05 | Python    | 2021-01-16   |
+|  5 | [diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) | 2019-08-23 | Python    | 2021-01-15   |
+|  6 | [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)      | 2020-12-07 | Python    | 2021-01-17   |
+|  7 | [hosts](https://github.com/googlehosts/hosts)                               | 2019-09-17 | md        | 2021-01-17   |
+|  8 | [momo](https://github.com/gusibi/momo)                                      | 2018-09-07 | Python    | 2020-12-15   |
+|  9 | [dumbo](https://github.com/klbostee/dumbo)                                  | 2017-08-02 | Python    | 2021-01-13   |
+| 10 | [lsbate](https://github.com/mozillazg/lsbate)                               | 2019-05-14 | Python    | 2019-05-14   |
 
 <!--END_SECTION:my_github-->
 
