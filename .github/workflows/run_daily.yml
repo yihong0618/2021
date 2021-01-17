@@ -14,6 +14,10 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
+      - name: agu
+        run: sudo apt-get update
+      - name: install ffmpeg
+        run: sudo apt-get install ffmpeg
       - uses: actions/checkout@v2
       - name: My GitHub Status
         uses: yihong0618/github-readme-stats@v1.1
@@ -44,8 +48,7 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
-          python get_daily.py ${{ secrets.DUOLINGO_USERNAME }} ${{ secrets.DUOLINGO_PASSWORD }}
-        
+          python get_daily.py ${{ secrets.DUOLINGO_USERNAME }} ${{ secrets.DUOLINGO_PASSWORD }} ${{ secrets.TELE_TOKEN }} ${{ secrets.TELE_CHAT_ID }}
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
@@ -55,3 +58,15 @@ jobs:
           rebase: "true"
           name: ${{ env.GITHUB_NAME }}
           email: ${{ env.GITHUB_EMAIL }}
+
+      - name: Check file existence
+        id: check_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "MP3_NEW/1.mp3"
+      - name: use ffmpeg combine and send
+        id: setup-ffmpeg
+        run: | 
+          ffmpeg -y -f concat -safe 0 -i <(find "$(pwd)"/MP3_NEW -iname "*.mp3" -printf "file "%p"\n" | sort) -c copy "$(pwd)"/$(date +"%m%d")_new_words.mp3
+          curl -v -F "chat_id=${{ secrets.TELE_CHAT_ID }}" -F document=@$(date +"%m%d")_new_words.mp3 https://api.telegram.org/bot${{ secrets.TELE_TOKEN }}/sendDocument
+        if: steps.check_files.outputs.files_exists == 'true'

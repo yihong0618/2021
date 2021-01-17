@@ -1,5 +1,7 @@
 import argparse
+import os
 from getpass import getpass
+from pprint import pprint
 
 import pendulum
 import requests
@@ -106,7 +108,32 @@ def get_duolingo_daily(session, name):
     return level_progress, streak, is_today_check
 
 
-def main(duolingo_user_name, duolingo_password):
+def get_duolingo_words_and_save_mp3(session, latest_num=100):
+    r = session.get("https://www.duolingo.com/vocabulary/overview")
+    if not r.ok:
+        raise Exception("get duolingo words failed")
+    words = r.json()["vocab_overview"]
+    words_list = []
+    i = 1
+    for w in words[:latest_num]:
+        if w["normalized_string"] == "<*sf>":
+            continue
+        words_list.append(w["word_string"])
+        try:
+            word_info = session.get(
+                f"https://www.duolingo.com/api/1/dictionary_page?lexeme_id={w['lexeme_id']}"
+            ).json()
+            mp3_content = requests.get(word_info["tts"])
+            with open(os.path.join("MP3_NEW", str(i) + ".mp3"), "wb") as f:
+                f.write(mp3_content.content)
+            i += 1
+        except:
+            pass
+    if words_list:
+        return "\n".join(words_list)
+
+
+def main(duolingo_user_name, duolingo_password, tele_token, tele_chat_id):
     shanbay_total, shanbay_today_check = get_shanbay_today_info()
     shanbay_streak = get_shanbay_streak()
     s, duolingo_name = get_duolingo_session_and_name(
@@ -128,7 +155,18 @@ def main(duolingo_user_name, duolingo_password):
         today=NO_OR_YES_LIST[duolingo_today_check],
     )
     my_num_stat_str = MY_NUMBER_STAT_HEAD + str_shanbay + str_duolingo
-
+    duolingo_words = get_duolingo_words_and_save_mp3(s)
+    if duolingo_words:
+        duolingo_words = "New words\n" + duolingo_words
+        requests.post(
+            url="https://api.telegram.org/bot{0}/{1}".format(tele_token, "sendMessage"),
+            data={"chat_id": tele_chat_id, "text": duolingo_words},
+        )
+    if not (shanbay_today_check and duolingo_today_check):
+        requests.post(
+            url="https://api.telegram.org/bot{0}/{1}".format(tele_token, "sendMessage"),
+            data={"chat_id": tele_chat_id, "text": "今天还没完成 streak 请注意"},
+        )
     replace_readme_comments(my_num_stat_str, "my_number")
 
 
@@ -136,5 +174,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("duolingo_user_name", help="duolingo_user_name")
     parser.add_argument("duolingo_password", help="duolingo_password")
+    parser.add_argument("tele_token", help="tele_token")
+    parser.add_argument("tele_chat_id", help="tele_chat_id")
     options = parser.parse_args()
-    main(options.duolingo_user_name, options.duolingo_password)
+    main(
+        options.duolingo_user_name,
+        options.duolingo_password,
+        options.tele_token,
+        options.tele_chat_id,
+    )
