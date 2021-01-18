@@ -8,7 +8,10 @@ READ_LABEL_LIST = [
     "Read",
 ]
 DRAMA_LABEL_LIST = [
-    "Drama`",
+    "Drama",
+]
+PUSHUP_LABEL_LIST = [
+    "PushUps",
 ]
 MY_BLOG_REPO = "yihong0618/gitblog"
 GITHUB_README_COMMENTS = (

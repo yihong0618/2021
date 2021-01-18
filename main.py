@@ -24,10 +24,6 @@ def login(token):
     return Github(token)
 
 
-def get_repo(user: Github, repo: str):
-    return user.get_repo(repo)
-
-
 def to_add_spaces(longest_str_len, title):
     # 这是个全角的空格
     spaces = "　" * (longest_str_len + 1 - len(title))

@@ -1,11 +1,12 @@
 import argparse
 import os
 from getpass import getpass
-from pprint import pprint
 
 import pendulum
 import requests
+from github import Github
 
+from config import PUSHUP_LABEL_LIST
 from utils import replace_readme_comments
 
 MY_SHANBAY_USER_NAME = "ufewz"
@@ -133,7 +134,48 @@ def get_duolingo_words_and_save_mp3(session, latest_num=100):
         return "\n".join(words_list)
 
 
-def main(duolingo_user_name, duolingo_password, tele_token, tele_chat_id):
+def get_push_up_daily(github_token, repo_name):
+    u = Github(github_token)
+    issues = u.get_repo(repo_name).get_issues(labels=PUSHUP_LABEL_LIST)
+    push_up_total = 0
+    push_up_date_list = []
+    for issue in issues:
+        comments = issue.get_comments()
+        for c in comments:
+            push_up_number_str = c.body.split("\r\n")[0]
+            try:
+                push_up_number = int(push_up_number_str)
+            except:
+                continue
+            push_up_total += push_up_number
+            push_up_date_list.append(c.created_at)
+    end_date = pendulum.now("Asia/Shanghai")
+    date_str_list = [pendulum.instance(i).to_date_string() for i in push_up_date_list]
+    is_today_check = False
+    streak = 0
+    if end_date.to_date_string() in date_str_list:
+        is_today_check = True
+        streak += 1
+    periods = list(
+        pendulum.period(
+            pendulum.instance(push_up_date_list[-1]), end_date.subtract(days=1)
+        )
+    )
+    for p in periods:
+        if p.to_date_string() not in date_str_list:
+            break
+        streak += 1
+    return push_up_total, streak, is_today_check
+
+
+def main(
+    duolingo_user_name,
+    duolingo_password,
+    tele_token,
+    tele_chat_id,
+    github_token,
+    repo_name,
+):
     shanbay_total, shanbay_today_check = get_shanbay_today_info()
     shanbay_streak = get_shanbay_streak()
     s, duolingo_name = get_duolingo_session_and_name(
@@ -141,6 +183,9 @@ def main(duolingo_user_name, duolingo_password, tele_token, tele_chat_id):
     )
     duolingo_total, duolingo_streak, duolingo_today_check = get_duolingo_daily(
         s, duolingo_name
+    )
+    push_up_total, push_up_streak, push_up_totay_check = get_push_up_daily(
+        github_token, repo_name
     )
     str_shanbay = MY_NUMBER_STAT_TEMPLATE.format(
         name="扇贝",
@@ -153,6 +198,12 @@ def main(duolingo_user_name, duolingo_password, tele_token, tele_chat_id):
         total=str(duolingo_total) + " (Points)",
         streak=duolingo_streak,
         today=NO_OR_YES_LIST[duolingo_today_check],
+    )
+    str_push_up = MY_NUMBER_STAT_TEMPLATE.format(
+        name="俯卧撑",
+        total=str(push_up_total) + " (number)",
+        streak=push_up_streak,
+        today=NO_OR_YES_LIST[push_up_totay_check],
     )
     my_num_stat_str = MY_NUMBER_STAT_HEAD + str_shanbay + str_duolingo
     duolingo_words = get_duolingo_words_and_save_mp3(s)
@@ -176,10 +227,14 @@ if __name__ == "__main__":
     parser.add_argument("duolingo_password", help="duolingo_password")
     parser.add_argument("tele_token", help="tele_token")
     parser.add_argument("tele_chat_id", help="tele_chat_id")
+    parser.add_argument("github_token", help="github_token")
+    parser.add_argument("repo_name", help="repo_name")
     options = parser.parse_args()
     main(
         options.duolingo_user_name,
         options.duolingo_password,
         options.tele_token,
         options.tele_chat_id,
+        options.github_token,
+        options.repo_name,
     )
