@@ -205,7 +205,7 @@ def main(
         streak=push_up_streak,
         today=NO_OR_YES_LIST[push_up_totay_check],
     )
-    my_num_stat_str = MY_NUMBER_STAT_HEAD + str_shanbay + str_duolingo
+    my_num_stat_str = MY_NUMBER_STAT_HEAD + str_shanbay + str_duolingo + str_push_up
     duolingo_words = get_duolingo_words_and_save_mp3(s)
     if duolingo_words:
         duolingo_words = "New words\n" + duolingo_words
