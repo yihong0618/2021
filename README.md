@@ -82,8 +82,13 @@
 
 ## 刷剧
 
-- [《弥留之际的爱丽丝》](https://movie.douban.com/subject/34477588/)
-- [《后翼弃兵》](https://movie.douban.com/subject/32579283/)
+<!--START_SECTION:my_drama-->
+<!--END_SECTION:my_drama-->
+
+## 追番
+
+<!--START_SECTION:my_bangumi-->
+<!--END_SECTION:my_bangumi-->
 
 ## 观影
 

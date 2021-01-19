@@ -150,7 +150,10 @@ def get_push_up_daily(github_token, repo_name):
             push_up_total += push_up_number
             push_up_date_list.append(c.created_at)
     end_date = pendulum.now("Asia/Shanghai")
-    date_str_list = [pendulum.instance(i).to_date_string() for i in push_up_date_list]
+    date_str_list = [
+        pendulum.instance(i, "Asia/Shanghai").to_date_string()
+        for i in push_up_date_list
+    ]
     is_today_check = False
     streak = 0
     if end_date.to_date_string() in date_str_list:
@@ -158,13 +161,15 @@ def get_push_up_daily(github_token, repo_name):
         streak += 1
     periods = list(
         pendulum.period(
-            pendulum.instance(push_up_date_list[-1]), end_date.subtract(days=1)
+            pendulum.instance(push_up_date_list[0], "Asia/Shanghai"),
+            end_date.subtract(days=1),
         )
     )
     for p in periods:
         if p.to_date_string() not in date_str_list:
             break
         streak += 1
+    print(streak)
     return push_up_total, streak, is_today_check
 
 

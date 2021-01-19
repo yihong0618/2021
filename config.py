@@ -13,6 +13,9 @@ DRAMA_LABEL_LIST = [
 PUSHUP_LABEL_LIST = [
     "PushUps",
 ]
+BANGUMI_LABEL_LIST = [
+    "PushUps",
+]
 MY_BLOG_REPO = "yihong0618/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
@@ -24,4 +27,5 @@ LABEL_DICT = {
     "Movie": {"label_list": MOVIE_LABEL_LIST, "comment_name": "my_movie"},
     "Read": {"label_list": READ_LABEL_LIST, "comment_name": "my_read"},
     "Drama": {"label_list": DRAMA_LABEL_LIST, "comment_name": "my_drama"},
+    "Bangumi": {"label_list": BANGUMI_LABEL_LIST, "comment_name": "my_bangumi"},
 }
