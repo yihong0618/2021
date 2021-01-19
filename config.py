@@ -14,7 +14,7 @@ PUSHUP_LABEL_LIST = [
     "PushUps",
 ]
 BANGUMI_LABEL_LIST = [
-    "PushUps",
+    "Bangumi",
 ]
 MY_BLOG_REPO = "yihong0618/gitblog"
 GITHUB_README_COMMENTS = (
