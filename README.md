@@ -89,6 +89,7 @@
 ## 追番
 
 <!--START_SECTION:my_bangumi-->
+- [《魔法少女小圆》](https://github.com/yihong0618/2021/issues/6#issuecomment-762793498)　-->　2021-01-19
 <!--END_SECTION:my_bangumi-->
 
 ## 观影
