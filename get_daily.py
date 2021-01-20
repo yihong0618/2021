@@ -142,7 +142,7 @@ def get_push_up_daily(github_token, repo_name):
     for issue in issues:
         comments = issue.get_comments()
         for c in comments:
-            push_up_number_str = c.body.split("\r\n")[0]
+            push_up_number_str = c.body.splitlines()[0]
             try:
                 push_up_number = int(push_up_number_str)
             except:
@@ -159,10 +159,11 @@ def get_push_up_daily(github_token, repo_name):
     if end_date.to_date_string() in date_str_list:
         is_today_check = True
         streak += 1
+        date_str_list.pop()
     periods = list(
         pendulum.period(
             pendulum.instance(push_up_date_list[0], "Asia/Shanghai"),
-            end_date.subtract(days=1),
+            pendulum.instance(push_up_date_list[-1], "Asia/Shanghai"),
         )
     )
     for p in periods:
