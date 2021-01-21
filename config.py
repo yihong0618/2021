@@ -16,6 +16,12 @@ PUSHUP_LABEL_LIST = [
 BANGUMI_LABEL_LIST = [
     "Bangumi",
 ]
+MONEY_LABEL_LIST = [
+    "Money",
+]
+MEDITATION_LABEL_LIST = [
+    "Meditation",
+]
 MY_BLOG_REPO = "yihong0618/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"

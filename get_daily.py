@@ -6,7 +6,7 @@ import pendulum
 import requests
 from github import Github
 
-from config import PUSHUP_LABEL_LIST
+from config import PUSHUP_LABEL_LIST, MONEY_LABEL_LIST, MEDITATION_LABEL_LIST
 from utils import replace_readme_comments
 
 MY_SHANBAY_USER_NAME = "ufewz"
@@ -134,44 +134,42 @@ def get_duolingo_words_and_save_mp3(session, latest_num=100):
         return "\n".join(words_list)
 
 
-def get_push_up_daily(github_token, repo_name):
-    u = Github(github_token)
-    issues = u.get_repo(repo_name).get_issues(labels=PUSHUP_LABEL_LIST)
-    push_up_total = 0
-    push_up_date_list = []
+def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum):
+    issues = u.get_repo(repo_name).get_issues(labels=labels)
+    calendar_list = []
+    data_list = []
     for issue in issues:
         comments = issue.get_comments()
         for c in comments:
-            push_up_number_str = c.body.splitlines()[0]
+            number_str = c.body.splitlines()[0]
             try:
-                push_up_number = int(push_up_number_str)
+                data = map_func(number_str)
+                data_list.append(data)
             except:
                 continue
-            push_up_total += push_up_number
-            push_up_date_list.append(c.created_at)
+            calendar_list.append(c.created_at)
     end_date = pendulum.now("Asia/Shanghai")
-    date_str_list = [
-        pendulum.instance(i, "Asia/Shanghai").to_date_string()
-        for i in push_up_date_list
+    calendar_str_list = [
+        pendulum.instance(i, "Asia/Shanghai").to_date_string() for i in calendar_list
     ]
     is_today_check = False
     streak = 0
-    if end_date.to_date_string() in date_str_list:
+    if end_date.to_date_string() in calendar_str_list:
         is_today_check = True
         streak += 1
-        date_str_list.pop()
+        calendar_str_list.pop()
     periods = list(
         pendulum.period(
-            pendulum.instance(push_up_date_list[0], "Asia/Shanghai"),
-            pendulum.instance(push_up_date_list[-1], "Asia/Shanghai"),
+            pendulum.instance(calendar_list[0], "Asia/Shanghai"),
+            pendulum.instance(calendar_list[-1], "Asia/Shanghai"),
         )
     )
     for p in periods:
-        if p.to_date_string() not in date_str_list:
+        if p.to_date_string() not in calendar_str_list:
             break
         streak += 1
-    print(streak)
-    return push_up_total, streak, is_today_check
+    data = reduce_func(data_list)
+    return data, streak, is_today_check
 
 
 def main(
@@ -190,9 +188,18 @@ def main(
     duolingo_total, duolingo_streak, duolingo_today_check = get_duolingo_daily(
         s, duolingo_name
     )
-    push_up_total, push_up_streak, push_up_totay_check = get_push_up_daily(
-        github_token, repo_name
+    u = Github(github_token)
+    push_up_total, push_up_streak, push_up_totay_check = get_info_from_issue_comments(
+        u, repo_name, PUSHUP_LABEL_LIST, int, sum
     )
+    cost_total, cost_streak, cost_totay_check = get_info_from_issue_comments(
+        u, repo_name, MONEY_LABEL_LIST, float, sum
+    )
+    (
+        meditation_total,
+        meditation_streak,
+        meditation_today_check,
+    ) = get_info_from_issue_comments(u, repo_name, MEDITATION_LABEL_LIST, int, sum)
     str_shanbay = MY_NUMBER_STAT_TEMPLATE.format(
         name="扇贝",
         total=str(shanbay_total) + " (Days)",
@@ -211,7 +218,26 @@ def main(
         streak=push_up_streak,
         today=NO_OR_YES_LIST[push_up_totay_check],
     )
-    my_num_stat_str = MY_NUMBER_STAT_HEAD + str_shanbay + str_duolingo + str_push_up
+    str_cost = MY_NUMBER_STAT_TEMPLATE.format(
+        name="花费",
+        total=str(cost_total) + " (元)",
+        streak=cost_streak,
+        today=NO_OR_YES_LIST[cost_totay_check],
+    )
+    str_meditation = MY_NUMBER_STAT_TEMPLATE.format(
+        name="冥想",
+        total=str(meditation_total) + " (number分钟)",
+        streak=meditation_streak,
+        today=NO_OR_YES_LIST[meditation_today_check],
+    )
+    my_num_stat_str = (
+        MY_NUMBER_STAT_HEAD
+        + str_shanbay
+        + str_duolingo
+        + str_push_up
+        + str_cost
+        + str_meditation
+    )
     duolingo_words = get_duolingo_words_and_save_mp3(s)
     if duolingo_words:
         duolingo_words = "New words\n" + duolingo_words
