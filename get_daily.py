@@ -226,7 +226,7 @@ def main(
     )
     str_meditation = MY_NUMBER_STAT_TEMPLATE.format(
         name="冥想",
-        total=str(meditation_total) + " (number分钟)",
+        total=str(meditation_total) + " (分钟)",
         streak=meditation_streak,
         today=NO_OR_YES_LIST[meditation_today_check],
     )
