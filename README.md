@@ -6,11 +6,11 @@
 <!--START_SECTION:my_number-->
 | Name | Total | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| 扇贝 | 893 (Days) | 20 | YES |
-| 多邻国 | 1035 (Points) | 13 | YES |
-| 俯卧撑 | 99 (number) | 5 | YES |
-| 花费 | 130.9 (元) | 2 | YES |
-| 冥想 | 2 (分钟) | 1 | YES |
+| 扇贝 | 893 (Days) | 20 | NO |
+| 多邻国 | 1047 (Points) | 13 | NO |
+| 俯卧撑 | 99 (number) | 5 | NO |
+| 花费 | 130.9 (元) | 2 | NO |
+| 冥想 | 4 (分钟) | 2 | YES |
 
 <!--END_SECTION:my_number-->
 
@@ -25,7 +25,7 @@
 ## The repos I created
 | ID |                                    REPO                                    |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|----------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [running_page](https://github.com/yihong0618/running_page)                 | 2020-09-17 | 2021-01-21 | Python     |   990 |
+|  1 | [running_page](https://github.com/yihong0618/running_page)                 | 2020-09-17 | 2021-01-21 | Python     |   991 |
 |  2 | [2020](https://github.com/yihong0618/2020)                                 | 2020-01-10 | 2021-01-17 | C          |   100 |
 |  3 | [gaycore](https://github.com/yihong0618/gaycore)                           | 2019-02-18 | 2020-12-10 | Python     |    89 |
 |  4 | [gitblog](https://github.com/yihong0618/gitblog)                           | 2019-07-18 | 2021-01-21 | Python     |    83 |
@@ -53,32 +53,32 @@
 |  2 | [leetcode-cli](https://github.com/leetcode-tools/leetcode-cli)            | 2019-11-29 | 2020-08-21 | [8](https://github.com/leetcode-tools/leetcode-cli/pulls?q=is%3Apr+author%3Ayihong0618)         |
 |  3 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) | 2019-12-03 | 2020-07-22 | [6](https://github.com/LeetCode-OpenSource/vscode-leetcode/pulls?q=is%3Apr+author%3Ayihong0618) |
 |  4 | [nrc-exporter](https://github.com/yasoob/nrc-exporter)                    | 2020-07-05 | 2020-10-07 | [5](https://github.com/yasoob/nrc-exporter/pulls?q=is%3Apr+author%3Ayihong0618)                 |
-|  5 | [kb](https://github.com/gnebbia/kb)                                       | 2020-09-21 | 2020-09-23 | [3](https://github.com/gnebbia/kb/pulls?q=is%3Apr+author%3Ayihong0618)                          |
-|  6 | [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)         | 2020-08-04 | 2020-08-10 | [3](https://github.com/ElaWorkshop/awesome-cn-cafe/pulls?q=is%3Apr+author%3Ayihong0618)         |
+|  5 | [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)         | 2020-08-04 | 2020-08-10 | [3](https://github.com/ElaWorkshop/awesome-cn-cafe/pulls?q=is%3Apr+author%3Ayihong0618)         |
+|  6 | [kb](https://github.com/gnebbia/kb)                                       | 2020-09-21 | 2020-09-23 | [3](https://github.com/gnebbia/kb/pulls?q=is%3Apr+author%3Ayihong0618)                          |
 |  7 | [iredis](https://github.com/laixintao/iredis)                             | 2019-12-30 | 2020-09-16 | [2](https://github.com/laixintao/iredis/pulls?q=is%3Apr+author%3Ayihong0618)                    |
 |  8 | [activities](https://github.com/flopp/activities)                         | 2020-07-09 | 2020-07-14 | [2](https://github.com/flopp/activities/pulls?q=is%3Apr+author%3Ayihong0618)                    |
 |  9 | [LearnJapan](https://github.com/wizicer/LearnJapan)                       | 2020-03-31 | 2020-03-31 | [1](https://github.com/wizicer/LearnJapan/pulls?q=is%3Apr+author%3Ayihong0618)                  |
-| 10 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 | [1](https://github.com/antfu/awesome-cn-cafe-web/pulls?q=is%3Apr+author%3Ayihong0618)           |
-| 11 | [TopList](https://github.com/tophubs/TopList)                             | 2019-08-19 | 2019-08-19 | [1](https://github.com/tophubs/TopList/pulls?q=is%3Apr+author%3Ayihong0618)                     |
-| 12 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 | [1](https://github.com/xiaolai/help-to-be-helped/pulls?q=is%3Apr+author%3Ayihong0618)           |
-| 13 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 | [1](https://github.com/jackiewillen/build-your-own-vue/pulls?q=is%3Apr+author%3Ayihong0618)     |
-| 14 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 | [1](https://github.com/flopp/py-staticmaps/pulls?q=is%3Apr+author%3Ayihong0618)                 |
-| 15 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                     | 2019-09-25 | 2019-09-25 | [1](https://github.com/rabbitism/GadioVideo/pulls?q=is%3Apr+author%3Ayihong0618)                |
-| 16 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 | [1](https://github.com/wenyan-lang/highlight/pulls?q=is%3Apr+author%3Ayihong0618)               |
+| 10 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 | [1](https://github.com/xiaolai/help-to-be-helped/pulls?q=is%3Apr+author%3Ayihong0618)           |
+| 11 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 | [1](https://github.com/flopp/py-staticmaps/pulls?q=is%3Apr+author%3Ayihong0618)                 |
+| 12 | [TopList](https://github.com/tophubs/TopList)                             | 2019-08-19 | 2019-08-19 | [1](https://github.com/tophubs/TopList/pulls?q=is%3Apr+author%3Ayihong0618)                     |
+| 13 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                     | 2019-09-25 | 2019-09-25 | [1](https://github.com/rabbitism/GadioVideo/pulls?q=is%3Apr+author%3Ayihong0618)                |
+| 14 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 | [1](https://github.com/wenyan-lang/highlight/pulls?q=is%3Apr+author%3Ayihong0618)               |
+| 15 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 | [1](https://github.com/antfu/awesome-cn-cafe-web/pulls?q=is%3Apr+author%3Ayihong0618)           |
+| 16 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 | [1](https://github.com/jackiewillen/build-your-own-vue/pulls?q=is%3Apr+author%3Ayihong0618)     |
 
 ## The repos I stared (random 10)
-| ID |                                                        REPO                                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [IPProxyTool](https://github.com/awolfly9/IPProxyTool)                                                              | 2019-01-22 | Python           | 2021-01-21   |
-|  2 | [blog](https://github.com/LeachZhou/blog)                                                                           | 2019-11-08 | Vue              | 2020-11-01   |
-|  3 | [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)                                            | 2018-09-02 | Jupyter Notebook | 2021-01-21   |
-|  4 | [wxpy](https://github.com/youfou/wxpy)                                                                              | 2019-01-15 | Python           | 2021-01-21   |
-|  5 | [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)                                        | 2020-04-01 | Jupyter Notebook | 2021-01-19   |
-|  6 | [cssfx](https://github.com/jolaleye/cssfx)                                                                          | 2019-05-10 | Vue              | 2021-01-21   |
-|  7 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                                                                     | 2018-03-07 | Java             | 2021-01-21   |
-|  8 | [lc-all-solutions](https://github.com/csujedihy/lc-all-solutions)                                                   | 2017-06-18 | Python           | 2021-01-19   |
-|  9 | [owllook](https://github.com/howie6879/owllook)                                                                     | 2017-12-26 | Python           | 2021-01-20   |
-| 10 | [Microservices-with-Docker-Flask-and-React](https://github.com/custer-go/Microservices-with-Docker-Flask-and-React) | 2019-06-04 | Python           | 2019-08-08   |
+| ID |                                      REPO                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [blog](https://github.com/jasonGeng88/blog)                                    | 2017-09-30 | Shell            | 2021-01-21   |
+|  2 | [gitblog](https://github.com/yihong0618/gitblog)                               | 2020-10-22 | Python           | 2021-01-21   |
+|  3 | [agithub](https://github.com/mozilla/agithub)                                  | 2019-03-29 | Python           | 2020-12-31   |
+|  4 | [aiowebsocket](https://github.com/asyncins/aiowebsocket)                       | 2019-03-06 | Python           | 2021-01-20   |
+|  5 | [algorithms](https://github.com/keon/algorithms)                               | 2017-04-24 | Python           | 2021-01-21   |
+|  6 | [python_speech_features](https://github.com/jameslyons/python_speech_features) | 2019-03-29 | Python           | 2021-01-20   |
+|  7 | [Mini-Python-Project](https://github.com/MrLevo520/Mini-Python-Project)        | 2018-01-02 | Jupyter Notebook | 2021-01-15   |
+|  8 | [Sec-Box](https://github.com/tengzhangchao/Sec-Box)                            | 2019-06-19 | md               | 2021-01-17   |
+|  9 | [nrc2strava](https://github.com/alexpryshchepa/nrc2strava)                     | 2020-06-11 | JavaScript       | 2020-12-17   |
+| 10 | [a-star-algorithm](https://github.com/paulQuei/a-star-algorithm)               | 2019-04-29 | Python           | 2021-01-21   |
 
 <!--END_SECTION:my_github-->
 
