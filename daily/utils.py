@@ -1,10 +1,10 @@
 import re
 
-from config import GITHUB_README_COMMENTS
+from .config import GITHUB_README_COMMENTS
 
 
-def replace_readme_comments(comment_str, comments_name):
-    with open("README.md", "r+") as f:
+def replace_readme_comments(file_name, comment_str, comments_name):
+    with open(file_name, "r+") as f:
         text = f.read()
         # regrex sub from github readme comments
         text = re.sub(

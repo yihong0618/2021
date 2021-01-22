@@ -6,11 +6,11 @@
 <!--START_SECTION:my_number-->
 | Name | Total | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| 扇贝 | 893 (Days) | 20 | YES |
-| 多邻国 | 1013 (Points) | 12 | NO |
-| 俯卧撑 | 70 (number) | 4 | NO |
-| 花费 | 125.9 (元) | 1 | NO |
-| 冥想 | 2 (number分钟) | 1 | YES |
+| [扇贝](https://web.shanbay.com/web/users/ufewz/zone) | 893 (天) | 20 | NO |
+| [多邻国](https://www.duolingo.com/profile/yihong0618) | 1047 (点) | 13 | NO |
+| [俯卧撑](https://github.com/yihong0618/2021/issues/5) | 99 (个) | 5 | NO |
+| [花费](https://github.com/yihong0618/2021/issues/7) | 198 (元) | 4 | YES |
+| [冥想](https://github.com/yihong0618/2021/issues/9) | 4 (分钟) | 2 | YES |
 
 <!--END_SECTION:my_number-->
 

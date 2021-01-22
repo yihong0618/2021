@@ -4,8 +4,8 @@ from datetime import datetime
 
 from github import Github
 
-from config import LABEL_DICT, MY_BLOG_REPO
-from utils import replace_readme_comments
+from daily.config import LABEL_DICT, MY_BLOG_REPO
+from daily.utils import replace_readme_comments
 
 
 def get_me(user):
@@ -90,7 +90,7 @@ def main(github_token, repo_name, issue_number, issue_label_name):
         comment_list = [parse_blog_title(c, longest_str_len) for c in comment_list]
         comments_name = "my_blog"
     comment_str = "\n".join(comment_list)
-    replace_readme_comments(comment_str, comments_name)
+    replace_readme_comments("README.md", comment_str, comments_name)
 
 
 if __name__ == "__main__":

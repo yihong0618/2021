@@ -35,3 +35,19 @@ LABEL_DICT = {
     "Drama": {"label_list": DRAMA_LABEL_LIST, "comment_name": "my_drama"},
     "Bangumi": {"label_list": BANGUMI_LABEL_LIST, "comment_name": "my_bangumi"},
 }
+
+##### COMMENTS DAILY ######
+LABEL_DAILY_DICT = {
+    # label, map_func, reduce_func
+    "俯卧撑": [PUSHUP_LABEL_LIST, int, sum],
+    "花费": [MONEY_LABEL_LIST, float, sum],
+    "冥想": [MEDITATION_LABEL_LIST, int, sum],
+}
+
+##### SHANBAY ######
+MY_SHANBAY_USER_NAME = "ufewz"
+SHANBAY_CALENDAR_API = "https://apiv3.shanbay.com/uc/checkin/calendar/dates/?user_id={user_name}&start_date={start_date}&end_date={end_date}"
+MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone"
+
+##### DUO ######
+MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
