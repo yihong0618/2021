@@ -92,6 +92,7 @@
 
 <!--START_SECTION:my_bangumi-->
 - [《魔法少女小圆》](https://github.com/yihong0618/2021/issues/6#issuecomment-762793498)　-->　2021-01-19
+- [《堀与宫村》](https://github.com/yihong0618/2021/issues/6#issuecomment-766481567)　　　-->　2021-01-25
 <!--END_SECTION:my_bangumi-->
 
 ## 观影
