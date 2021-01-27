@@ -138,6 +138,7 @@
 
 ## 写博客
 <!--START_SECTION:my_blog-->
+- [生存守则](https://github.com/yihong0618/gitblog/issues/204)　　　　　-->　2021-01-27
 - [沮丧](https://github.com/yihong0618/gitblog/issues/203)　　　　　　　-->　2021-01-25
 - [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202)　-->　2021-01-14
 - [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201)　　　　-->　2021-01-08
