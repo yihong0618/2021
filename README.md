@@ -134,6 +134,7 @@
 - [红烧肉](https://github.com/yihong0618/2021/issues/1#issuecomment-761529378)　　　-->　2021-01-16
 - [煎带鱼](https://github.com/yihong0618/2021/issues/1#issuecomment-765893301)　　　-->　2021-01-23
 - [虾仁炒鸡蛋](https://github.com/yihong0618/2021/issues/1#issuecomment-766315307)　-->　2021-01-24
+- [香肠炒菜花](https://github.com/yihong0618/2021/issues/1#issuecomment-768265145)　-->　2021-01-27
 <!--END_SECTION:my_cook-->
 
 ## 写博客
