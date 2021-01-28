@@ -159,6 +159,9 @@
 | ------- | ------- | ---- | ---- |
 | [SHUHARI 的博客](https://shuhari.dev/blog/) | 2021.01.04 | 重写 500 Lines | 宝藏 |
 | [hololive](https://hololive.me/archive/) | 2021.01.08 | 机器学习 | 有趣的大牛 |
+| [极客兔兔](https://geektutu.com/) | 2021.01.28 | Go 教程 | 今年学 Go 用的到 |
+
+
 
 
 
