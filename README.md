@@ -137,6 +137,7 @@
 - [香肠炒菜花](https://github.com/yihong0618/2021/issues/1#issuecomment-768265145)　　-->　2021-01-27
 - [煎黄花鱼](https://github.com/yihong0618/2021/issues/1#issuecomment-770182366)　　　-->　2021-01-30
 - [西红柿炒鸡蛋](https://github.com/yihong0618/2021/issues/1#issuecomment-770830021)　-->　2021-02-01
+- [炒土豆丝](https://github.com/yihong0618/2021/issues/1#issuecomment-770830520)　　　-->　2021-02-01
 <!--END_SECTION:my_cook-->
 
 ## 写博客
