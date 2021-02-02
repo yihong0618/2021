@@ -157,7 +157,7 @@
 | [2020 年终总结](https://blog.changkun.de/posts/2020-summary/) | 2021.01.05 | 年终总结 | 思考我的人生 |
 | [六行代码实现 Python 管道](https://aber.sh/articles/Python-Pipe/) | 2021.01.11 | 有趣 | 写的不错 |
 | [programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca) | 2021.01.15 | 关于时间 | 用的到 |
-| [游戏推荐 | 70 亿人类](https://howardlau.me/game/7-billion-humans.html) | 2021.02.02 | to play | to play |
+| [游戏推荐 70 亿人类](https://howardlau.me/game/7-billion-humans.html) | 2021.02.02 | to play | to play |
 
 
 ## 收藏的博客
