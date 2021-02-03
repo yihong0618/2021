@@ -16,6 +16,9 @@ PUSHUP_LABEL_LIST = [
 BANGUMI_LABEL_LIST = [
     "Bangumi",
 ]
+GAME_LABEL_LIST = [
+    "Game",
+]
 MONEY_LABEL_LIST = [
     "Money",
 ]
@@ -34,6 +37,7 @@ LABEL_DICT = {
     "Read": {"label_list": READ_LABEL_LIST, "comment_name": "my_read"},
     "Drama": {"label_list": DRAMA_LABEL_LIST, "comment_name": "my_drama"},
     "Bangumi": {"label_list": BANGUMI_LABEL_LIST, "comment_name": "my_bangumi"},
+    "Game": {"label_list": GAME_LABEL_LIST, "comment_name": "my_game"},
 }
 
 ##### COMMENTS DAILY ######
