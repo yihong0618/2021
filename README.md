@@ -173,6 +173,8 @@
 | [hololive](https://hololive.me/archive/) | 2021.01.08 | 机器学习 | 有趣的大牛 |
 | [极客兔兔](https://geektutu.com/) | 2021.01.28 | Go 教程 | 今年学 Go 用的到 |
 | [howardlau](https://howardlau.me/) | 2021.02.02 | k8s 及其它 | 有趣的年轻人 |
+| [jasonkayzk](https://jasonkayzk.github.io/) | 2021.02.04 | 编程 日语 | 宝藏少年 |
+
 
 
 
