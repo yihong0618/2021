@@ -145,6 +145,7 @@
 - [西红柿炒鸡蛋](https://github.com/yihong0618/2021/issues/1#issuecomment-770830021)　-->　2021-02-01
 - [炒土豆丝](https://github.com/yihong0618/2021/issues/1#issuecomment-770830520)　　　-->　2021-02-01
 - [煎饺](https://github.com/yihong0618/2021/issues/1#issuecomment-773724018)　　　　　-->　2021-02-05
+- [烧鲅鱼](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468)　　　　-->　2021-02-06
 <!--END_SECTION:my_cook-->
 
 ## 写博客
