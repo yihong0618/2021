@@ -141,11 +141,11 @@
 - [煎带鱼 竹笋炒肉](https://github.com/yihong0618/2021/issues/1#issuecomment-765893301)　　　　　　-->　2021-01-23
 - [虾仁炒鸡蛋 西红柿牛腩](https://github.com/yihong0618/2021/issues/1#issuecomment-766315307)　　　-->　2021-01-24
 - [香肠炒菜花](https://github.com/yihong0618/2021/issues/1#issuecomment-768265145)　　　　　　　　　-->　2021-01-27
-- [煎黄花鱼](https://github.com/yihong0618/2021/issues/1#issuecomment-770182366)　　　　　　　　　　-->　2021-01-30
+- [煎黄花鱼 肉沫豆腐](https://github.com/yihong0618/2021/issues/1#issuecomment-770182366)　　　　　-->　2021-01-30
 - [西红柿炒鸡蛋](https://github.com/yihong0618/2021/issues/1#issuecomment-770830021)　　　　　　　　-->　2021-02-01
 - [炒土豆丝](https://github.com/yihong0618/2021/issues/1#issuecomment-770830520)　　　　　　　　　　-->　2021-02-01
-- [煎饺](https://github.com/yihong0618/2021/issues/1#issuecomment-773724018)　　　　　　　　　　　　-->　2021-02-05
-- [烧鲅鱼](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468)　　　　　　　　　　　-->　2021-02-06
+- [煎饺 蛋炒饭](https://github.com/yihong0618/2021/issues/1#issuecomment-773724018)　　　　　　　　-->　2021-02-05
+- [烧鲅鱼 肉沫豆腐](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468)　　　　　　-->　2021-02-06
 - [烤鱿鱼 红烧肉](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520)　　　　　　　-->　2021-02-07
 <!--END_SECTION:my_cook-->
 
