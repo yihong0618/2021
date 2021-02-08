@@ -3,17 +3,17 @@ import argparse
 from github import Github
 
 from daily.config import (
-    PUSHUP_LABEL_LIST,
-    MONEY_LABEL_LIST,
-    MEDITATION_LABEL_LIST,
     LABEL_DAILY_DICT,
 )
 from daily.utils import replace_readme_comments
 from daily import MY_STATUS_DICT_FROM_API, MY_STATUS_DICT_FROM_COMMENTS
 
 
-MY_NUMBER_STAT_HEAD = "| Name | Total | Streak | Today? | \n | ---- | ---- | ---- | ---- |\n"
+MY_NUMBER_STAT_HEAD = (
+    "| Name | Total | Streak | Today? | \n | ---- | ---- | ---- | ---- |\n"
+)
 MY_NUMBER_STAT_TEMPLATE = "| {name} | {total} | {streak} | {today} |\n"
+
 
 # this is a tricky ->  [a, b][False] => [a] [a, b][True] => [b]
 NO_OR_YES_LIST = ["NO", "YES"]
@@ -52,7 +52,9 @@ def main(duolingo_user_name, duolingo_password, github_token, repo_name):
         func = value_dict.get("daily_func")
         if not func:
             break
-        total_data, streak, today_check, url = func(u, repo_name, labels, map_func, reduce_func)
+        total_data, streak, today_check, url = func(
+            u, repo_name, labels, map_func, reduce_func
+        )
         name = f"[{name}]({url})"
         total_data_str = str(total_data) + value_dict.get("unit_str", "")
         my_num_stat_str += make_stat_str(name, total_data_str, streak, today_check)

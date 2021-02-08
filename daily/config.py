@@ -55,3 +55,9 @@ MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone
 
 ##### DUO ######
 MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
+
+##### FOOD ######
+MY_FOOD_STAT_HEAD = (
+    "| Name | First_date | Last_date | Times | \n | ---- | ---- | ---- | ---- |\n"
+)
+MY_FOOD_STAT_TEMPLATE = "| {name} | {first_date} | {last_date} | {times} |\n"

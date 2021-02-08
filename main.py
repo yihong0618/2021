@@ -1,95 +1,48 @@
 # -*- coding: utf-8 -*-
 import argparse
 from datetime import datetime
+from collections import defaultdict
 
 from github import Github
 
 from daily.config import LABEL_DICT, MY_BLOG_REPO
-from daily.utils import replace_readme_comments
+from daily.utils import (
+    replace_readme_comments,
+    parse_blog_issues_str,
+    parse_base_issues_comments_str,
+    parse_cook_issue_table,
+)
 
 
 def get_me(user):
     return user.get_user().login
 
 
-def isMe(issue, me):
-    return issue.user.login == me
-
-
-def format_time(time):
-    return str(time)[:10]
-
-
 def login(token):
     return Github(token)
-
-
-def to_add_spaces(longest_str_len, title):
-    # 这是个全角的空格
-    spaces = "　" * (longest_str_len + 1 - len(title))
-    return spaces + "-->" + "　"
-
-
-def parse_comment_title(comment_body, comment_url, create_time, longest_str_len):
-    title = comment_body.splitlines()[0]
-    # format markdown with same length
-    return (
-        f"- [{title}]({comment_url})"
-        + to_add_spaces(longest_str_len, title)
-        + format_time(create_time)
-    )
-
-
-def parse_blog_title(issue, longest_str_len):
-    title = issue.title
-    return (
-        f"- [{title}]({issue.html_url})"
-        + to_add_spaces(longest_str_len, title)
-        + format_time(issue.created_at)
-    )
 
 
 def main(github_token, repo_name, issue_number, issue_label_name):
     # issue_number for future use
     u = login(github_token)
     me = get_me(u)
-    comment_list = []
-    longest_str_len = 0
     if issue_number:
         labels = LABEL_DICT.get(issue_label_name)
         if not labels:
             return
         issues = u.get_repo(repo_name).get_issues(labels=labels.get("label_list", []))
-        for issue in issues:
-            comments = issue.get_comments()
-            for c in comments:
-                str_len = len(c.body.split("\r\n")[0])
-                # for format
-                if str_len > longest_str_len:
-                    longest_str_len = str_len
-                if isMe(c, me):
-                    comment_list.append(c)
-        comment_list = [
-            parse_comment_title(c.body, c.html_url, c.created_at, longest_str_len)
-            for c in comment_list
-        ]
+        parse_func = parse_base_issues_comments_str
+        # only Cook now, if one more, refactor it
+        if issue_label_name == "Cook":
+            parse_func = parse_cook_issue_table
+        comment_str = parse_func(me, issues)
         comments_name = labels.get("comment_name", "")
     else:
         # from 2021
         since = datetime(2021, 1, 1)
         issues = u.get_repo(MY_BLOG_REPO).get_issues(since=since, creator=me)
-        comment_list = []
-        for issue in issues:
-            if issue.created_at < since:
-                continue
-            str_len = len(issue.title)
-            # for format
-            if str_len > longest_str_len:
-                longest_str_len = str_len
-            comment_list.append(issue)
-        comment_list = [parse_blog_title(c, longest_str_len) for c in comment_list]
+        comment_str = parse_blog_issues_str(since, issues)
         comments_name = "my_blog"
-    comment_str = "\n".join(comment_list)
     replace_readme_comments("README.md", comment_str, comments_name)
 
 
