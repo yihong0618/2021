@@ -156,6 +156,7 @@
 | 烧鲅鱼 | [2021-02-06](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468) | [2021-02-06](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468) | 1 |
 | 烤鱿鱼 | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | 1 |
 | 红烧鸡翅 | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | 1 |
+| 年夜饭 | [2021-02-11](https://github.com/yihong0618/2021/issues/1#issuecomment-777427210) | [2021-02-11](https://github.com/yihong0618/2021/issues/1#issuecomment-777427210) | 1 |
 
 <!--END_SECTION:my_cook-->
 
