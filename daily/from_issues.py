@@ -37,7 +37,7 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
             pendulum.instance(calendar_list[-1], "Asia/Shanghai"),
         )
     )
-    for p in periods:
+    for p in periods[::-1]:
         if p.to_date_string() not in calendar_str_list:
             break
         streak += 1
