@@ -86,6 +86,7 @@
 
 <!--START_SECTION:my_drama-->
 - [《弥留之际的爱丽丝》](https://github.com/yihong0618/2021/issues/8#issuecomment-763342696)　-->　2021-01-20
+- [《旺达幻视》](https://github.com/yihong0618/2021/issues/8#issuecomment-781113541)　　　　　-->　2021-02-18
 <!--END_SECTION:my_drama-->
 
 ## 追番
