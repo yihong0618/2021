@@ -14,10 +14,6 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - name: agu
-        run: sudo apt-get update
-      - name: install ffmpeg
-        run: sudo apt-get install ffmpeg
       - uses: actions/checkout@v2
       - name: My GitHub Status
         uses: yihong0618/github-readme-stats@v1.1
