@@ -48,7 +48,7 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
-          python get_daily.py ${{ secrets.DUOLINGO_USERNAME }} ${{ secrets.DUOLINGO_PASSWORD }}  ${{ secrets.G_T }} ${{ github.repository }}
+          python get_daily.py ${{ secrets.DUOLINGO_USERNAME }} ${{ secrets.DUOLINGO_PASSWORD }} ${{ secrets.CICHANG_USERNAME }} ${{ secrets.CICHANG_PASSWORD }}  ${{ secrets.G_T }} ${{ github.repository }}
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:

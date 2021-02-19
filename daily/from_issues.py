@@ -23,7 +23,8 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
             calendar_list.append(c.created_at)
     end_date = pendulum.now("Asia/Shanghai")
     calendar_str_list = [
-        pendulum.instance(i, "Asia/Shanghai").to_date_string() for i in calendar_list
+        pendulum.instance(i).in_timezone("Asia/Shanghai").to_date_string()
+        for i in calendar_list
     ]
     is_today_check = False
     streak = 0
@@ -33,10 +34,11 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
         calendar_str_list.pop()
     periods = list(
         pendulum.period(
-            pendulum.instance(calendar_list[0], "Asia/Shanghai"),
-            pendulum.instance(calendar_list[-1], "Asia/Shanghai"),
+            pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai"),
+            pendulum.instance(calendar_list[-1]).in_timezone("Asia/Shanghai"),
         )
     )
+    # count the latest streak from the end so [::-1]
     for p in periods[::-1]:
         if p.to_date_string() not in calendar_str_list:
             break

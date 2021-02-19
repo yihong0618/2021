@@ -25,6 +25,9 @@ MONEY_LABEL_LIST = [
 MEDITATION_LABEL_LIST = [
     "Meditation",
 ]
+MORNING_LABEL_LIST = [
+    "Morning",
+]
 MY_BLOG_REPO = "yihong0618/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
@@ -46,6 +49,7 @@ LABEL_DAILY_DICT = {
     "俯卧撑": [PUSHUP_LABEL_LIST, int, sum],
     "花费": [MONEY_LABEL_LIST, float, sum],
     "冥想": [MEDITATION_LABEL_LIST, int, sum],
+    "早起": [MORNING_LABEL_LIST, len, len],  # Do Nothing
 }
 
 ##### SHANBAY ######
@@ -55,6 +59,10 @@ MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone
 
 ##### DUO ######
 MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
+
+##### CICHANG ######
+MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
+
 
 ##### FOOD ######
 MY_FOOD_STAT_HEAD = (
