@@ -180,6 +180,7 @@
 | [六行代码实现 Python 管道](https://aber.sh/articles/Python-Pipe/) | 2021.01.11 | 有趣 | 写的不错 |
 | [programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca) | 2021.01.15 | 关于时间 | 用的到 |
 | [游戏推荐 70 亿人类](https://howardlau.me/game/7-billion-humans.html) | 2021.02.02 | to play | to play |
+| [2019 ~ 2020 岁末有感](https://blog.dreamfever.me/2021/02/11/2019-2020-sui-mo-you-gan/) | 2021.02.19 | 伤感 | 希望 |
 
 
 ## 收藏的博客
