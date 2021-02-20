@@ -116,6 +116,7 @@
 
 <!--START_SECTION:my_read-->
 - [《国境以南太阳以西》](https://github.com/yihong0618/2021/issues/3#issuecomment-757978780)　-->　2021-01-11
+- [《一夫食堂》](https://github.com/yihong0618/2021/issues/3#issuecomment-782747734)　　　　　-->　2021-02-20
 <!--END_SECTION:my_read-->
 
 ## 做饭
