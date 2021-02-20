@@ -32,15 +32,15 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
         is_today_check = True
         streak += 1
         calendar_str_list.pop()
-    periods = list(
-        pendulum.period(
-            pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai"),
-            pendulum.instance(calendar_list[-1]).in_timezone("Asia/Shanghai"),
-        )
-    )
-    # count the latest streak from the end so [::-1]
+        calendar_list.pop()
+    # fuck pendulum's period
+    periods = list(pendulum.period(pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai"), end_date))
+    periods = [p.to_date_string() for p in periods]
+    # fix pendulum's period bug I don't know why ???? the period are different
+    if end_date.to_date_string() in periods:
+        periods.pop()
     for p in periods[::-1]:
-        if p.to_date_string() not in calendar_str_list:
+        if p not in calendar_str_list:
             break
         streak += 1
     # format to int
