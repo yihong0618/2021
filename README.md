@@ -167,6 +167,7 @@
 
 ## 写博客
 <!--START_SECTION:my_blog-->
+- [年过完了](https://github.com/yihong0618/gitblog/issues/206)　　　　　　　　-->　2021-02-22
 - [力扣的程序是如何运行的](https://github.com/yihong0618/gitblog/issues/205)　-->　2021-02-01
 - [生存守则](https://github.com/yihong0618/gitblog/issues/204)　　　　　　　　-->　2021-01-27
 - [沮丧](https://github.com/yihong0618/gitblog/issues/203)　　　　　　　　　　-->　2021-01-25
