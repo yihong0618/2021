@@ -185,6 +185,7 @@
 | [programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca) | 2021.01.15 | 关于时间 | 用的到 |
 | [游戏推荐 70 亿人类](https://howardlau.me/game/7-billion-humans.html) | 2021.02.02 | to play | to play |
 | [2019 ~ 2020 岁末有感](https://blog.dreamfever.me/2021/02/11/2019-2020-sui-mo-you-gan/) | 2021.02.19 | 伤感 | 希望 |
+| [MIT-6.S081 2020](https://reku1997.gitee.io/2020/10/13/mit-os-1/) | 2021.02.23 | 想玩一下 | 不知道有时间没 |
 
 
 ## 收藏的博客
