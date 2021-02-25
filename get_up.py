@@ -13,10 +13,14 @@ TIMEZONE = "Asia/Shanghai"
 
 
 def get_one_sentence():
-    r = requests.get(SENTENCE_API)
-    if r.ok:
-        return r.json().get("content", DEFAULT_SENTENCE)
-    return DEFAULT_SENTENCE
+    try:
+        r = requests.get(SENTENCE_API)
+        if r.ok:
+            return r.json().get("content", DEFAULT_SENTENCE)
+        return DEFAULT_SENTENCE
+    except:
+        print("get SENTENCE_API wrong")
+        return DEFAULT_SENTENCE
 
 
 def get_today_get_up_status(issue):
@@ -45,12 +49,6 @@ def get_get_up_issue(repo):
     return repo.get_issue(GET_UP_ISSUE_NUMBER)
 
 
-def make_new_get_up_comment(issue, body):
-    # maybe use in the future
-    _ = issue.create_comment(body)
-    return
-
-
 def main(github_token, repo_name):
     u = login(github_token)
     repo = u.get_repo(repo_name)
@@ -61,7 +59,7 @@ def main(github_token, repo_name):
         return
     body, is_get_up_early = make_get_up_message()
     if is_get_up_early:
-        make_new_get_up_comment(issue, body)
+        issue.create_comment(body)
     else:
         print("You wake up late")
 
