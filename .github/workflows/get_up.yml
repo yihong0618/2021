@@ -1,4 +1,4 @@
-name: Replace README
+name: GET UP
 
 on:
   workflow_dispatch:
