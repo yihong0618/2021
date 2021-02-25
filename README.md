@@ -162,6 +162,8 @@
 | 红烧鸡翅 | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | 1 |
 | 年夜饭 | [2021-02-11](https://github.com/yihong0618/2021/issues/1#issuecomment-777427210) | [2021-02-11](https://github.com/yihong0618/2021/issues/1#issuecomment-777427210) | 1 |
 | 炸蘑菇 | [2021-02-17](https://github.com/yihong0618/2021/issues/1#issuecomment-780434932) | [2021-02-17](https://github.com/yihong0618/2021/issues/1#issuecomment-780434932) | 1 |
+| 蒜苗炒肉 | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | 1 |
+| 荷兰豆 | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | 1 |
 
 <!--END_SECTION:my_cook-->
 
