@@ -34,7 +34,11 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
         calendar_str_list.pop()
         calendar_list.pop()
     # fuck pendulum's period
-    periods = list(pendulum.period(pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai"), end_date))
+    periods = list(
+        pendulum.period(
+            pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai"), end_date
+        )
+    )
     periods = [p.to_date_string() for p in periods]
     # fix pendulum's period bug I don't know why ???? the period are different
     if end_date.to_date_string() in periods:
