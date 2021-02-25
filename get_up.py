@@ -3,7 +3,7 @@ import requests
 import pendulum
 from main import login
 
-GET_UP_ISSUE_NUMBER = 14
+GET_UP_ISSUE_NUMBER = 12
 GET_UP_MESSAGE_TEMPLATE = (
     "起床啦，喝杯咖啡，背个单词，去跑步。\r\n\r\n 今天的起床时间是--{get_up_time}.\r\n 今天的一句诗: {sentence}"
 )
