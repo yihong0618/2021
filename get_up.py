@@ -57,13 +57,13 @@ def main(github_token, repo_name):
     issue = get_get_up_issue(repo)
     is_toady = get_today_get_up_status(issue)
     if is_toady:
-        print("today has get up")
+        print("Today I have recorded the wake up time")
         return
     body, is_get_up_early = make_get_up_message()
     if is_get_up_early:
         make_new_get_up_comment(issue, body)
     else:
-        print("today you have are late")
+        print("You wake up late")
 
 
 if __name__ == "__main__":
