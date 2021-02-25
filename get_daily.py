@@ -30,27 +30,21 @@ def make_stat_str(name, total_str, streak, today_check):
 
 
 def main(
-    duolingo_user_name,
-    duolingo_password,
-    cichang_user_name,
-    cichang_password,
+    login_dict,
     github_token,
     repo_name,
 ):
     my_num_stat_str = MY_NUMBER_STAT_HEAD
     # API STAT STR
     for name, value_dict in MY_STATUS_DICT_FROM_API.items():
-        user_name, password = duolingo_user_name, duolingo_password
-        if name == "词场":
-            user_name, password = cichang_user_name, cichang_password
         url = value_dict.get("url")
-        name = f"[{name}]({url})"
+        md_name = f"[{name}]({url})"
         # maybe a better way?
         total_data, streak, today_check = value_dict.get("daily_func")(
-            user_name, password
+            *login_dict.get(name, tuple())
         )
         total_data_str = str(total_data) + value_dict.get("unit_str", "")
-        my_num_stat_str += make_stat_str(name, total_data_str, streak, today_check)
+        my_num_stat_str += make_stat_str(md_name, total_data_str, streak, today_check)
 
     u = Github(github_token)
     # COMMENTS STAT STR
@@ -81,11 +75,13 @@ if __name__ == "__main__":
     parser.add_argument("github_token", help="github_token")
     parser.add_argument("repo_name", help="repo_name")
     options = parser.parse_args()
+    # add more login auth info here
+    login_auth_dict = {
+        "词场": (options.cichang_user_name, options.cichang_password),
+        "多邻国": (options.duolingo_user_name, options.duolingo_password),
+    }
     main(
-        options.duolingo_user_name,
-        options.duolingo_password,
-        options.cichang_user_name,
-        options.cichang_password,
+        login_auth_dict,
         options.github_token,
         options.repo_name,
     )
