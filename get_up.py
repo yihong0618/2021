@@ -17,8 +17,8 @@ def get_one_sentence():
     return DEFAULT_SENTENCE
 
 
-def make_get_up_message():
-    weather = "晴"
+def make_get_up_message(weather):
+    weather = str(weather)
     sentence = get_one_sentence()
     now = pendulum.now(TIMEZONE)
     is_get_up_early = 4 <= now.hour <= 6
@@ -40,10 +40,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("github_token", help="github_token")
     parser.add_argument("repo_name", help="repo_name")
+    parser.add_argument("weather", help="weather")
     options = parser.parse_args()
     u = login(options.github_token)
     repo = u.get_repo(options.repo_name)
-    body, is_get_up_early = make_get_up_message()
+    body, is_get_up_early = make_get_up_message(options.weather)
     if is_get_up_early:
         pass
     make_new_get_up_comment(repo, body)
