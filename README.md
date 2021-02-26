@@ -200,3 +200,4 @@
 | [howardlau](https://howardlau.me/) | 2021.02.02 | k8s 及其它 | 有趣的年轻人 |
 | [jasonkayzk](https://jasonkayzk.github.io/) | 2021.02.04 | 编程 日语 | 宝藏少年 |
 | [Ray Eldath](https://ray-eldath.me/) | 2021.02.19 | 编程 文学 | 喜欢加缪的少年 |
+| [iany](https://blog.iany.me/) | 2021.02.26 | 记录自己的人 | 记录自己的人 |
