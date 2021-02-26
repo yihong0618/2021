@@ -56,7 +56,7 @@ def main(github_token, repo_name, tele_token, tele_chat_id):
     is_toady = get_today_get_up_status(issue)
     if is_toady:
         print("Today I have recorded the wake up time")
-        # return
+        return
     body, is_get_up_early = make_get_up_message()
     if is_get_up_early:
         issue.create_comment(body)
