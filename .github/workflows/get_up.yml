@@ -33,4 +33,4 @@ jobs:
       - name: GET UP
         run: |
           source venv/bin/activate
-          python get_up.py ${{ secrets.G_T }} ${{ github.repository }}
+          python get_up.py ${{ secrets.G_T }} ${{ github.repository }}  ${{ secrets.TELE_TOKEN }} ${{ secrets.TELE_CHAT_ID }}
