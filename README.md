@@ -190,6 +190,7 @@
 | [2019 ~ 2020 岁末有感](https://blog.dreamfever.me/2021/02/11/2019-2020-sui-mo-you-gan/) | 2021.02.19 | 伤感 | 希望 |
 | [MIT-6.S081 2020](https://reku1997.gitee.io/2020/10/13/mit-os-1/) | 2021.02.23 | 想玩一下 | 不知道有时间没 |
 | [如何当一个合格的白帽子](https://key08.com/index.php/2020/12/16/817.html) | 2021.02.25 | 学习 | 要常看常新 |
+| [2020 个人总结](http://www.zhangjiee.com/blog/2021/2020-personal-review.html) | 2021.03.02 | 关于复盘 | 关于复盘 |
 
 
 ## 收藏的博客
