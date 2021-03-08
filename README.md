@@ -207,4 +207,5 @@
 | [iany](https://blog.iany.me/) | 2021.02.26 | 记录自己的人 | 记录自己的人 |
 | [zhangjiee](http://www.zhangjiee.com/) | 2021.03.02 | 值得学习 | 和我爱好很像 |
 | [senevan](https://blog.senevan.com/archives/) | 2021.03.05 | 有意思的人 | 游戏程序员 |
+| [Eric Fu](hhttps://ericfu.me/) | 2021.03.08 | 每篇文章质量好高 | 常看 |
 
