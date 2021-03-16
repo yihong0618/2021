@@ -196,6 +196,7 @@
 | [如何当一个合格的白帽子](https://key08.com/index.php/2020/12/16/817.html) | 2021.02.25 | 学习 | 要常看常新 |
 | [2020 个人总结](http://www.zhangjiee.com/blog/2021/2020-personal-review.html) | 2021.03.02 | 关于复盘 | 关于复盘 |
 | [cut GTA Online](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) | 2021.03.09 | 太精彩了 | hack |
+| [flask是如何保证线程安全的](https://hj24.life/posts/%E4%BB%8E%E6%BA%90%E7%A0%81%E7%9C%8Bflask%E6%98%AF%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84/) | 2021.03.16 | flask | 写的不错的年轻人 |
 
 
 ## 收藏的博客
