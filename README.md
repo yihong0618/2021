@@ -212,4 +212,6 @@
 | [zhangjiee](http://www.zhangjiee.com/) | 2021.03.02 | 值得学习 | 和我爱好很像 |
 | [senevan](https://blog.senevan.com/archives/) | 2021.03.05 | 有意思的人 | 游戏程序员 |
 | [Eric Fu](https://ericfu.me/) | 2021.03.08 | 每篇文章质量好高 | 常看 |
+| [Eyfwu](https://yfwu.github.io/archive) | 2021.03.17 | 写周记的台湾朋友 | 真好 |
+
 
