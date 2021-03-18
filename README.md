@@ -214,5 +214,4 @@
 | [senevan](https://blog.senevan.com/archives/) | 2021.03.05 | 有意思的人 | 游戏程序员 |
 | [Eric Fu](https://ericfu.me/) | 2021.03.08 | 每篇文章质量好高 | 常看 |
 | [Eyfwu](https://yfwu.github.io/archive) | 2021.03.17 | 写周记的台湾朋友 | 真好 |
-
-
+| [清澄秋爽](https://dashen.tech/archives/) | 2021.03.18 | 喜欢这个人 | 猫的那篇看哭了 |
