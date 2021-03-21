@@ -173,6 +173,7 @@
 | 荷兰豆 | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | 1 |
 | 孜然牛肉 | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797952551) | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797952551) | 1 |
 | 黄瓜片炒肉 | [2021-03-20](https://github.com/yihong0618/2021/issues/1#issuecomment-803272426) | [2021-03-20](https://github.com/yihong0618/2021/issues/1#issuecomment-803272426) | 1 |
+| 烤鸡腿 | [2021-03-21](https://github.com/yihong0618/2021/issues/1#issuecomment-803503205) | [2021-03-21](https://github.com/yihong0618/2021/issues/1#issuecomment-803503205) | 1 |
 
 <!--END_SECTION:my_cook-->
 
