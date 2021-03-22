@@ -202,7 +202,8 @@
 | [2020 个人总结](http://www.zhangjiee.com/blog/2021/2020-personal-review.html) | 2021.03.02 | 关于复盘 | 关于复盘 |
 | [cut GTA Online](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) | 2021.03.09 | 太精彩了 | hack |
 | [flask是如何保证线程安全的](https://hj24.life/posts/%E4%BB%8E%E6%BA%90%E7%A0%81%E7%9C%8Bflask%E6%98%AF%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84/) | 2021.03.16 | flask | 写的不错的年轻人 |
-
+| [Play with 2.13 inch E-Ink display](https://andelf.github.io/blog/2021/01/15/play-with-2-13-inch-e-ink-display/) | 2021.03.22 | 下一个玩具 | e-link |
+| [Baking Flask cookies](https://blog.paradoxis.nl/defeating-flasks-session-management-65706ba9d3ce) | 2021.03.22 | 好思路 | In English |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
@@ -219,3 +220,4 @@
 | [Eric Fu](https://ericfu.me/) | 2021.03.08 | 每篇文章质量好高 | 常看 |
 | [Eyfwu](https://yfwu.github.io/archive) | 2021.03.17 | 写周记的台湾朋友 | 真好 |
 | [清澄秋爽](https://dashen.tech/archives/) | 2021.03.18 | 喜欢这个人 | 猫的那篇看哭了 |
+| [andelf](https://andelf.github.io/) | 2021.03.22 | 又强又有趣 | 还是个 hacker |
