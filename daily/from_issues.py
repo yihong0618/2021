@@ -33,6 +33,8 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
         streak += 1
         calendar_str_list.pop()
         calendar_list.pop()
+    if not calendar_list:
+        return data, streak, is_today_check, url
     # fuck pendulum's period
     periods = list(
         pendulum.period(
