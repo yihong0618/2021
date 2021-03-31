@@ -207,6 +207,7 @@
 | [Play with 2.13 inch E-Ink display](https://andelf.github.io/blog/2021/01/15/play-with-2-13-inch-e-ink-display/) | 2021.03.22 | 下一个玩具 | e-link |
 | [Baking Flask cookies](https://blog.paradoxis.nl/defeating-flasks-session-management-65706ba9d3ce) | 2021.03.22 | 好思路 | In English |
 | [2019 東京馬拉松](https://jiepeng.me/2019/03/03/2019-tokyo-marathon) | 2021.03.23 | 小梦想 | 日本 |
+| [Workouts & fitness in 2020](https://darke.me/workouts-fitness-in-2020) | 2021.03.31 | 好厉害 | 英语 |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
