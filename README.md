@@ -225,3 +225,5 @@
 | [Eyfwu](https://yfwu.github.io/archive) | 2021.03.17 | 写周记的台湾朋友 | 真好 |
 | [清澄秋爽](https://dashen.tech/archives/) | 2021.03.18 | 喜欢这个人 | 猫的那篇看哭了 |
 | [andelf](https://andelf.github.io/) | 2021.03.22 | 又强又有趣 | 还是个 hacker |
+| [iPotato](https://ipotato.me/articles) | 2021.04.06 | 有趣的少年 | 学习 |
+
