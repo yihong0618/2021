@@ -171,10 +171,11 @@
 | 年夜饭 | [2021-02-11](https://github.com/yihong0618/2021/issues/1#issuecomment-777427210) | [2021-02-11](https://github.com/yihong0618/2021/issues/1#issuecomment-777427210) | 1 |
 | 炸蘑菇 | [2021-02-17](https://github.com/yihong0618/2021/issues/1#issuecomment-780434932) | [2021-02-17](https://github.com/yihong0618/2021/issues/1#issuecomment-780434932) | 1 |
 | 蒜苗炒肉 | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | [2021-04-04](https://github.com/yihong0618/2021/issues/1#issuecomment-812964660) | 2 |
-| 荷兰豆 | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | 1 |
+| 荷兰豆 | [2021-02-25](https://github.com/yihong0618/2021/issues/1#issuecomment-785804958) | [2021-04-07](https://github.com/yihong0618/2021/issues/1#issuecomment-814546341) | 2 |
 | 孜然牛肉 | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797952551) | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797952551) | 1 |
 | 黄瓜片炒肉 | [2021-03-20](https://github.com/yihong0618/2021/issues/1#issuecomment-803272426) | [2021-03-20](https://github.com/yihong0618/2021/issues/1#issuecomment-803272426) | 1 |
 | 烤鸡腿 | [2021-03-21](https://github.com/yihong0618/2021/issues/1#issuecomment-803503205) | [2021-04-04](https://github.com/yihong0618/2021/issues/1#issuecomment-812964660) | 2 |
+| 尖椒炒肉 | [2021-04-07](https://github.com/yihong0618/2021/issues/1#issuecomment-814546341) | [2021-04-07](https://github.com/yihong0618/2021/issues/1#issuecomment-814546341) | 1 |
 
 <!--END_SECTION:my_cook-->
 
