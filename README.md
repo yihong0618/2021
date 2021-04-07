@@ -102,6 +102,7 @@
 - [《魔法少女小圆》](https://github.com/yihong0618/2021/issues/6#issuecomment-762793498)　-->　2021-01-19
 - [《堀与宫村》](https://github.com/yihong0618/2021/issues/6#issuecomment-766481567)　　　-->　2021-01-25
 - [《夏日重现》](https://github.com/yihong0618/2021/issues/6#issuecomment-792417270)　　　-->　2021-03-08
+- [《杀手寓言》](https://github.com/yihong0618/2021/issues/6#issuecomment-814546620)　　　-->　2021-04-07
 <!--END_SECTION:my_bangumi-->
 
 ## 观影
