@@ -213,6 +213,7 @@
 | [2019 東京馬拉松](https://jiepeng.me/2019/03/03/2019-tokyo-marathon) | 2021.03.23 | 小梦想 | 日本 |
 | [Workouts & fitness in 2020](https://darke.me/workouts-fitness-in-2020) | 2021.03.31 | 好厉害 | 英语 |
 | [喃喃自语](http://www.piginzoo.com/life/2020/06/13/some-thoughts) | 2021.04.06 | 前辈的一篇文章 | 思考了好多 |
+| [Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) | 2021.04.09 |laixintao | 写的太好了 |
 
 
 ## 收藏的博客
