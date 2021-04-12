@@ -37,14 +37,19 @@ def main(
     my_num_stat_str = MY_NUMBER_STAT_HEAD
     # API STAT STR
     for name, value_dict in MY_STATUS_DICT_FROM_API.items():
-        url = value_dict.get("url")
-        md_name = f"[{name}]({url})"
-        # maybe a better way?
-        total_data, streak, today_check = value_dict.get("daily_func")(
-            *login_dict.get(name, tuple())
-        )
-        total_data_str = str(total_data) + value_dict.get("unit_str", "")
-        my_num_stat_str += make_stat_str(md_name, total_data_str, streak, today_check)
+        try:
+            url = value_dict.get("url")
+            md_name = f"[{name}]({url})"
+            # maybe a better way?
+            total_data, streak, today_check = value_dict.get("daily_func")(
+                *login_dict.get(name, tuple())
+            )
+            total_data_str = str(total_data) + value_dict.get("unit_str", "")
+            my_num_stat_str += make_stat_str(md_name, total_data_str, streak, today_check)
+        # just a tricky code for others for use
+        except Exception as e:
+            print(e)
+            continue
 
     u = Github(github_token)
     # COMMENTS STAT STR
@@ -57,7 +62,7 @@ def main(
         func = value_dict.get("daily_func")
         if not func:
             break
-        total_data, streak, today_check, url = func(
+        total_data, streak, today_check, url, _ = func(
             u, repo_name, labels, map_func, reduce_func
         )
         name = f"[{name}]({url})"

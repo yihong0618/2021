@@ -1,3 +1,4 @@
+from collections import defaultdict
 import pendulum
 
 
@@ -9,7 +10,11 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
     calendar_list = []
     data_list = []
     url = ""
+    issue_number = None
+    month_summary_dict = defaultdict(int) 
     for issue in issues:
+        if not issue_number:
+            issue_number = issue.number
         if not url:
             url = issue.html_url
         comments = issue.get_comments()
@@ -21,6 +26,11 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
             except:
                 continue
             calendar_list.append(c.created_at)
+            month = pendulum.instance(c.created_at).in_timezone("Asia/Shanghai").month
+            if map_func == len:
+                month_summary_dict[month] += 1
+            else:
+                month_summary_dict[month] += data
     end_date = pendulum.now("Asia/Shanghai")
     calendar_str_list = [
         pendulum.instance(i).in_timezone("Asia/Shanghai").to_date_string()
@@ -51,4 +61,4 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
         streak += 1
     # format to int
     data = int(reduce_func(data_list))
-    return data, streak, is_today_check, url
+    return data, streak, is_today_check, url, month_summary_dict
