@@ -69,3 +69,8 @@ MY_FOOD_STAT_HEAD = (
     "| Name | First_date | Last_date | Times | \n | ---- | ---- | ---- | ---- |\n"
 )
 MY_FOOD_STAT_TEMPLATE = "| {name} | {first_date} | {last_date} | {times} |\n"
+
+##### Month Summary ######
+MONTH_SUMMARY_HEAD = "| Month | Number | \n | ---- | ---- | \n"
+
+MONTH_SUMMARY_STAT_TEMPLATE = "| {month} | {number} |\n"

@@ -4,6 +4,8 @@ from github import Github
 
 from daily.config import (
     LABEL_DAILY_DICT,
+    MONTH_SUMMARY_HEAD,
+    MONTH_SUMMARY_STAT_TEMPLATE,
 )
 from daily.utils import replace_readme_comments
 from daily import MY_STATUS_DICT_FROM_API, MY_STATUS_DICT_FROM_COMMENTS
@@ -45,7 +47,9 @@ def main(
                 *login_dict.get(name, tuple())
             )
             total_data_str = str(total_data) + value_dict.get("unit_str", "")
-            my_num_stat_str += make_stat_str(md_name, total_data_str, streak, today_check)
+            my_num_stat_str += make_stat_str(
+                md_name, total_data_str, streak, today_check
+            )
         # just a tricky code for others for use
         except Exception as e:
             print(e)
@@ -62,13 +66,37 @@ def main(
         func = value_dict.get("daily_func")
         if not func:
             break
-        total_data, streak, today_check, url, _ = func(
-            u, repo_name, labels, map_func, reduce_func
+
+        issues = u.get_repo(repo_name).get_issues(labels=labels)
+        total_data, streak, today_check, url, month_summary_dict = func(
+            issues, map_func, reduce_func
         )
+        # change the issue body for month summary
+        unit = value_dict.get("unit_str", "")
+        for i in issues:
+            body = ""
+            for b in i.body.splitlines():
+                # from the summary table
+                if b.startswith("|"):
+                    break
+                body += b + "\r\n"
+            body = body + "\r\n" + make_month_summary_str(month_summary_dict, unit)
+            # edit this issue body
+            i.edit(body=body)
         name = f"[{name}]({url})"
-        total_data_str = str(total_data) + value_dict.get("unit_str", "")
+        total_data_str = str(total_data) + unit
         my_num_stat_str += make_stat_str(name, total_data_str, streak, today_check)
+
     replace_readme_comments("README.md", my_num_stat_str, "my_number")
+
+
+def make_month_summary_str(month_summary_dict, unit):
+    s = MONTH_SUMMARY_HEAD
+    for m, n in month_summary_dict.items():
+        s += MONTH_SUMMARY_STAT_TEMPLATE.format(
+            month=str(m) + "月", number=str(int(n)) + f" {unit}"
+        )
+    return s
 
 
 if __name__ == "__main__":

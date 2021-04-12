@@ -2,19 +2,15 @@ from collections import defaultdict
 import pendulum
 
 
-def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum):
+def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
     """
     also return url for formation
     """
-    issues = u.get_repo(repo_name).get_issues(labels=labels)
     calendar_list = []
     data_list = []
     url = ""
-    issue_number = None
-    month_summary_dict = defaultdict(int) 
+    month_summary_dict = defaultdict(int)
     for issue in issues:
-        if not issue_number:
-            issue_number = issue.number
         if not url:
             url = issue.html_url
         comments = issue.get_comments()

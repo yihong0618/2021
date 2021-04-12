@@ -8,10 +8,10 @@
  | ---- | ---- | ---- | ---- |
 | [扇贝](https://web.shanbay.com/web/users/ufewz/zone) | 969 (天) | 15 | YES |
 | [多邻国](https://www.duolingo.com/profile/yihong0618) | 1157 (点) | 88 | YES |
-| [词场](https://twitter.com/yihong06181/status/1359040099107897344?s=20) | 288 (天) | 27 | NO |
-| [俯卧撑](https://github.com/yihong0618/2021/issues/5) | 4280 (个) | 28 | NO |
-| [花费](https://github.com/yihong0618/2021/issues/7) | 5464 (元) | 53 | NO |
-| [冥想](https://github.com/yihong0618/2021/issues/9) | 63 (分钟) | 0 | NO |
+| [词场](https://twitter.com/yihong06181/status/1359040099107897344?s=20) | 289 (天) | 28 | YES |
+| [俯卧撑](https://github.com/yihong0618/2021/issues/5) | 4408 (个) | 29 | YES |
+| [花费](https://github.com/yihong0618/2021/issues/7) | 5484 (元) | 54 | YES |
+| [冥想](https://github.com/yihong0618/2021/issues/9) | 65 (分钟) | 1 | YES |
 | [早起](https://github.com/yihong0618/2021/issues/12) | 53 (天) | 53 | YES |
 
 <!--END_SECTION:my_number-->
