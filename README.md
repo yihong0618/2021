@@ -20,6 +20,9 @@
 
 ![](https://github.com/yihong0618/blog/blob/master/assets/github_2021.svg)
 
+## GitHub
+<img src="http://ghchart.rshah.org/yihong0618" alt="yihong0618">
+
 ## 我的 GitHub
 <img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&&hide_title=true" />
 
