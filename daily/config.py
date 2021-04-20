@@ -28,6 +28,9 @@ MEDITATION_LABEL_LIST = [
 MORNING_LABEL_LIST = [
     "Morning",
 ]
+GTD_LABEL_LIST = [
+    "GTD",
+]
 MY_BLOG_REPO = "yihong0618/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
@@ -43,14 +46,6 @@ LABEL_DICT = {
     "Game": {"label_list": GAME_LABEL_LIST, "comment_name": "my_game"},
 }
 
-##### COMMENTS DAILY ######
-LABEL_DAILY_DICT = {
-    # label, map_func, reduce_func
-    "俯卧撑": [PUSHUP_LABEL_LIST, int, sum],
-    "花费": [MONEY_LABEL_LIST, float, sum],
-    "冥想": [MEDITATION_LABEL_LIST, int, sum],
-    "早起": [MORNING_LABEL_LIST, len, len],  # Do Nothing
-}
 
 ##### SHANBAY ######
 MY_SHANBAY_USER_NAME = "ufewz"

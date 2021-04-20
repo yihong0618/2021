@@ -10,16 +10,17 @@ def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
     data_list = []
     url = ""
     month_summary_dict = defaultdict(int)
+    data = None
     for issue in issues:
         if not url:
             url = issue.html_url
         comments = issue.get_comments()
         for c in comments:
-            number_str = c.body.splitlines()[0]
             try:
-                data = map_func(number_str)
+                data = map_func(c)
                 data_list.append(data)
             except:
+                # becaue the format maybe wrong just pass
                 continue
             calendar_list.append(c.created_at)
             month = pendulum.instance(c.created_at).in_timezone("Asia/Shanghai").month

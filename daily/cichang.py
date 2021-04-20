@@ -1,6 +1,5 @@
 import hashlib
 import json
-from pprint import pprint
 
 import pendulum
 import requests

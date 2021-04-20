@@ -3,11 +3,10 @@ import argparse
 from github import Github
 
 from daily.config import (
-    LABEL_DAILY_DICT,
     MONTH_SUMMARY_HEAD,
     MONTH_SUMMARY_STAT_TEMPLATE,
 )
-from daily.utils import replace_readme_comments
+from daily.utils import replace_readme_comments, LABEL_DAILY_DICT
 from daily import MY_STATUS_DICT_FROM_API, MY_STATUS_DICT_FROM_COMMENTS
 
 
