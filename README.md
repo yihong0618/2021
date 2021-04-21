@@ -245,3 +245,5 @@
 | [vrk](https://www.vrk.dev/s) | 2021.04.07 | 有趣的外国人 | 学习 |
 | [tongmu](https://blog.tongmu.me/) | 2021.04.12 | 日语学习系列 | 像他学习 |
 | [deathking](https://deathking.github.io/) | 2021.04.16 | COOL | SICP |
+| [drdr.xp](http://drmingdrmer.github.io/archive.html) | 2021.04.21 | 有趣的牛人 | 面包机 |
+
