@@ -225,6 +225,7 @@
 | [Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) | 2021.04.09 |laixintao | 写的太好了 |
 | [年轻人的第一次删库跑路](https://www.kilerd.me/accidents/first-time-deleting-database-on-production/) | 2021.04.20 | mark | 等自己遇到 |
 | [过去这五年，我学到了什么](https://linghao.io/posts/five-year-learning-2013-2018) | 2021.04.22 | 思考自己 | 看看能做到多少 |
+| [用树莓派打造一个超薄魔镜](https://onevcat.com/2021/04/magicmirror/) | 2021.04.22 | todo | todo |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
