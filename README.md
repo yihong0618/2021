@@ -17,6 +17,10 @@
 
 <!--END_SECTION:my_number-->
 
+## 多邻国
+
+![](https://github.com/yihong0618/GitHubPoster/blob/main/examples/duolingo.svg)
+
 ## 跑步
 
 ![](https://github.com/yihong0618/blog/blob/master/assets/github_2021.svg)
