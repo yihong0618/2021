@@ -260,4 +260,4 @@
 | [deathking](https://deathking.github.io/) | 2021.04.16 | COOL | SICP |
 | [drdr.xp](http://drmingdrmer.github.io/archive.html) | 2021.04.21 | 有趣的牛人 | 面包机 |
 | [nickcheng](https://nickcheng.com/) | 2021.04.29 | 写了 20 年博客了 | 前辈 |
-
+| [Angelic Layer](https://moeka.me/blog/) | 2021.05.10 | 喜欢这样的文字 | PHD |
