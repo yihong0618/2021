@@ -262,3 +262,5 @@
 | [drdr.xp](http://drmingdrmer.github.io/archive.html) | 2021.04.21 | 有趣的牛人 | 面包机 |
 | [nickcheng](https://nickcheng.com/) | 2021.04.29 | 写了 20 年博客了 | 前辈 |
 | [Angelic Layer](https://moeka.me/blog/) | 2021.05.10 | 喜欢这样的文字 | PHD |
+| [夜行人](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/aboutme/) | 2021.05.17 | 有趣的人 | 有趣 |
+
