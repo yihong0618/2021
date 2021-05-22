@@ -170,7 +170,7 @@
 | 速冻饺子 | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758333214) | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758333214) | 1 |
 | 韭菜炒豆芽 | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758654272) | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758654272) | 1 |
 | 炒菜花 | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758656836) | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | 2 |
-| 蛋炒饭 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270) | [2021-02-27](https://github.com/yihong0618/2021/issues/1#issuecomment-787205379) | 3 |
+| 蛋炒饭 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270) | [2021-05-22](https://github.com/yihong0618/2021/issues/1#issuecomment-846473077) | 4 |
 | 西红柿鸡蛋汤 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270) | [2021-05-19](https://github.com/yihong0618/2021/issues/1#issuecomment-843969690) | 6 |
 | 韭菜炒鱿鱼 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759561262) | [2021-05-04](https://github.com/yihong0618/2021/issues/1#issuecomment-832312665) | 2 |
 | 芝士鸡蛋卷 | [2021-01-15](https://github.com/yihong0618/2021/issues/1#issuecomment-760578692) | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797823114) | 2 |
@@ -186,7 +186,7 @@
 | 肉沫豆腐 | [2021-01-30](https://github.com/yihong0618/2021/issues/1#issuecomment-770182366) | [2021-02-06](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468) | 2 |
 | 西红柿炒鸡蛋 | [2021-02-01](https://github.com/yihong0618/2021/issues/1#issuecomment-770830021) | [2021-04-11](https://github.com/yihong0618/2021/issues/1#issuecomment-817283119) | 2 |
 | 炒土豆丝 | [2021-02-01](https://github.com/yihong0618/2021/issues/1#issuecomment-770830520) | [2021-02-01](https://github.com/yihong0618/2021/issues/1#issuecomment-770830520) | 1 |
-| 煎饺 | [2021-02-05](https://github.com/yihong0618/2021/issues/1#issuecomment-773724018) | [2021-02-05](https://github.com/yihong0618/2021/issues/1#issuecomment-773724018) | 1 |
+| 煎饺 | [2021-02-05](https://github.com/yihong0618/2021/issues/1#issuecomment-773724018) | [2021-05-22](https://github.com/yihong0618/2021/issues/1#issuecomment-846473077) | 2 |
 | 烧鲅鱼 | [2021-02-06](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468) | [2021-02-06](https://github.com/yihong0618/2021/issues/1#issuecomment-774446468) | 1 |
 | 烤鱿鱼 | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | 1 |
 | 红烧鸡翅 | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | [2021-03-20](https://github.com/yihong0618/2021/issues/1#issuecomment-803272426) | 2 |
