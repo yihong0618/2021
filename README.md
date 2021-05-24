@@ -203,6 +203,7 @@
 | 油焖大虾 | [2021-05-04](https://github.com/yihong0618/2021/issues/1#issuecomment-832312665) | [2021-05-04](https://github.com/yihong0618/2021/issues/1#issuecomment-832312665) | 1 |
 | 酱鸡翅 | [2021-05-19](https://github.com/yihong0618/2021/issues/1#issuecomment-843969690) | [2021-05-19](https://github.com/yihong0618/2021/issues/1#issuecomment-843969690) | 1 |
 | 排骨玉米 | [2021-05-22](https://github.com/yihong0618/2021/issues/1#issuecomment-846408540) | [2021-05-22](https://github.com/yihong0618/2021/issues/1#issuecomment-846408540) | 1 |
+| 烤羊肉 | [2021-05-24](https://github.com/yihong0618/2021/issues/1#issuecomment-846966890) | [2021-05-24](https://github.com/yihong0618/2021/issues/1#issuecomment-846966890) | 1 |
 
 <!--END_SECTION:my_cook-->
 
