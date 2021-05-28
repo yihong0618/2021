@@ -250,14 +250,14 @@
 | 博客名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ---- | ---- |
 | [SHUHARI 的博客](https://shuhari.dev/blog/) | 2021.01.04 | 重写 500 Lines | 宝藏 |
-| [hololive](https://hololive.me/archive/) | 2021.01.08 | 机器学习 | 有趣的大牛 |
+| [hololive](https://hololive.me/archive/) | 2021.01.08 | 机器学习 | 有趣的大牛（网站 down） |
 | [极客兔兔](https://geektutu.com/) | 2021.01.28 | Go 教程 | 今年学 Go 用的到 |
 | [howardlau](https://howardlau.me/) | 2021.02.02 | k8s 及其它 | 有趣的年轻人 |
 | [jasonkayzk](https://jasonkayzk.github.io/) | 2021.02.04 | 编程 日语 | 宝藏少年 |
 | [Ray Eldath](https://ray-eldath.me/) | 2021.02.19 | 编程 文学 | 喜欢加缪的少年 |
 | [iany](https://blog.iany.me/) | 2021.02.26 | 记录自己的人 | 记录自己的人 |
 | [zhangjiee](http://www.zhangjiee.com/) | 2021.03.02 | 值得学习 | 和我爱好很像 |
-| [senevan](https://blog.senevan.com/archives/) | 2021.03.05 | 有意思的人 | 游戏程序员 |
+| [senevan](https://blog.senevan.com/archives/) | 2021.03.05 | 有意思的人 | 游戏程序员（down） |
 | [Eric Fu](https://ericfu.me/) | 2021.03.08 | 每篇文章质量好高 | 常看 |
 | [Eyfwu](https://yfwu.github.io/archive) | 2021.03.17 | 写周记的台湾朋友 | 真好 |
 | [清澄秋爽](https://dashen.tech/archives/) | 2021.03.18 | 喜欢这个人 | 猫的那篇看哭了 |
