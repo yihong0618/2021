@@ -149,6 +149,7 @@
 - [《一夫食堂》](https://github.com/yihong0618/2021/issues/3#issuecomment-782747734)　　　　　-->　2021-02-20
 - [《火星救援》](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053)　　　　　-->　2021-03-25
 - [《烟与镜》](https://github.com/yihong0618/2021/issues/3#issuecomment-822930818)　　　　　　-->　2021-04-20
+- [《海边的卡夫卡》](https://github.com/yihong0618/2021/issues/3#issuecomment-851099293)　　　-->　2021-05-31
 <!--END_SECTION:my_read-->
 
 ## 做饭
