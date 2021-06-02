@@ -28,7 +28,7 @@
 ## 我的 GitHub
 <img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&&hide_title=true&theme=radical" />
 
-<img src="http://ghchart.rshah.org/yihong0618" alt="yihong0618">
+![](https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/github.svg)
 
 <!--START_SECTION:my_github-->
 ## The repos I created
