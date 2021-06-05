@@ -174,7 +174,7 @@
 | 速冻饺子 | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758333214) | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758333214) | 1 |
 | 韭菜炒豆芽 | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758654272) | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758654272) | 1 |
 | 炒菜花 | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758656836) | [2021-02-07](https://github.com/yihong0618/2021/issues/1#issuecomment-774669520) | 2 |
-| 蛋炒饭 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270) | [2021-05-22](https://github.com/yihong0618/2021/issues/1#issuecomment-846473077) | 4 |
+| 蛋炒饭 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270) | [2021-06-05](https://github.com/yihong0618/2021/issues/1#issuecomment-855309459) | 5 |
 | 西红柿鸡蛋汤 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759170270) | [2021-05-19](https://github.com/yihong0618/2021/issues/1#issuecomment-843969690) | 6 |
 | 韭菜炒鱿鱼 | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759561262) | [2021-05-04](https://github.com/yihong0618/2021/issues/1#issuecomment-832312665) | 2 |
 | 芝士鸡蛋卷 | [2021-01-15](https://github.com/yihong0618/2021/issues/1#issuecomment-760578692) | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797823114) | 2 |
@@ -209,6 +209,7 @@
 | 排骨玉米 | [2021-05-22](https://github.com/yihong0618/2021/issues/1#issuecomment-846408540) | [2021-05-22](https://github.com/yihong0618/2021/issues/1#issuecomment-846408540) | 1 |
 | 烤羊肉 | [2021-05-24](https://github.com/yihong0618/2021/issues/1#issuecomment-846966890) | [2021-05-24](https://github.com/yihong0618/2021/issues/1#issuecomment-846966890) | 1 |
 | 虾仁滑蛋 | [2021-05-29](https://github.com/yihong0618/2021/issues/1#issuecomment-850792989) | [2021-05-29](https://github.com/yihong0618/2021/issues/1#issuecomment-850792989) | 1 |
+| 肉末茄子 | [2021-06-05](https://github.com/yihong0618/2021/issues/1#issuecomment-855309459) | [2021-06-05](https://github.com/yihong0618/2021/issues/1#issuecomment-855309459) | 1 |
 
 <!--END_SECTION:my_cook-->
 
