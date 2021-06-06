@@ -210,6 +210,9 @@
 | 烤羊肉 | [2021-05-24](https://github.com/yihong0618/2021/issues/1#issuecomment-846966890) | [2021-05-24](https://github.com/yihong0618/2021/issues/1#issuecomment-846966890) | 1 |
 | 虾仁滑蛋 | [2021-05-29](https://github.com/yihong0618/2021/issues/1#issuecomment-850792989) | [2021-05-29](https://github.com/yihong0618/2021/issues/1#issuecomment-850792989) | 1 |
 | 肉末茄子 | [2021-06-05](https://github.com/yihong0618/2021/issues/1#issuecomment-855309459) | [2021-06-05](https://github.com/yihong0618/2021/issues/1#issuecomment-855309459) | 1 |
+| 蒜香油麦菜 | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | 1 |
+| 黄花鱼 | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | 1 |
+| 烤鸡翅 | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | 1 |
 
 <!--END_SECTION:my_cook-->
 
