@@ -2,6 +2,10 @@ name: Replace README
 
 on:
   workflow_dispatch:
+    inputs:
+      test:
+        description: 'Test'
+        required: false
   issue_comment:
     types: [created, edited]
 
