@@ -39,6 +39,9 @@ jobs:
           source venv/bin/activate
           pip install -r requirements.txt
         if: steps.pip-cache.outputs.cache-hit != 'true'
+      - name: Test
+        run: |
+          echo  ${{ inputs.test }}
 
       - name: Replace README
         run: |
