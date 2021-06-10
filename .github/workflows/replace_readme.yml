@@ -41,7 +41,7 @@ jobs:
         if: steps.pip-cache.outputs.cache-hit != 'true'
       - name: Test
         run: |
-          echo  ${{ inputs.test }}
+          echo  ${{ github.event.inputs.test }}
 
       - name: Replace README
         run: |
