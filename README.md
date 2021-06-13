@@ -258,6 +258,7 @@
 | [过去这五年，我学到了什么](https://linghao.io/posts/five-year-learning-2013-2018) | 2021.04.22 | 思考自己 | 看看能做到多少 |
 | [用树莓派打造一个超薄魔镜](https://onevcat.com/2021/04/magicmirror/) | 2021.04.22 | todo | todo |
 | [Internal Link Analysis with Python](https://www.briggsby.com/internal-link-analysis-with-python) | 2021.06.03 | net | net |
+| [我的学习之路](http://www.piginzoo.com/education/2021/06/08/mylearn) | 2021.06.13 | 前辈的一篇文章 | mark |
 
 
 ## 收藏的博客
