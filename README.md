@@ -214,6 +214,9 @@
 | 蒜香油麦菜 | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | 1 |
 | 黄花鱼 | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | 1 |
 | 烤鸡翅 | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | [2021-06-06](https://github.com/yihong0618/2021/issues/1#issuecomment-855368291) | 1 |
+| 干煸豆角 | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | 1 |
+| 土豆排骨 | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | 1 |
+| 炒白菜 | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | 1 |
 
 <!--END_SECTION:my_cook-->
 
