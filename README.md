@@ -6,13 +6,13 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [扇贝](https://web.shanbay.com/web/users/ufewz/zone) | 1020 (天) | 1 | NO |
-| [多邻国](https://www.duolingo.com/profile/yihong0618) | 474 (点) | 6 | NO |
+| [扇贝](https://web.shanbay.com/web/users/ufewz/zone) | 1020 (天) | 0 | NO |
+| [多邻国](https://www.duolingo.com/profile/yihong0618) | 474 (点) | 0 | NO |
 | [词场](https://twitter.com/yihong06181/status/1359040099107897344?s=20) | 318 (天) | 0 | NO |
-| [俯卧撑](https://github.com/yihong0618/2021/issues/5) | 6994 (个) | 1 | NO |
-| [花费](https://github.com/yihong0618/2021/issues/7) | 9856 (元) | 1 | NO |
+| [俯卧撑](https://github.com/yihong0618/2021/issues/5) | 7014 (个) | 2 | NO |
+| [花费](https://github.com/yihong0618/2021/issues/7) | 9956 (元) | 2 | NO |
 | [冥想](https://github.com/yihong0618/2021/issues/9) | 100 (分钟) | 0 | NO |
-| [早起](https://github.com/yihong0618/2021/issues/12) | 113 (天) | 12 | YES |
+| [早起](https://github.com/yihong0618/2021/issues/12) | 114 (天) | 13 | YES |
 | [GTD](https://github.com/yihong0618/2021/issues/17) | 75 (个) | 0 | NO |
 
 <!--END_SECTION:my_number-->
@@ -34,8 +34,8 @@
 ## The repos I created
 | ID  |                                      REPO                                      |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |-----|--------------------------------------------------------------------------------|------------|------------|------------|-------|
-|   1 | [running_page](https://github.com/yihong0618/running_page)                     | 2020-09-17 | 2021-06-13 | Python     |  1279 |
-|   2 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                     | 2021-04-21 | 2021-06-13 | Python     |   246 |
+|   1 | [running_page](https://github.com/yihong0618/running_page)                     | 2020-09-17 | 2021-06-13 | Python     |  1281 |
+|   2 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                     | 2021-04-21 | 2021-06-13 | Python     |   248 |
 |   3 | [gitblog](https://github.com/yihong0618/gitblog)                               | 2019-07-18 | 2021-06-13 | Python     |   136 |
 |   4 | [2020](https://github.com/yihong0618/2020)                                     | 2020-01-10 | 2021-06-02 | C          |   117 |
 |   5 | [2021](https://github.com/yihong0618/2021)                                     | 2020-12-21 | 2021-06-13 | Python     |   105 |
@@ -48,7 +48,7 @@
 |  12 | [duolingo_remember](https://github.com/yihong0618/duolingo_remember)           | 2021-01-18 | 2021-06-09 | Python     |    16 |
 |  13 | [running_skyline](https://github.com/yihong0618/running_skyline)               | 2021-03-02 | 2021-05-15 | Python     |    16 |
 |  14 | [blog](https://github.com/yihong0618/blog)                                     | 2020-06-22 | 2021-06-13 | JavaScript |    11 |
-|  15 | [iBeats](https://github.com/yihong0618/iBeats)                                 | 2021-06-11 | 2021-06-12 | Python     |     8 |
+|  15 | [iBeats](https://github.com/yihong0618/iBeats)                                 | 2021-06-11 | 2021-06-14 | Python     |    10 |
 |  16 | [Runtastic](https://github.com/yihong0618/Runtastic)                           | 2020-07-24 | 2020-11-16 | Python     |     7 |
 |  17 | [Python365](https://github.com/yihong0618/Python365)                           | 2019-09-05 | 2021-05-27 | Python     |     5 |
 |  18 | [github_upstream_script](https://github.com/yihong0618/github_upstream_script) | 2021-05-08 | 2021-05-08 | Python     |     1 |
@@ -60,7 +60,7 @@
 |  24 | [gaycore-server](https://github.com/yihong0618/gaycore-server)                 | 2019-02-18 | 2020-11-02 | Go         |     0 |
 |  25 | [Frontend100](https://github.com/yihong0618/Frontend100)                       | 2019-10-31 | 2019-12-05 | HTML       |     0 |
 |  26 | [zouzou0208.github.io](https://github.com/yihong0618/zouzou0208.github.io)     | 2018-03-06 | 2018-03-06 | HTML       |     0 |
-| sum |                                                                                |            |            |            |  2203 |
+| sum |                                                                                |            |            |            |  2209 |
 
 ## The repos I contributed to
 | ID  |                                       REPO                                        |                                   FIRSTDATE                                   |                                   LASTEDATE                                   |                                             PRCOUNT                                             |
@@ -71,41 +71,41 @@
 |   4 | [nrc-exporter](https://github.com/yasoob/nrc-exporter)                            | [2020-07-05](https://github.com/yasoob/nrc-exporter/pull/2)                   | [2020-10-07](https://github.com/yasoob/nrc-exporter/pull/11)                  | [5](https://github.com/yasoob/nrc-exporter/pulls?q=is%3Apr+author%3Ayihong0618)                 |
 |   5 | [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)                 | [2020-08-04](https://github.com/ElaWorkshop/awesome-cn-cafe/pull/167)         | [2020-08-10](https://github.com/ElaWorkshop/awesome-cn-cafe/pull/170)         | [3](https://github.com/ElaWorkshop/awesome-cn-cafe/pulls?q=is%3Apr+author%3Ayihong0618)         |
 |   6 | [kb](https://github.com/gnebbia/kb)                                               | [2020-09-21](https://github.com/gnebbia/kb/pull/13)                           | [2020-09-23](https://github.com/gnebbia/kb/pull/28)                           | [3](https://github.com/gnebbia/kb/pulls?q=is%3Apr+author%3Ayihong0618)                          |
-|   7 | [strava-datasource](https://github.com/grafana/strava-datasource)                 | [2021-04-13](https://github.com/grafana/strava-datasource/pull/34)            | [2021-05-13](https://github.com/grafana/strava-datasource/pull/39)            | [2](https://github.com/grafana/strava-datasource/pulls?q=is%3Apr+author%3Ayihong0618)           |
-|   8 | [activities](https://github.com/flopp/activities)                                 | [2020-07-09](https://github.com/flopp/activities/pull/41)                     | [2020-07-14](https://github.com/flopp/activities/pull/44)                     | [2](https://github.com/flopp/activities/pulls?q=is%3Apr+author%3Ayihong0618)                    |
-|   9 | [python-garminconnect](https://github.com/cyberjunky/python-garminconnect)        | [2021-02-26](https://github.com/cyberjunky/python-garminconnect/pull/43)      | [2021-05-25](https://github.com/cyberjunky/python-garminconnect/pull/49)      | [2](https://github.com/cyberjunky/python-garminconnect/pulls?q=is%3Apr+author%3Ayihong0618)     |
-|  10 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                           | [2020-09-20](https://github.com/flopp/py-staticmaps/pull/7)                   | [2021-03-24](https://github.com/flopp/py-staticmaps/pull/17)                  | [2](https://github.com/flopp/py-staticmaps/pulls?q=is%3Apr+author%3Ayihong0618)                 |
-|  11 | [nebula-python](https://github.com/vesoft-inc/nebula-python)                      | [2021-05-19](https://github.com/vesoft-inc/nebula-python/pull/106)            | [2021-05-20](https://github.com/vesoft-inc/nebula-python/pull/108)            | [2](https://github.com/vesoft-inc/nebula-python/pulls?q=is%3Apr+author%3Ayihong0618)            |
-|  12 | [iredis](https://github.com/laixintao/iredis)                                     | [2019-12-30](https://github.com/laixintao/iredis/pull/184)                    | [2020-09-16](https://github.com/laixintao/iredis/pull/360)                    | [2](https://github.com/laixintao/iredis/pulls?q=is%3Apr+author%3Ayihong0618)                    |
-|  13 | [Tweet2Telegram](https://github.com/NeverBehave/Tweet2Telegram)                   | [2021-05-21](https://github.com/NeverBehave/Tweet2Telegram/pull/7)            | [2021-05-21](https://github.com/NeverBehave/Tweet2Telegram/pull/7)            | [2](https://github.com/NeverBehave/Tweet2Telegram/pulls?q=is%3Apr+author%3Ayihong0618)          |
-|  14 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                             | [2019-09-25](https://github.com/rabbitism/GadioVideo/pull/16)                 | [2019-09-25](https://github.com/rabbitism/GadioVideo/pull/16)                 | [1](https://github.com/rabbitism/GadioVideo/pulls?q=is%3Apr+author%3Ayihong0618)                |
-|  15 | [xrkffgg](https://github.com/xrkffgg/xrkffgg)                                     | [2021-03-18](https://github.com/xrkffgg/xrkffgg/pull/3)                       | [2021-03-18](https://github.com/xrkffgg/xrkffgg/pull/3)                       | [1](https://github.com/xrkffgg/xrkffgg/pulls?q=is%3Apr+author%3Ayihong0618)                     |
+|   7 | [iredis](https://github.com/laixintao/iredis)                                     | [2019-12-30](https://github.com/laixintao/iredis/pull/184)                    | [2020-09-16](https://github.com/laixintao/iredis/pull/360)                    | [2](https://github.com/laixintao/iredis/pulls?q=is%3Apr+author%3Ayihong0618)                    |
+|   8 | [strava-datasource](https://github.com/grafana/strava-datasource)                 | [2021-04-13](https://github.com/grafana/strava-datasource/pull/34)            | [2021-05-13](https://github.com/grafana/strava-datasource/pull/39)            | [2](https://github.com/grafana/strava-datasource/pulls?q=is%3Apr+author%3Ayihong0618)           |
+|   9 | [Tweet2Telegram](https://github.com/NeverBehave/Tweet2Telegram)                   | [2021-05-21](https://github.com/NeverBehave/Tweet2Telegram/pull/7)            | [2021-05-21](https://github.com/NeverBehave/Tweet2Telegram/pull/7)            | [2](https://github.com/NeverBehave/Tweet2Telegram/pulls?q=is%3Apr+author%3Ayihong0618)          |
+|  10 | [activities](https://github.com/flopp/activities)                                 | [2020-07-09](https://github.com/flopp/activities/pull/41)                     | [2020-07-14](https://github.com/flopp/activities/pull/44)                     | [2](https://github.com/flopp/activities/pulls?q=is%3Apr+author%3Ayihong0618)                    |
+|  11 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                           | [2020-09-20](https://github.com/flopp/py-staticmaps/pull/7)                   | [2021-03-24](https://github.com/flopp/py-staticmaps/pull/17)                  | [2](https://github.com/flopp/py-staticmaps/pulls?q=is%3Apr+author%3Ayihong0618)                 |
+|  12 | [nebula-python](https://github.com/vesoft-inc/nebula-python)                      | [2021-05-19](https://github.com/vesoft-inc/nebula-python/pull/106)            | [2021-05-20](https://github.com/vesoft-inc/nebula-python/pull/108)            | [2](https://github.com/vesoft-inc/nebula-python/pulls?q=is%3Apr+author%3Ayihong0618)            |
+|  13 | [python-garminconnect](https://github.com/cyberjunky/python-garminconnect)        | [2021-02-26](https://github.com/cyberjunky/python-garminconnect/pull/43)      | [2021-05-25](https://github.com/cyberjunky/python-garminconnect/pull/49)      | [2](https://github.com/cyberjunky/python-garminconnect/pulls?q=is%3Apr+author%3Ayihong0618)     |
+|  14 | [highlight](https://github.com/wenyan-lang/highlight)                             | [2020-09-08](https://github.com/wenyan-lang/highlight/pull/4)                 | [2020-09-08](https://github.com/wenyan-lang/highlight/pull/4)                 | [1](https://github.com/wenyan-lang/highlight/pulls?q=is%3Apr+author%3Ayihong0618)               |
+|  15 | [hub-mirror-action](https://github.com/Yikun/hub-mirror-action)                   | [2021-04-09](https://github.com/Yikun/hub-mirror-action/pull/101)             | [2021-04-09](https://github.com/Yikun/hub-mirror-action/pull/101)             | [1](https://github.com/Yikun/hub-mirror-action/pulls?q=is%3Apr+author%3Ayihong0618)             |
 |  16 | [gitlab-skyline](https://github.com/felixgomez/gitlab-skyline)                    | [2021-03-02](https://github.com/felixgomez/gitlab-skyline/pull/6)             | [2021-03-02](https://github.com/felixgomez/gitlab-skyline/pull/6)             | [1](https://github.com/felixgomez/gitlab-skyline/pulls?q=is%3Apr+author%3Ayihong0618)           |
-|  17 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)          | [2020-01-16](https://github.com/jackiewillen/build-your-own-vue/pull/1)       | [2020-01-16](https://github.com/jackiewillen/build-your-own-vue/pull/1)       | [1](https://github.com/jackiewillen/build-your-own-vue/pulls?q=is%3Apr+author%3Ayihong0618)     |
-|  18 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)                 | [2020-02-04](https://github.com/xiaolai/help-to-be-helped/pull/4)             | [2020-02-04](https://github.com/xiaolai/help-to-be-helped/pull/4)             | [1](https://github.com/xiaolai/help-to-be-helped/pulls?q=is%3Apr+author%3Ayihong0618)           |
-|  19 | [highlight](https://github.com/wenyan-lang/highlight)                             | [2020-09-08](https://github.com/wenyan-lang/highlight/pull/4)                 | [2020-09-08](https://github.com/wenyan-lang/highlight/pull/4)                 | [1](https://github.com/wenyan-lang/highlight/pulls?q=is%3Apr+author%3Ayihong0618)               |
-|  20 | [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | [2021-05-11](https://github.com/pingcap/awesome-database-learning/pull/37)    | [2021-05-11](https://github.com/pingcap/awesome-database-learning/pull/37)    | [1](https://github.com/pingcap/awesome-database-learning/pulls?q=is%3Apr+author%3Ayihong0618)   |
-|  21 | [LearnJapan](https://github.com/wizicer/LearnJapan)                               | [2020-03-31](https://github.com/wizicer/LearnJapan/pull/2)                    | [2020-03-31](https://github.com/wizicer/LearnJapan/pull/2)                    | [1](https://github.com/wizicer/LearnJapan/pulls?q=is%3Apr+author%3Ayihong0618)                  |
-|  22 | [TopList](https://github.com/tophubs/TopList)                                     | [2019-08-19](https://github.com/tophubs/TopList/pull/13)                      | [2019-08-19](https://github.com/tophubs/TopList/pull/13)                      | [1](https://github.com/tophubs/TopList/pulls?q=is%3Apr+author%3Ayihong0618)                     |
-|  23 | [hub-mirror-action](https://github.com/Yikun/hub-mirror-action)                   | [2021-04-09](https://github.com/Yikun/hub-mirror-action/pull/101)             | [2021-04-09](https://github.com/Yikun/hub-mirror-action/pull/101)             | [1](https://github.com/Yikun/hub-mirror-action/pulls?q=is%3Apr+author%3Ayihong0618)             |
+|  17 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)               | [2020-08-18](https://github.com/antfu/awesome-cn-cafe-web/pull/5)             | [2020-08-18](https://github.com/antfu/awesome-cn-cafe-web/pull/5)             | [1](https://github.com/antfu/awesome-cn-cafe-web/pulls?q=is%3Apr+author%3Ayihong0618)           |
+|  18 | [TopList](https://github.com/tophubs/TopList)                                     | [2019-08-19](https://github.com/tophubs/TopList/pull/13)                      | [2019-08-19](https://github.com/tophubs/TopList/pull/13)                      | [1](https://github.com/tophubs/TopList/pulls?q=is%3Apr+author%3Ayihong0618)                     |
+|  19 | [xrkffgg](https://github.com/xrkffgg/xrkffgg)                                     | [2021-03-18](https://github.com/xrkffgg/xrkffgg/pull/3)                       | [2021-03-18](https://github.com/xrkffgg/xrkffgg/pull/3)                       | [1](https://github.com/xrkffgg/xrkffgg/pulls?q=is%3Apr+author%3Ayihong0618)                     |
+|  20 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                             | [2019-09-25](https://github.com/rabbitism/GadioVideo/pull/16)                 | [2019-09-25](https://github.com/rabbitism/GadioVideo/pull/16)                 | [1](https://github.com/rabbitism/GadioVideo/pulls?q=is%3Apr+author%3Ayihong0618)                |
+|  21 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)          | [2020-01-16](https://github.com/jackiewillen/build-your-own-vue/pull/1)       | [2020-01-16](https://github.com/jackiewillen/build-your-own-vue/pull/1)       | [1](https://github.com/jackiewillen/build-your-own-vue/pulls?q=is%3Apr+author%3Ayihong0618)     |
+|  22 | [nebula](https://github.com/vesoft-inc/nebula)                                    | [2021-05-17](https://github.com/vesoft-inc/nebula/pull/2476)                  | [2021-05-17](https://github.com/vesoft-inc/nebula/pull/2476)                  | [1](https://github.com/vesoft-inc/nebula/pulls?q=is%3Apr+author%3Ayihong0618)                   |
+|  23 | [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | [2021-05-11](https://github.com/pingcap/awesome-database-learning/pull/37)    | [2021-05-11](https://github.com/pingcap/awesome-database-learning/pull/37)    | [1](https://github.com/pingcap/awesome-database-learning/pulls?q=is%3Apr+author%3Ayihong0618)   |
 |  24 | [olo](https://github.com/yetone/olo)                                              | [2021-04-12](https://github.com/yetone/olo/pull/91)                           | [2021-04-12](https://github.com/yetone/olo/pull/91)                           | [1](https://github.com/yetone/olo/pulls?q=is%3Apr+author%3Ayihong0618)                          |
-|  25 | [nebula](https://github.com/vesoft-inc/nebula)                                    | [2021-05-17](https://github.com/vesoft-inc/nebula/pull/2476)                  | [2021-05-17](https://github.com/vesoft-inc/nebula/pull/2476)                  | [1](https://github.com/vesoft-inc/nebula/pulls?q=is%3Apr+author%3Ayihong0618)                   |
-|  26 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)               | [2020-08-18](https://github.com/antfu/awesome-cn-cafe-web/pull/5)             | [2020-08-18](https://github.com/antfu/awesome-cn-cafe-web/pull/5)             | [1](https://github.com/antfu/awesome-cn-cafe-web/pulls?q=is%3Apr+author%3Ayihong0618)           |
+|  25 | [LearnJapan](https://github.com/wizicer/LearnJapan)                               | [2020-03-31](https://github.com/wizicer/LearnJapan/pull/2)                    | [2020-03-31](https://github.com/wizicer/LearnJapan/pull/2)                    | [1](https://github.com/wizicer/LearnJapan/pulls?q=is%3Apr+author%3Ayihong0618)                  |
+|  26 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)                 | [2020-02-04](https://github.com/xiaolai/help-to-be-helped/pull/4)             | [2020-02-04](https://github.com/xiaolai/help-to-be-helped/pull/4)             | [1](https://github.com/xiaolai/help-to-be-helped/pulls?q=is%3Apr+author%3Ayihong0618)           |
 | sum |                                                                                   |                                                                               |                                                                               |                                                                                              64 |
 
 ## The repos I stared (random 10)
-| ID |                                                            REPO                                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)                                                   | 2020-01-16 | JavaScript       | 2021-02-26   |
-|  2 | [pandas_exercises](https://github.com/guipsamora/pandas_exercises)                                                         | 2017-12-09 | Jupyter Notebook | 2021-06-12   |
-|  3 | [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)                                                                 | 2018-02-22 | Python           | 2021-06-11   |
-|  4 | [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)                                                               | 2019-03-25 | CSS              | 2021-06-12   |
-|  5 | [USDSeg-FCOS](https://github.com/YoruCathy/USDSeg-FCOS)                                                                    | 2021-03-29 | Python           | 2021-06-08   |
-|  6 | [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) | 2019-11-06 | Python           | 2021-06-13   |
-|  7 | [personal-influxdb](https://github.com/c99koder/personal-influxdb)                                                         | 2021-04-23 | Python           | 2021-06-12   |
-|  8 | [hacking-mifit-api](https://github.com/micw/hacking-mifit-api)                                                             | 2021-01-21 | Python           | 2021-06-12   |
-|  9 | [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)                                                                  | 2019-10-25 | Go               | 2021-06-13   |
-| 10 | [garbage-collect](https://github.com/brewlin/garbage-collect)                                                              | 2020-11-13 | C                | 2021-05-14   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [lightsocks](https://github.com/gwuhaolin/lightsocks)                                                 | 2019-07-23 | Go         | 2021-06-12   |
+|  2 | [vscode-database](https://github.com/Bajdzis/vscode-database)                                         | 2020-01-15 | TypeScript | 2021-05-19   |
+|  3 | [hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab)                                    | 2020-09-30 | TypeScript | 2021-06-13   |
+|  4 | [http-api-design-ZH_CN](https://github.com/Dreampie/http-api-design-ZH_CN)                            | 2021-01-04 | HTML       | 2021-03-31   |
+|  5 | [vue-163-music](https://github.com/ShanaMaid/vue-163-music)                                           | 2017-05-26 | JavaScript | 2021-06-09   |
+|  6 | [r0capture](https://github.com/r0ysue/r0capture)                                                      | 2020-12-01 | JavaScript | 2021-06-11   |
+|  7 | [TorCMS](https://github.com/bukun/TorCMS)                                                             | 2018-05-11 | Python     | 2021-06-07   |
+|  8 | [viztracer](https://github.com/gaogaotiantian/viztracer)                                              | 2020-10-26 | Python     | 2021-06-13   |
+|  9 | [toydb](https://github.com/erikgrinaker/toydb)                                                        | 2020-09-15 | Rust       | 2021-06-14   |
+| 10 | [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) | 2019-06-27 | JavaScript | 2021-06-13   |
 
 <!--END_SECTION:my_github-->
 
