@@ -38,7 +38,7 @@ def main(github_token, repo_name, issue_number, issue_label_name):
         comment_str = parse_func(me, issues)
         comments_name = labels.get("comment_name", "")
     else:
-        # from 2021
+        # from 2021 just for me(yihong0618), if you want to use you can delete the lines below
         since = datetime(2021, 1, 1)
         issues = u.get_repo(MY_BLOG_REPO).get_issues(since=since, creator=me)
         comment_str = parse_blog_issues_str(since, issues)

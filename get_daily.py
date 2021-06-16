@@ -78,7 +78,7 @@ def main(
                 # from the summary table
                 if b.startswith("|"):
                     break
-                body += b + "\r\n"
+                body += b
             body = body + "\r\n" + make_month_summary_str(month_summary_dict, unit)
             # edit this issue body
             i.edit(body=body)
