@@ -286,5 +286,7 @@
 | [Angelic Layer](https://moeka.me/blog/) | 2021.05.10 | 喜欢这样的文字 | PHD |
 | [夜行人](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/aboutme/) | 2021.05.17 | 有趣的人 | 有趣 |
 | [Linus.](https://thesephist.com/) | 2021.05.27 | 喜欢这个人 | English |
-| [ssshooter](https://ssshooter.com/tag/diary) | 2021.01.11 | cool | 自律有趣 |
+| [ssshooter](https://ssshooter.com/tag/diary) | 2021.06.11 | cool | 自律有趣 |
+| [jstrieb](https://jstrieb.github.io/about/) | 2021.06.16 | hacker | English |
+
 
