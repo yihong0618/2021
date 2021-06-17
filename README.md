@@ -222,6 +222,7 @@
 
 ## 写博客
 <!--START_SECTION:my_blog-->
+- [准备今年年底或明年初换工作](https://github.com/yihong0618/gitblog/issues/210)　　-->　2021-06-17
 - [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209)　-->　2021-05-28
 - [逃离](https://github.com/yihong0618/gitblog/issues/208)　　　　　　　　　　　　　-->　2021-05-12
 - [近况](https://github.com/yihong0618/gitblog/issues/207)　　　　　　　　　　　　　-->　2021-03-25
