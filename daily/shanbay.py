@@ -1,5 +1,5 @@
-import requests
 import pendulum
+import requests
 
 from .config import MY_SHANBAY_USER_NAME, SHANBAY_CALENDAR_API
 

@@ -58,12 +58,23 @@ MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
 ##### CICHANG ######
 MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
 
+##### BASE COMMENT TABLE ######
+BASE_ISSUE_STAT_HEAD = "| Name | Start | Update | \n | ---- | ---- | ---- | \n"
+BASE_ISSUE_STAT_TEMPLATE = "| {name} | {start} | {update} | \n"
 
-##### FOOD ######
-MY_FOOD_STAT_HEAD = (
+##### BLOG COMMENT ######
+BLOG_ISSUE_STAT_HEAD = (
+    "| Name | Start | Update | Comments | \n | ---- | ---- | ---- | ---- |\n"
+)
+BLOG_ISSUE_STAT_TEMPLATE = "| {name} | {start} | {update} | {comments} | \n"
+
+
+##### FOOD COMMENT TABLE ######
+FOOD_ISSUE_STAT_HEAD = (
     "| Name | First_date | Last_date | Times | \n | ---- | ---- | ---- | ---- |\n"
 )
-MY_FOOD_STAT_TEMPLATE = "| {name} | {first_date} | {last_date} | {times} |\n"
+FOOD_ISSUE_STAT_TEMPLATE = "| {name} | {first_date} | {last_date} | {times} |\n"
+
 
 ##### Month Summary ######
 MONTH_SUMMARY_HEAD = "| Month | Number | \n | ---- | ---- | \n"

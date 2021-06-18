@@ -1,15 +1,20 @@
 import re
 from collections import defaultdict
+from datetime import datetime
 
 from .config import (
+    BASE_ISSUE_STAT_HEAD,
+    BASE_ISSUE_STAT_TEMPLATE,
+    BLOG_ISSUE_STAT_HEAD,
+    BLOG_ISSUE_STAT_TEMPLATE,
+    FOOD_ISSUE_STAT_HEAD,
+    FOOD_ISSUE_STAT_TEMPLATE,
     GITHUB_README_COMMENTS,
-    MY_FOOD_STAT_HEAD,
-    MY_FOOD_STAT_TEMPLATE,
-    PUSHUP_LABEL_LIST,
-    MONEY_LABEL_LIST,
-    MEDITATION_LABEL_LIST,
-    MORNING_LABEL_LIST,
     GTD_LABEL_LIST,
+    MEDITATION_LABEL_LIST,
+    MONEY_LABEL_LIST,
+    MORNING_LABEL_LIST,
+    PUSHUP_LABEL_LIST,
 )
 
 
@@ -36,33 +41,8 @@ def replace_readme_comments(file_name, comment_str, comments_name):
         f.truncate()
 
 
-def to_add_spaces(longest_str_len, title):
-    # 这是个全角的空格
-    spaces = "　" * (longest_str_len + 1 - len(title))
-    return spaces + "-->" + "　"
-
-
-def parse_comment_title(comment_body, comment_url, create_time, longest_str_len):
-    title = comment_body.splitlines()[0]
-    # format markdown with same length
-    return (
-        f"- [{title}]({comment_url})"
-        + to_add_spaces(longest_str_len, title)
-        + format_time(create_time)
-    )
-
-
-def parse_blog_title(issue, longest_str_len):
-    title = issue.title
-    return (
-        f"- [{title}]({issue.html_url})"
-        + to_add_spaces(longest_str_len, title)
-        + format_time(issue.created_at)
-    )
-
-
-def parse_cook_issue_table(me, issues):
-    comments_str = MY_FOOD_STAT_HEAD
+def make_cook_issue_table(me, issues):
+    comments_str = FOOD_ISSUE_STAT_HEAD
     food_dict = defaultdict(lambda: ["", "", 0])
     for issue in issues:
         comments = issue.get_comments()
@@ -80,46 +60,59 @@ def parse_cook_issue_table(me, issues):
                     food_dict[food][1] = f"[{date_str}]({c.html_url})"
                 food_dict[food][2] += 1
     for k, v in food_dict.items():
-        comments_str += MY_FOOD_STAT_TEMPLATE.format(
+        comments_str += FOOD_ISSUE_STAT_TEMPLATE.format(
             name=k, first_date=v[0], last_date=v[1], times=v[2]
         )
     return comments_str
 
 
-def parse_base_issues_comments_str(me, issues):
-    comment_list = []
-    longest_str_len = 0
+def make_base_issues_comments_str(me, issues):
+    comments_str = BASE_ISSUE_STAT_HEAD
     for issue in issues:
         comments = issue.get_comments()
         for c in comments:
             is_me = isMe(c, me)
-            str_len = len(c.body.splitlines()[0])
             # for format
-            if str_len > longest_str_len and is_me:
-                longest_str_len = str_len
             if is_me:
-                comment_list.append(c)
-    comment_list = [
-        parse_comment_title(c.body, c.html_url, c.created_at, longest_str_len)
-        for c in comment_list
-    ]
-    comment_str = "\n".join(comment_list)
-    return comment_str
+                name = c.body.splitlines()[0]
+                comments_str += BASE_ISSUE_STAT_TEMPLATE.format(
+                    name=f"[{name}]({c.html_url})",
+                    start=format_time(c.created_at),
+                    update=format_time(c.updated_at),
+                )
+    return comments_str
 
 
-def parse_blog_issues_str(since, issues):
-    comment_list = []
-    longest_str_len = 0
+def make_blog_issues_str(since, issues):
+    """
+    only get this year post
+    """
+    comment_str = BLOG_ISSUE_STAT_HEAD
     for issue in issues:
         if issue.created_at < since:
             continue
-        str_len = len(issue.title)
-        # for format
-        if str_len > longest_str_len:
-            longest_str_len = str_len
-        comment_list.append(issue)
-    comment_list = [parse_blog_title(c, longest_str_len) for c in comment_list]
-    comment_str = "\n".join(comment_list)
+        comments = issue.get_comments()
+        comments_count = len(list(comments))
+        # min datetime
+        year = datetime.now().year
+        comments_update = (
+            max([i.updated_at for i in comments])
+            if comments_count
+            else datetime(year, 1, 1)
+        )
+        create = format_time(issue.created_at)
+        # the latest update no matter comment or post min data(2021?)
+        update = (
+            format_time(issue.updated_at)
+            if comments_update < issue.updated_at
+            else format_time(comments_update)
+        )
+        comment_str += BLOG_ISSUE_STAT_TEMPLATE.format(
+            name=f"[{issue.title}]({issue.html_url})",
+            start=create,
+            update=update,
+            comments=comments_count,
+        )
     return comment_str
 
 
@@ -154,12 +147,14 @@ def commnet_to_count(comment):
 
 
 def comment_to_GTD_count(comment):
+    """
+    start - [x] means task done in md
+    """
     data = comment.body.splitlines()
     count = 0
     for d in data:
         if d.startswith("- [x]"):
             count += 1
-            print(count)
     return count
 
 

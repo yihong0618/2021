@@ -1,9 +1,8 @@
-from .shanbay import get_shanbay_daily
-from .duolingo import get_duolingo_daily
 from .cichang import get_cichang_daily
-from .config import MY_SHANBAY_URL, MY_DUOLINGO_URL, MY_CICHANG_URL
+from .config import MY_CICHANG_URL, MY_DUOLINGO_URL, MY_SHANBAY_URL
+from .duolingo import get_duolingo_daily
 from .from_issues import get_info_from_issue_comments
-
+from .shanbay import get_shanbay_daily
 
 MY_STATUS_DICT_FROM_API = {
     # TODO url

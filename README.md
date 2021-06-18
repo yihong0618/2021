@@ -112,46 +112,61 @@
 ## 刷剧
 
 <!--START_SECTION:my_drama-->
-- [《弥留之际的爱丽丝》](https://github.com/yihong0618/2021/issues/8#issuecomment-763342696)　-->　2021-01-20
-- [《旺达幻视》](https://github.com/yihong0618/2021/issues/8#issuecomment-781113541)　　　　　-->　2021-02-18
-- [《猎鹰与冬兵》](https://github.com/yihong0618/2021/issues/8#issuecomment-826454493)　　　　-->　2021-04-26
-- [《爱死亡和机器人》](https://github.com/yihong0618/2021/issues/8#issuecomment-842002234)　　-->　2021-05-17
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《弥留之际的爱丽丝》](https://github.com/yihong0618/2021/issues/8#issuecomment-763342696) | 2021-01-20 | 2021-01-20 | 
+| [《旺达幻视》](https://github.com/yihong0618/2021/issues/8#issuecomment-781113541) | 2021-02-18 | 2021-02-18 | 
+| [《猎鹰与冬兵》](https://github.com/yihong0618/2021/issues/8#issuecomment-826454493) | 2021-04-26 | 2021-04-26 | 
+| [《爱死亡和机器人》](https://github.com/yihong0618/2021/issues/8#issuecomment-842002234) | 2021-05-17 | 2021-05-17 | 
+
 <!--END_SECTION:my_drama-->
 
 ## 追番
 
 <!--START_SECTION:my_bangumi-->
-- [《魔法少女小圆》](https://github.com/yihong0618/2021/issues/6#issuecomment-762793498)　-->　2021-01-19
-- [《堀与宫村》](https://github.com/yihong0618/2021/issues/6#issuecomment-766481567)　　　-->　2021-01-25
-- [《夏日重现》](https://github.com/yihong0618/2021/issues/6#issuecomment-792417270)　　　-->　2021-03-08
-- [《杀手寓言》](https://github.com/yihong0618/2021/issues/6#issuecomment-814546620)　　　-->　2021-04-07
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《魔法少女小圆》](https://github.com/yihong0618/2021/issues/6#issuecomment-762793498) | 2021-01-19 | 2021-01-20 | 
+| [《堀与宫村》](https://github.com/yihong0618/2021/issues/6#issuecomment-766481567) | 2021-01-25 | 2021-01-25 | 
+| [《夏日重现》](https://github.com/yihong0618/2021/issues/6#issuecomment-792417270) | 2021-03-08 | 2021-03-08 | 
+| [《杀手寓言》](https://github.com/yihong0618/2021/issues/6#issuecomment-814546620) | 2021-04-07 | 2021-04-07 | 
+
 <!--END_SECTION:my_bangumi-->
 
 ## 观影
 
 <!--START_SECTION:my_movie-->
-- [《汽车总动员第一部》](https://github.com/yihong0618/2021/issues/2#issuecomment-757446059)　-->　2021-01-10
-- [《汽车总动员第二部》](https://github.com/yihong0618/2021/issues/2#issuecomment-757454250)　-->　2021-01-10
-- [《送你一朵小红花》](https://github.com/yihong0618/2021/issues/2#issuecomment-757455042)　　-->　2021-01-10
-- [《悬崖之下》](https://github.com/yihong0618/2021/issues/2#issuecomment-830620223)　　　　　-->　2021-05-01
-- [《无罪之最》](https://github.com/yihong0618/2021/issues/2#issuecomment-833179636)　　　　　-->　2021-05-06
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《汽车总动员第一部》](https://github.com/yihong0618/2021/issues/2#issuecomment-757446059) | 2021-01-10 | 2021-01-12 | 
+| [《汽车总动员第二部》](https://github.com/yihong0618/2021/issues/2#issuecomment-757454250) | 2021-01-10 | 2021-01-12 | 
+| [《送你一朵小红花》](https://github.com/yihong0618/2021/issues/2#issuecomment-757455042) | 2021-01-10 | 2021-01-12 | 
+| [《悬崖之下》](https://github.com/yihong0618/2021/issues/2#issuecomment-830620223) | 2021-05-01 | 2021-05-01 | 
+| [《无罪之最》](https://github.com/yihong0618/2021/issues/2#issuecomment-833179636) | 2021-05-06 | 2021-05-06 | 
+
 <!--END_SECTION:my_movie-->
 
 ## 游戏
 <!--START_SECTION:my_game-->
-- [《哈迪斯》](https://github.com/yihong0618/2021/issues/11#issuecomment-772144499)　　　-->　2021-02-03
-- [《马里奥手游》](https://github.com/yihong0618/2021/issues/11#issuecomment-800756308)　-->　2021-03-17
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《哈迪斯》](https://github.com/yihong0618/2021/issues/11#issuecomment-772144499) | 2021-02-03 | 2021-02-03 | 
+| [《马里奥手游》](https://github.com/yihong0618/2021/issues/11#issuecomment-800756308) | 2021-03-17 | 2021-03-17 | 
+
 <!--END_SECTION:my_game-->
 
 
 ## 读书
 
 <!--START_SECTION:my_read-->
-- [《国境以南太阳以西》](https://github.com/yihong0618/2021/issues/3#issuecomment-757978780)　-->　2021-01-11
-- [《一夫食堂》](https://github.com/yihong0618/2021/issues/3#issuecomment-782747734)　　　　　-->　2021-02-20
-- [《火星救援》](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053)　　　　　-->　2021-03-25
-- [《烟与镜》](https://github.com/yihong0618/2021/issues/3#issuecomment-822930818)　　　　　　-->　2021-04-20
-- [《海边的卡夫卡》](https://github.com/yihong0618/2021/issues/3#issuecomment-851099293)　　　-->　2021-05-31
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《国境以南太阳以西》](https://github.com/yihong0618/2021/issues/3#issuecomment-757978780) | 2021-01-11 | 2021-01-12 | 
+| [《一夫食堂》](https://github.com/yihong0618/2021/issues/3#issuecomment-782747734) | 2021-02-20 | 2021-02-20 | 
+| [《火星救援》](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053) | 2021-03-25 | 2021-03-25 | 
+| [《烟与镜》](https://github.com/yihong0618/2021/issues/3#issuecomment-822930818) | 2021-04-20 | 2021-04-20 | 
+| [《海边的卡夫卡》](https://github.com/yihong0618/2021/issues/3#issuecomment-851099293) | 2021-05-31 | 2021-05-31 | 
+
 <!--END_SECTION:my_read-->
 
 ## 做饭
@@ -222,17 +237,20 @@
 
 ## 写博客
 <!--START_SECTION:my_blog-->
-- [准备今年年底或明年初换工作](https://github.com/yihong0618/gitblog/issues/210)　　-->　2021-06-17
-- [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209)　-->　2021-05-28
-- [逃离](https://github.com/yihong0618/gitblog/issues/208)　　　　　　　　　　　　　-->　2021-05-12
-- [近况](https://github.com/yihong0618/gitblog/issues/207)　　　　　　　　　　　　　-->　2021-03-25
-- [年过完了](https://github.com/yihong0618/gitblog/issues/206)　　　　　　　　　　　-->　2021-02-22
-- [力扣的程序是如何运行的](https://github.com/yihong0618/gitblog/issues/205)　　　　-->　2021-02-01
-- [生存守则](https://github.com/yihong0618/gitblog/issues/204)　　　　　　　　　　　-->　2021-01-27
-- [沮丧](https://github.com/yihong0618/gitblog/issues/203)　　　　　　　　　　　　　-->　2021-01-25
-- [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202)　　　　　　　-->　2021-01-14
-- [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201)　　　　　　　　　　-->　2021-01-08
-- [二零二一开始](https://github.com/yihong0618/gitblog/issues/200)　　　　　　　　　-->　2021-01-04
+| Name | Start | Update | Comments | 
+ | ---- | ---- | ---- | ---- |
+| [准备今年年底或明年初换工作](https://github.com/yihong0618/gitblog/issues/210) | 2021-06-17 | 2021-06-17 | 1 | 
+| [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) | 2021-05-28 | 2021-06-13 | 12 | 
+| [逃离](https://github.com/yihong0618/gitblog/issues/208) | 2021-05-12 | 2021-06-17 | 5 | 
+| [近况](https://github.com/yihong0618/gitblog/issues/207) | 2021-03-25 | 2021-03-25 | 1 | 
+| [年过完了](https://github.com/yihong0618/gitblog/issues/206) | 2021-02-22 | 2021-02-22 | 0 | 
+| [力扣的程序是如何运行的](https://github.com/yihong0618/gitblog/issues/205) | 2021-02-01 | 2021-02-03 | 1 | 
+| [生存守则](https://github.com/yihong0618/gitblog/issues/204) | 2021-01-27 | 2021-05-31 | 2 | 
+| [沮丧](https://github.com/yihong0618/gitblog/issues/203) | 2021-01-25 | 2021-06-07 | 3 | 
+| [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202) | 2021-01-14 | 2021-04-22 | 2 | 
+| [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201) | 2021-01-08 | 2021-06-17 | 3 | 
+| [二零二一开始](https://github.com/yihong0618/gitblog/issues/200) | 2021-01-04 | 2021-01-12 | 0 | 
+
 <!--END_SECTION:my_blog-->
 
 ## 收藏的文章

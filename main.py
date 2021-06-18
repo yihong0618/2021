@@ -8,9 +8,9 @@ from github import Github
 from daily.config import LABEL_DICT, MY_BLOG_REPO
 from daily.utils import (
     replace_readme_comments,
-    parse_blog_issues_str,
-    parse_base_issues_comments_str,
-    parse_cook_issue_table,
+    make_blog_issues_str,
+    make_base_issues_comments_str,
+    make_cook_issue_table,
 )
 
 
@@ -31,17 +31,17 @@ def main(github_token, repo_name, issue_number, issue_label_name):
         if not labels:
             return
         issues = u.get_repo(repo_name).get_issues(labels=labels.get("label_list", []))
-        parse_func = parse_base_issues_comments_str
+        parse_func = make_base_issues_comments_str
         # only Cook now, if one more, refactor it
         if issue_label_name == "Cook":
-            parse_func = parse_cook_issue_table
+            parse_func = make_cook_issue_table
         comment_str = parse_func(me, issues)
         comments_name = labels.get("comment_name", "")
     else:
         # from 2021 just for me(yihong0618), if you want to use you can delete the lines below
         since = datetime(2021, 1, 1)
         issues = u.get_repo(MY_BLOG_REPO).get_issues(since=since, creator=me)
-        comment_str = parse_blog_issues_str(since, issues)
+        comment_str = make_blog_issues_str(since, issues)
         comments_name = "my_blog"
     replace_readme_comments("README.md", comment_str, comments_name)
 
