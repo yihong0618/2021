@@ -240,8 +240,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [准备今年年底或明年初换工作](https://github.com/yihong0618/gitblog/issues/210) | 2021-06-17 | 2021-06-17 | 1 | 
-| [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) | 2021-05-28 | 2021-06-13 | 12 | 
+| [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) | 2021-05-28 | 2021-06-18 | 13 | 
 | [逃离](https://github.com/yihong0618/gitblog/issues/208) | 2021-05-12 | 2021-06-17 | 5 | 
 | [近况](https://github.com/yihong0618/gitblog/issues/207) | 2021-03-25 | 2021-03-25 | 1 | 
 | [年过完了](https://github.com/yihong0618/gitblog/issues/206) | 2021-02-22 | 2021-02-22 | 0 | 
