@@ -235,6 +235,7 @@
 | 土豆排骨 | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | 1 |
 | 炒白菜 | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | [2021-06-13](https://github.com/yihong0618/2021/issues/1#issuecomment-860184385) | 1 |
 | 蚂蚁上树 | [2021-06-19](https://github.com/yihong0618/2021/issues/1#issuecomment-864385334) | [2021-06-19](https://github.com/yihong0618/2021/issues/1#issuecomment-864385334) | 1 |
+| 鸡蛋卷 | [2021-06-22](https://github.com/yihong0618/2021/issues/1#issuecomment-866380420) | [2021-06-22](https://github.com/yihong0618/2021/issues/1#issuecomment-866380420) | 1 |
 
 <!--END_SECTION:my_cook-->
 
