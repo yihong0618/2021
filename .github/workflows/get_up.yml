@@ -35,7 +35,7 @@ jobs:
         if: steps.pip-cache.outputs.cache-hit != 'true'
       
       - name: Test
-        run: echo  ${{ inputs.message }}
+        run: echo  ${{ github.event.inputs.test }}
 
       - name: GET UP
         run: |
