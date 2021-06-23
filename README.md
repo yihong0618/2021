@@ -283,6 +283,7 @@
 | [Internal Link Analysis with Python](https://www.briggsby.com/internal-link-analysis-with-python) | 2021.06.03 | net | net |
 | [我的学习之路](http://www.piginzoo.com/education/2021/06/08/mylearn) | 2021.06.13 | 前辈的一篇文章 | mark |
 | [Your Soul, Your Beats!](https://github.red/miband-heart-rate/) | 2021.06.17 | 有趣的年轻人 | 学习 |
+| [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/) | 2021.06.23 | mark | Bitcoin  |
 
 
 ## 收藏的博客
