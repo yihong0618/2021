@@ -41,7 +41,9 @@ def make_get_up_message():
     sentence = get_one_sentence()
     now = pendulum.now(TIMEZONE)
     # 3 - 6 means early for me
-    is_get_up_early = 3 <= now.hour <= 6
+    # test!
+    # is_get_up_early = 3 <= now.hour <= 6
+    is_get_up_early = 3 <= now.hour <= 11 
     get_up_time = now.to_datetime_string()
     body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
     return body, is_get_up_early
