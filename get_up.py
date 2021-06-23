@@ -4,7 +4,7 @@ import pendulum
 from main import login
 
 # 14 for test 12 real get up
-GET_UP_ISSUE_NUMBER = 14
+GET_UP_ISSUE_NUMBER = 12
 GET_UP_MESSAGE_TEMPLATE = (
     "今天的起床时间是--{get_up_time}.\r\n\r\n 起床啦，喝杯咖啡，背个单词，去跑步。\r\n\r\n 今天的一句诗:\r\n {sentence}"
 )
@@ -41,9 +41,7 @@ def make_get_up_message():
     sentence = get_one_sentence()
     now = pendulum.now(TIMEZONE)
     # 3 - 6 means early for me
-    # test!
-    # is_get_up_early = 3 <= now.hour <= 6
-    is_get_up_early = 3 <= now.hour <= 11 
+    is_get_up_early = 3 <= now.hour <= 6
     get_up_time = now.to_datetime_string()
     body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
     return body, is_get_up_early
@@ -53,7 +51,7 @@ def get_get_up_issue(repo):
     return repo.get_issue(GET_UP_ISSUE_NUMBER)
 
 
-def main(github_token, repo_name, weather_message,tele_token, tele_chat_id):
+def main(github_token, repo_name, weather_message, tele_token, tele_chat_id):
     u = login(github_token)
     repo = u.get_repo(repo_name)
     issue = get_get_up_issue(repo)
@@ -61,7 +59,7 @@ def main(github_token, repo_name, weather_message,tele_token, tele_chat_id):
     if is_toady:
         print("Today I have recorded the wake up time")
         return
-    weather_message = f"今天的天气是：{weather_message}\n"
+    weather_message = f"现在的天气是：{weather_message}\n"
     early_message, is_get_up_early = make_get_up_message()
     body = weather_message + early_message
     if is_get_up_early:
