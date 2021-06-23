@@ -2,6 +2,10 @@ name: GET UP
 
 on:
   workflow_dispatch:
+    inputs:
+      message:
+        description: 'weather message'
+        required: false
 
 jobs:
   sync:
@@ -29,6 +33,9 @@ jobs:
           source venv/bin/activate
           pip install -r requirements.txt
         if: steps.pip-cache.outputs.cache-hit != 'true'
+      
+      - name Test
+        run: echo  ${{ inputs.message }}
 
       - name: GET UP
         run: |
