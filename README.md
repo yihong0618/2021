@@ -316,3 +316,5 @@
 | [Linus.](https://thesephist.com/) | 2021.05.27 | 喜欢这个人 | English |
 | [ssshooter](https://ssshooter.com/tag/diary) | 2021.06.11 | cool | 自律有趣 |
 | [jstrieb](https://jstrieb.github.io/about/) | 2021.06.16 | hacker | English |
+| [lonami](https://lonami.dev/blog/) | 2021.06.29 | 22岁的神人 | English |
+
