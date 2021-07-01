@@ -246,7 +246,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [从 Rich 作者的一个问题说起](https://github.com/yihong0618/gitblog/issues/212) | 2021-06-21 | 2021-06-21 | 2 | 
+| [从 Rich 作者的一个问题说起](https://github.com/yihong0618/gitblog/issues/212) | 2021-06-21 | 2021-07-01 | 3 | 
 | [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) | 2021-05-28 | 2021-06-18 | 13 | 
 | [逃离](https://github.com/yihong0618/gitblog/issues/208) | 2021-05-12 | 2021-06-17 | 5 | 
 | [近况](https://github.com/yihong0618/gitblog/issues/207) | 2021-03-25 | 2021-03-25 | 1 | 
