@@ -291,6 +291,7 @@
 | [Your Soul, Your Beats!](https://github.red/miband-heart-rate/) | 2021.06.17 | 有趣的年轻人 | 学习 |
 | [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/) | 2021.06.23 | mark | Bitcoin |
 | [反对直接学习经过提炼的知识](https://lgf.im/posts/thinking/knowledge-refining/) | 2021.07.02 | 自省 | 记住这个 |
+| [一次事故反思](https://jiajunhuang.com/articles/2021_07_02-reflection_on_bug.md.html) | 2021.07.05 | 测试 | 测试测试测试 |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
