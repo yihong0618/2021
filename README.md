@@ -322,6 +322,4 @@
 | [jstrieb](https://jstrieb.github.io/about/) | 2021.06.16 | hacker | English |
 | [lonami](https://lonami.dev/blog/) | 2021.06.29 | 22岁的神人 | English |
 | [游荡](https://www.twisted-meadows.com/about/) | 2021.07.01 | 思考的人 | 有几篇文章被触动 |
-
-
-
+| [shuxiao.wang](https://shuxiao.wang/posts/) | 2021.07.06 | 有意思啊 | 流水沉微 |
