@@ -299,6 +299,8 @@
 | [计算机网络核心笔记](https://kingcos.me/posts/2021/computer_network_notes/) | 2021.07.08 | 网络 | mark |
 | [Absurdity](https://raptazure.github.io/posts/absurdity/) | 2021.07.12 | 想到了当年的自己 | free |
 | [我们的 IP 是怎么来的](https://nova.moe/how-the-ips-are-assigned/) | 2021.07.16 | 有趣啊 | like |
+| [What rooms should you do?](https://blog.tryhackme.com/free_path/) | 2021.07.21 | hack | hack |
+
 
 
 ## 收藏的博客
