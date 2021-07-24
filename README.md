@@ -252,14 +252,14 @@
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
 | [张小龙的饭否](https://github.com/yihong0618/gitblog/issues/215) | 2021-07-08 | 2021-07-08 | 0 | 
-| [一件小事](https://github.com/yihong0618/gitblog/issues/214) | 2021-07-05 | 2021-07-15 | 3 | 
+| [一件小事](https://github.com/yihong0618/gitblog/issues/214) | 2021-07-05 | 2021-07-16 | 2 | 
 | [从 Rich 作者的一个问题说起](https://github.com/yihong0618/gitblog/issues/212) | 2021-06-21 | 2021-07-01 | 3 | 
 | [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) | 2021-05-28 | 2021-06-18 | 13 | 
 | [逃离](https://github.com/yihong0618/gitblog/issues/208) | 2021-05-12 | 2021-06-17 | 5 | 
 | [近况](https://github.com/yihong0618/gitblog/issues/207) | 2021-03-25 | 2021-03-25 | 1 | 
 | [年过完了](https://github.com/yihong0618/gitblog/issues/206) | 2021-02-22 | 2021-02-22 | 0 | 
 | [力扣的程序是如何运行的](https://github.com/yihong0618/gitblog/issues/205) | 2021-02-01 | 2021-02-03 | 1 | 
-| [生存守则](https://github.com/yihong0618/gitblog/issues/204) | 2021-01-27 | 2021-07-01 | 3 | 
+| [生存守则](https://github.com/yihong0618/gitblog/issues/204) | 2021-01-27 | 2021-07-24 | 4 | 
 | [沮丧](https://github.com/yihong0618/gitblog/issues/203) | 2021-01-25 | 2021-06-07 | 3 | 
 | [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202) | 2021-01-14 | 2021-07-01 | 2 | 
 | [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201) | 2021-01-08 | 2021-06-17 | 3 | 
