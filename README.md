@@ -334,5 +334,5 @@
 | [游荡](https://www.twisted-meadows.com/about/) | 2021.07.01 | 思考的人 | 有几篇文章被触动 |
 | [shuxiao.wang](https://shuxiao.wang/posts/) | 2021.07.06 | 有意思啊 | 流水沉微 |
 | [justzht](https://shuxiao.wang/posts/) | 2021.07.16 | 写日记的人 | Apple |
-
+| [Folyd](https://folyd.com/blog/) | 2021.07.30 | 好强 | 希望有一天能完全看懂 |
 
