@@ -338,4 +338,4 @@
 | [shuxiao.wang](https://shuxiao.wang/posts/) | 2021.07.06 | 有意思啊 | 流水沉微 |
 | [justzht](https://shuxiao.wang/posts/) | 2021.07.16 | 写日记的人 | Apple |
 | [Folyd](https://folyd.com/blog/) | 2021.07.30 | 好强 | 希望有一天能完全看懂 |
-
+| [ioover](https://ioover.net/posts/) | 2021.07.30 | RUST | 喜欢哲学的少年 |
