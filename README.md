@@ -338,3 +338,5 @@
 | [justzht](https://shuxiao.wang/posts/) | 2021.07.16 | 写日记的人 | Apple |
 | [Folyd](https://folyd.com/blog/) | 2021.07.30 | 好强 | 希望有一天能完全看懂 |
 | [ioover](https://ioover.net/posts/) | 2021.07.30 | RUST | 喜欢哲学的少年 |
+| [chenjiandongx](https://chenjiandongx.me/) | 2021.08.05 | pyecharts 作者 | 五年能成长多少 |
+
