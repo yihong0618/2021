@@ -147,6 +147,7 @@
 | [《送你一朵小红花》](https://github.com/yihong0618/2021/issues/2#issuecomment-757455042) | 2021-01-10 | 2021-01-12 | 
 | [《悬崖之下》](https://github.com/yihong0618/2021/issues/2#issuecomment-830620223) | 2021-05-01 | 2021-05-01 | 
 | [《无罪之最》](https://github.com/yihong0618/2021/issues/2#issuecomment-833179636) | 2021-05-06 | 2021-05-06 | 
+| [《怒火，重案》](https://github.com/yihong0618/2021/issues/2#issuecomment-898868296) | 2021-08-14 | 2021-08-14 | 
 
 <!--END_SECTION:my_movie-->
 
