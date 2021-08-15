@@ -183,7 +183,7 @@
  | ---- | ---- | ---- | ---- |
 | 葱爆羊肉 | [2021-01-06](https://github.com/yihong0618/2021/issues/1#issuecomment-755339449) | [2021-01-12](https://github.com/yihong0618/2021/issues/1#issuecomment-758656836) | 2 |
 | 火爆大头菜 | [2021-01-06](https://github.com/yihong0618/2021/issues/1#issuecomment-755339940) | [2021-08-01](https://github.com/yihong0618/2021/issues/1#issuecomment-890479207) | 2 |
-| 炒土豆片 | [2021-01-06](https://github.com/yihong0618/2021/issues/1#issuecomment-755343687) | [2021-01-13](https://github.com/yihong0618/2021/issues/1#issuecomment-759561262) | 2 |
+| 炒土豆片 | [2021-01-06](https://github.com/yihong0618/2021/issues/1#issuecomment-755343687) | [2021-08-15](https://github.com/yihong0618/2021/issues/1#issuecomment-899036906) | 3 |
 | 蚝油茼蒿 | [2021-01-07](https://github.com/yihong0618/2021/issues/1#issuecomment-755977027) | [2021-01-07](https://github.com/yihong0618/2021/issues/1#issuecomment-755977027) | 1 |
 | 蝴蝶面 | [2021-01-07](https://github.com/yihong0618/2021/issues/1#issuecomment-755978839) | [2021-01-07](https://github.com/yihong0618/2021/issues/1#issuecomment-755978839) | 1 |
 | 炒玉米粒 | [2021-01-07](https://github.com/yihong0618/2021/issues/1#issuecomment-755988916) | [2021-01-07](https://github.com/yihong0618/2021/issues/1#issuecomment-755988916) | 1 |
@@ -243,7 +243,7 @@
 | 鸡蛋卷 | [2021-06-22](https://github.com/yihong0618/2021/issues/1#issuecomment-866380420) | [2021-06-22](https://github.com/yihong0618/2021/issues/1#issuecomment-866380420) | 1 |
 | 炒藕片 | [2021-06-26](https://github.com/yihong0618/2021/issues/1#issuecomment-868967668) | [2021-06-26](https://github.com/yihong0618/2021/issues/1#issuecomment-868967668) | 1 |
 | 蚝油杏鲍菇 | [2021-06-26](https://github.com/yihong0618/2021/issues/1#issuecomment-868967668) | [2021-06-26](https://github.com/yihong0618/2021/issues/1#issuecomment-868967668) | 1 |
-| 肉末豆腐 | [2021-07-04](https://github.com/yihong0618/2021/issues/1#issuecomment-873547498) | [2021-07-04](https://github.com/yihong0618/2021/issues/1#issuecomment-873547498) | 1 |
+| 肉末豆腐 | [2021-07-04](https://github.com/yihong0618/2021/issues/1#issuecomment-873547498) | [2021-08-15](https://github.com/yihong0618/2021/issues/1#issuecomment-899036906) | 2 |
 | 杏鲍菇炒肉 | [2021-07-10](https://github.com/yihong0618/2021/issues/1#issuecomment-877621298) | [2021-07-10](https://github.com/yihong0618/2021/issues/1#issuecomment-877621298) | 1 |
 | 煎鸡蛋 | [2021-07-31](https://github.com/yihong0618/2021/issues/1#issuecomment-890417139) | [2021-07-31](https://github.com/yihong0618/2021/issues/1#issuecomment-890417139) | 1 |
 
