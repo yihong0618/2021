@@ -269,7 +269,7 @@
 | [生存守则](https://github.com/yihong0618/gitblog/issues/204) | 2021-01-27 | 2021-08-17 | 4 | 
 | [沮丧](https://github.com/yihong0618/gitblog/issues/203) | 2021-01-25 | 2021-06-07 | 3 | 
 | [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202) | 2021-01-14 | 2021-07-01 | 2 | 
-| [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201) | 2021-01-08 | 2021-08-24 | 5 | 
+| [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201) | 2021-01-08 | 2021-08-24 | 6 | 
 | [二零二一开始](https://github.com/yihong0618/gitblog/issues/200) | 2021-01-04 | 2021-01-12 | 0 | 
 
 <!--END_SECTION:my_blog-->
