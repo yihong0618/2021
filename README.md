@@ -307,6 +307,7 @@
 | [Absurdity](https://raptazure.github.io/posts/absurdity/) | 2021.07.12 | 想到了当年的自己 | free |
 | [我们的 IP 是怎么来的](https://nova.moe/how-the-ips-are-assigned/) | 2021.07.16 | 有趣啊 | like |
 | [What rooms should you do?](https://blog.tryhackme.com/free_path/) | 2021.07.21 | hack | hack |
+| [WK8s 离线部署方案](https://blog.k8s.li/pass-tob-k8s-offline-deploy.html) | 2021.08.31 | k8s | mark |
 
 
 
