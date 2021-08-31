@@ -12,7 +12,7 @@ from .config import (
     GITHUB_README_COMMENTS,
     GTD_LABEL_LIST,
     MEDITATION_LABEL_LIST,
-    MONEY_LABEL_LIST,
+    WEEKLY_LABEL_LIST,
     MORNING_LABEL_LIST,
     PUSHUP_LABEL_LIST,
 )
@@ -162,8 +162,8 @@ def comment_to_GTD_count(comment):
 LABEL_DAILY_DICT = {
     # label, map_func, reduce_func
     "俯卧撑": [PUSHUP_LABEL_LIST, comment_to_int, sum],
-    "花费": [MONEY_LABEL_LIST, comment_to_float, sum],
     "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
     "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
     "GTD": [GTD_LABEL_LIST, comment_to_GTD_count, sum],  # Do Nothing
+    "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
 }

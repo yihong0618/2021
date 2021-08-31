@@ -31,6 +31,11 @@ MORNING_LABEL_LIST = [
 GTD_LABEL_LIST = [
     "GTD",
 ]
+
+WEEKLY_LABEL_LIST = [
+    "Weekly",
+]
+
 MY_BLOG_REPO = "yihong0618/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"

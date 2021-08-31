@@ -17,7 +17,6 @@ MY_STATUS_DICT_FROM_API = {
 
 MY_STATUS_DICT_FROM_COMMENTS = {
     "俯卧撑": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
-    "花费": {"daily_func": get_info_from_issue_comments, "unit_str": " (元)"},
     "冥想": {"daily_func": get_info_from_issue_comments, "unit_str": " (分钟)"},
     "早起": {"daily_func": get_info_from_issue_comments, "unit_str": " (天)"},
     "GTD": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
