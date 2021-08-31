@@ -175,6 +175,7 @@
 | [《海边的卡夫卡》](https://github.com/yihong0618/2021/issues/3#issuecomment-851099293) | 2021-05-31 | 2021-05-31 | 
 | [《Look Back》](https://github.com/yihong0618/2021/issues/3#issuecomment-890731615) | 2021-08-02 | 2021-08-02 | 
 | [《绝叫》](https://github.com/yihong0618/2021/issues/3#issuecomment-903305123) | 2021-08-22 | 2021-08-23 | 
+| [《The Little Schemer》](https://github.com/yihong0618/2021/issues/3#issuecomment-908828749) | 2021-08-31 | 2021-08-31 | 
 
 <!--END_SECTION:my_read-->
 
