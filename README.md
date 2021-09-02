@@ -343,3 +343,5 @@
 | [ioover](https://ioover.net/posts/) | 2021.07.30 | RUST | 喜欢哲学的少年 |
 | [chenjiandongx](https://chenjiandongx.me/) | 2021.08.05 | pyecharts 作者 | 五年能成长多少 |
 | [山水寨](https://www.shaynez.com/) | 2021.08.13 | 记录读书的人 | 前辈 |
+| [故园风雨后](https://poemsays.blogspot.com/) | 2021.09.02 | 诗意的文字 | 前辈 |
+
