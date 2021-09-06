@@ -131,6 +131,7 @@
 | [《夏日重现》](https://github.com/yihong0618/2021/issues/6#issuecomment-792417270) | 2021-03-08 | 2021-03-08 | 
 | [《杀手寓言》](https://github.com/yihong0618/2021/issues/6#issuecomment-814546620) | 2021-04-07 | 2021-04-07 | 
 | [《Odd Taxi》](https://github.com/yihong0618/2021/issues/6#issuecomment-905063357) | 2021-08-25 | 2021-08-25 | 
+| [《瑞克和莫蒂》](https://github.com/yihong0618/2021/issues/6#issuecomment-913369998) | 2021-09-06 | 2021-09-06 | 
 
 <!--END_SECTION:my_bangumi-->
 
