@@ -347,4 +347,4 @@
 | [山水寨](https://www.shaynez.com/) | 2021.08.13 | 记录读书的人 | 前辈 |
 | [故园风雨后](https://poemsays.blogspot.com/) | 2021.09.02 | 诗意的文字 | 前辈 |
 | [Shuxin Yang 's Blog](http://shuxinyang.com/) | 2021.09.09 | 记录读书的人 | 喜欢 |
-| [四一的世界](hhttps://yunyang1994.gitee.io/2019/10/01/Think-different/) | 2021.09.16 | 机器学习 | Think Different |
+| [四一的世界](https://yunyang1994.gitee.io/2019/10/01/Think-different/) | 2021.09.16 | 机器学习 | Think Different |
