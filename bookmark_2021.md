@@ -76,3 +76,4 @@
 | [AIOPS](https://github.com/graviraja/MLOps-Basics) | https://github.com/yihong0618/2021/issues/21#issuecomment-924637019 | 2021-09-22 | 2021-09-22 | False |
 | [Games 101](http://games-cn.org/intro-graphics/) | https://github.com/yihong0618/2021/issues/21#issuecomment-924777428 | 2021-09-22 | 2021-09-22 | False |
 | [Go 相关博客](https://nanmu.me/zh-cn/archive) | https://github.com/yihong0618/2021/issues/21#issuecomment-925573567 | 2021-09-23 | 2021-09-23 | False |
+| [硬件茶谈](https://www.bilibili.com/video/BV1nL411x7jH) | https://github.com/yihong0618/2021/issues/21#issuecomment-927271559 | 2021-09-26 | 2021-09-26 | False |
