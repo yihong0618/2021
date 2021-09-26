@@ -41,7 +41,7 @@ jobs:
         run: |
           source venv/bin/activate
           python make_bookmark.py ${{ secrets.G_T }} ${{ github.repository }}
-        if: ${{ github.event.issue.number }} == '${{ env.BOOKMARK_ISSUE_ID }}'
+        if: ${{ github.event.issue.number }} == ${{ env.BOOKMARK_ISSUE_ID }}
       - name: Push new Bookmark
         uses: github-actions-x/commit@v2.6
         with:
