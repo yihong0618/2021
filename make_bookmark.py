@@ -44,7 +44,7 @@ def main(github_token, repo_name):
         name, link = comment_str_list[0], comment_str_list[1]
         if link.find(f"{repo_name}/{YEAR}/files") != -1:
             has_file = True
-        bookmark_str += make_bookmark_str(name, link, str(c.created_at)[:10], str(c.updated_at)[:10], has_file)
+        bookmark_str += make_bookmark_str(f"[name](link)", c.html_url, str(c.created_at)[:10], str(c.updated_at)[:10], has_file)
     with open(BOOKMARK_FILE_NAME, "w+") as f:
         f.write(BOOKMARK_FILE_HEAD)
         f.write(bookmark_str)
