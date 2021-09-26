@@ -4,7 +4,6 @@
  | ---- | ---- | ---- | ---- | ---- |
 | 大神的值得读总结 | https://linus.zone/technical-reading | 2021-06-29 | 2021-09-22 | False |
 | Rust 相关 | https://rfns.io/blog/tech/2021-06-30-rust-and-the-machine | 2021-07-02 | 2021-09-22 | False |
-| 记录与反抗 | https://telegra.ph/%E8%AE%B0%E5%BD%95%E6%9C%AC%E8%BA%AB%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%8F%8D%E6%8A%97-07-02 | 2021-07-02 | 2021-09-24 | False |
 | 给青年填个堵 | https://www.bilibili.com/video/BV1ay4y1p74L | 2021-07-07 | 2021-09-24 | False |
 | 网络宝藏 | https://www.zhihu.com/column/software-defined-network | 2021-07-08 | 2021-07-08 | False |
 | surge 作者。。。的网络宝藏。 | https://manual.nssurge.com/book/understanding-surge/cn/# | 2021-07-09 | 2021-07-09 | False |
@@ -22,14 +21,29 @@
 | ipv4 | https://www.jannet.hk/ip-address-version-4-ipv4-zh-hans/ | 2021-07-26 | 2021-09-23 | False |
 | 学日语 | https://www.sigure.tw/ | 2021-07-26 | 2021-09-23 | False |
 | roguelike | http://rogueliketutorials.com/tutorials/tcod/v2/part-1/ | 2021-07-27 | 2021-07-27 | False |
-| 思考 | ![image](https://user-images.githubusercontent.com/15976103/127132243-4e542da9-7fb1-4e52-85ec-c3217041f3bb.png) | 2021-07-27 | 2021-09-23 | False |
+| 思考 | 下面这个图 | 2021-07-27 | 2021-09-26 | False |
 | 独立游戏 | https://www.douban.com/note/808457532/ | 2021-07-28 | 2021-09-23 | False |
-| > > 有人把今年当成 1966, 我更倾向于是 1976 time will tell. 记录一下。 | >  | 2021-08-18 | 2021-08-18 | False |
+| 需要补的内功 | https://github.com/woai3c/nand2tetris | 2021-08-02 | 2021-09-26 | False |
+| 数独游戏 | https://me.guanghechen.com/post/game/sudoku/ | 2021-08-04 | 2021-09-26 | False |
+| 有趣的 shell | https://izsk.me/2021/03/21/shell-funny-snippet/ | 2021-08-04 | 2021-09-26 | False |
+| 有趣的 shell2 | https://blog.k8s.li/shell-snippet.html | 2021-08-04 | 2021-09-26 | False |
+| 日文输入法 | https://www.zhihu.com/question/25877358 | 2021-08-06 | 2021-09-26 | False |
+| k8s 系列 | https://www.howie6879.cn/k8s/ | 2021-08-09 | 2021-09-26 | False |
+| Memory Models | https://research.swtch.com/mm | 2021-08-11 | 2021-09-26 | False |
+| CTF-WIKI | https://github.com/ctf-wiki/ctf-wiki/blob/master/README-zh_CN.md | 2021-08-12 | 2021-09-26 | False |
+| 容器逃逸 | https://www.secrss.com/articles/18752 | 2021-08-12 | 2021-09-26 | False |
+| Think out of the box | https://billc.io/2021/04/think-out-of-the-box/ | 2021-08-12 | 2021-09-26 | False |
+| 面试要点 | https://blog.long2ice.cn/2020/10/%E9%9D%A2%E8%AF%95%E8%A6%81%E7%82%B9%E8%AE%B0%E5%BD%95/ | 2021-08-12 | 2021-09-26 | False |
+| 油管主播 | https://twitter.com/0M6dj88umy8ekMb/status/1426927571707469826 | 2021-08-16 | 2021-09-26 | False |
+| 有趣的 jc 项目 | https://kellyjonbrazil.github.io/jc/EXAMPLES | 2021-08-24 | 2021-09-26 | False |
+| Pod 从创建到 Running | https://mozillazg.com/2021/07/k8s-kubernetes-what-happen-when-pod-from-create-to-running.html | 2021-08-24 | 2021-09-26 | False |
+| 你的时间的尾端 | https://limboy.me/2021/08/24/wbw-the-tail-end/ | 2021-08-25 | 2021-09-26 | False |
+| 人文博客 | http://www.zhuangbiaowei.com/blog/ | 2021-08-26 | 2021-09-26 | False |
+| 一个画师 | https://www.artstation.com/zhiruiwang | 2021-08-26 | 2021-09-26 | False |
 | Python type hint | https://aber.sh/articles/Define-model-with-type-hint/ | 2021-08-26 | 2021-09-01 | False |
 | 太精彩了 -> python子编译器资源竞争问题 | https://shihai1991.github.io/python/2021/08/22/python%E5%AD%90%E7%BC%96%E8%AF%91%E5%99%A8%E8%B5%84%E6%BA%90%E7%AB%9E%E4%BA%89%E9%97%AE%E9%A2%98/ | 2021-08-27 | 2021-09-01 | False |
 | 可靠分布式系统-paxos的直观解释 | https://blog.openacid.com/algo/paxos/ | 2021-08-27 | 2021-09-01 | False |
 | 面试题 | http://drmingdrmer.github.io/tech/algorithm/2019/01/09/dict-cmp.html | 2021-08-27 | 2021-08-27 | False |
-| 喜欢这个签名 | ![image](https://user-images.githubusercontent.com/15976103/131273015-fa4ff64f-b1ce-4b81-8900-33d10066bc3e.png) | 2021-08-30 | 2021-08-30 | False |
 | 博客 | https://iknow.fun/ | 2021-08-30 | 2021-08-30 | False |
 | docker 原理实战篇 | https://jasonkayzk.github.io/2021/08/29/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-1%EF%BC%9ANamespace/ | 2021-08-30 | 2021-08-30 | False |
 | Hack blog | https://github.com/m1dsummer/AD-2021 | 2021-08-30 | 2021-08-30 | False |
