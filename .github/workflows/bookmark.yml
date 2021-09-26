@@ -1,0 +1,51 @@
+name: Bookmark
+
+on:
+  workflow_dispatch:
+
+env:
+  GITHUB_NAME: yihong0618
+  GITHUB_EMAIL: zouzou0208@gmail.com
+  BOOKMARK_ISSUE_ID: 21
+
+jobs:
+  sync:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.6
+      - name: Configure pip cache
+        uses: actions/cache@v1
+        id: pip-cache
+        with:
+          path: venv
+          key: pip-1-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+        if: steps.pip-cache.outputs.cache-hit != 'true'
+      
+      - name: Bookmark
+        run: |
+          source venv/bin/activate
+          python make_bookmark.py ${{ secrets.G_T }} ${{ github.repository }}
+        if: ${{ github.event.issue.number }} == '${{ env.BOOKMARK_ISSUE_ID }}'
+      - name: Push new Bookmark
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.G_T }}
+          commit-message: "Replace bookmark"
+          files: .
+          rebase: 'true'
+          name: yihong0618 
+          email: zouzou0208@gmail.com
