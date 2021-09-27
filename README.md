@@ -255,7 +255,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [running_page 开源一周年的总结](https://github.com/yihong0618/gitblog/issues/220) | 2021-09-27 | 2021-09-27 | 4 | 
+| [running_page 开源一周年的总结](https://github.com/yihong0618/gitblog/issues/220) | 2021-09-27 | 2021-09-27 | 5 | 
 | [接下来要写的东西](https://github.com/yihong0618/gitblog/issues/219) | 2021-09-27 | 2021-09-27 | 0 | 
 | [一点思考](https://github.com/yihong0618/gitblog/issues/218) | 2021-08-19 | 2021-09-09 | 6 | 
 | [友情链接](https://github.com/yihong0618/gitblog/issues/217) | 2021-08-16 | 2021-08-23 | 13 | 
@@ -263,7 +263,7 @@
 | [张小龙的饭否](https://github.com/yihong0618/gitblog/issues/215) | 2021-07-08 | 2021-07-08 | 0 | 
 | [一件小事](https://github.com/yihong0618/gitblog/issues/214) | 2021-07-05 | 2021-07-16 | 2 | 
 | [从 Rich 作者的一个问题说起](https://github.com/yihong0618/gitblog/issues/212) | 2021-06-21 | 2021-07-01 | 3 | 
-| [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) | 2021-05-28 | 2021-09-27 | 22 | 
+| [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209) | 2021-05-28 | 2021-09-27 | 23 | 
 | [逃离](https://github.com/yihong0618/gitblog/issues/208) | 2021-05-12 | 2021-06-17 | 5 | 
 | [近况](https://github.com/yihong0618/gitblog/issues/207) | 2021-03-25 | 2021-03-25 | 1 | 
 | [年过完了](https://github.com/yihong0618/gitblog/issues/206) | 2021-02-22 | 2021-02-22 | 0 | 
