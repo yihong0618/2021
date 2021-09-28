@@ -79,3 +79,4 @@
 | [硬件茶谈](https://www.bilibili.com/video/BV1nL411x7jH) | https://github.com/yihong0618/2021/issues/21#issuecomment-927271559 | 2021-09-26 | 2021-09-26 | False |
 | [network for hackers ](https://www.hackers-arise.com/post/2019/05/20/network-basics-for-hackers-domain-name-service-dns-and-bind-theory-vulnerabilities-and-im) | https://github.com/yihong0618/2021/issues/21#issuecomment-927432189 | 2021-09-27 | 2021-09-27 | False |
 | [人脸识别](http://www.piginzoo.com/machine-learning/2021/09/15/face-recognition) | https://github.com/yihong0618/2021/issues/21#issuecomment-928859442 | 2021-09-28 | 2021-09-28 | False |
+| [有时间玩一下](https://github.com/marceloprates/prettymaps) | https://github.com/yihong0618/2021/issues/21#issuecomment-929022403 | 2021-09-28 | 2021-09-28 | False |
