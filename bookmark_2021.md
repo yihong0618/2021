@@ -83,3 +83,5 @@
 | [XSS Django](https://tonybaloney.github.io/posts/xss-exploitation-in-django.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-930798201 | 2021-09-30 | 2021-09-30 | False |
 | [songma 推荐的书](https://twitter.com/songma/status/1443448534989111302) | https://github.com/yihong0618/2021/issues/21#issuecomment-930808273 | 2021-09-30 | 2021-09-30 | False |
 | [go 并发](https://divan.dev/posts/go_concurrency_visualize/) | https://github.com/yihong0618/2021/issues/21#issuecomment-930815036 | 2021-09-30 | 2021-09-30 | False |
+| [领域驱动设计与微服务](https://zhu327.github.io/2020/10/22/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BE%AE%E6%9C%8D%E5%8A%A1/) | https://github.com/yihong0618/2021/issues/21#issuecomment-931030565 | 2021-09-30 | 2021-09-30 | False |
+| [我在掘金这 3 年](https://juejin.cn/post/6844904116276183053) | https://github.com/yihong0618/2021/issues/21#issuecomment-931031241 | 2021-09-30 | 2021-09-30 | False |
