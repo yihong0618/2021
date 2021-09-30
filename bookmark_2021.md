@@ -82,3 +82,4 @@
 | [有时间玩一下](https://github.com/marceloprates/prettymaps) | https://github.com/yihong0618/2021/issues/21#issuecomment-929022403 | 2021-09-28 | 2021-09-28 | False |
 | [XSS Django](https://tonybaloney.github.io/posts/xss-exploitation-in-django.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-930798201 | 2021-09-30 | 2021-09-30 | False |
 | [songma 推荐的书](https://twitter.com/songma/status/1443448534989111302) | https://github.com/yihong0618/2021/issues/21#issuecomment-930808273 | 2021-09-30 | 2021-09-30 | False |
+| [go 并发](https://divan.dev/posts/go_concurrency_visualize/) | https://github.com/yihong0618/2021/issues/21#issuecomment-930815036 | 2021-09-30 | 2021-09-30 | False |
