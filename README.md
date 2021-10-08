@@ -120,6 +120,7 @@
 | [《爱死亡和机器人》](https://github.com/yihong0618/2021/issues/8#issuecomment-842002234) | 2021-05-17 | 2021-05-17 | 
 | [《洛基》](https://github.com/yihong0618/2021/issues/8#issuecomment-863793107) | 2021-06-18 | 2021-06-18 | 
 | [《What If...》](https://github.com/yihong0618/2021/issues/8#issuecomment-924714652) | 2021-09-22 | 2021-09-22 | 
+| [《鱿鱼游戏》](https://github.com/yihong0618/2021/issues/8#issuecomment-938248022) | 2021-10-08 | 2021-10-08 | 
 
 <!--END_SECTION:my_drama-->
 
