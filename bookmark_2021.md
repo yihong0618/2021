@@ -85,3 +85,4 @@
 | [go 并发](https://divan.dev/posts/go_concurrency_visualize/) | https://github.com/yihong0618/2021/issues/21#issuecomment-930815036 | 2021-09-30 | 2021-09-30 | False |
 | [领域驱动设计与微服务](https://zhu327.github.io/2020/10/22/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BE%AE%E6%9C%8D%E5%8A%A1/) | https://github.com/yihong0618/2021/issues/21#issuecomment-931030565 | 2021-09-30 | 2021-09-30 | False |
 | [我在掘金这 3 年](https://juejin.cn/post/6844904116276183053) | https://github.com/yihong0618/2021/issues/21#issuecomment-931031241 | 2021-09-30 | 2021-09-30 | False |
+| [希望有机会玩一下](https://github.com/snaptoken/kilo-tutorial) | https://github.com/yihong0618/2021/issues/21#issuecomment-938362270 | 2021-10-08 | 2021-10-08 | False |
