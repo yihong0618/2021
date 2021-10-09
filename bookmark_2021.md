@@ -88,3 +88,4 @@
 | [希望有机会玩一下](https://github.com/snaptoken/kilo-tutorial) | https://github.com/yihong0618/2021/issues/21#issuecomment-938362270 | 2021-10-08 | 2021-10-08 | False |
 | [All about Monads](https://wiki.haskell.org/All_About_Monads) | https://github.com/yihong0618/2021/issues/21#issuecomment-938421774 | 2021-10-08 | 2021-10-08 | False |
 | [光线追踪](https://www.v2ex.com/t/551690) | https://github.com/yihong0618/2021/issues/21#issuecomment-938460997 | 2021-10-08 | 2021-10-08 | False |
+| [动画视频](https://www.shadertoy.com/view/4dSfRc) | https://github.com/yihong0618/2021/issues/21#issuecomment-939250781 | 2021-10-09 | 2021-10-09 | False |
