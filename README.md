@@ -150,6 +150,7 @@
 | [《无罪之最》](https://github.com/yihong0618/2021/issues/2#issuecomment-833179636) | 2021-05-06 | 2021-05-06 | 
 | [《怒火，重案》](https://github.com/yihong0618/2021/issues/2#issuecomment-898868296) | 2021-08-14 | 2021-08-14 | 
 | [《秒速五厘米》](https://github.com/yihong0618/2021/issues/2#issuecomment-927270339) | 2021-09-26 | 2021-09-26 | 
+| [《长津湖》](https://github.com/yihong0618/2021/issues/2#issuecomment-939658015) | 2021-10-11 | 2021-10-11 | 
 
 <!--END_SECTION:my_movie-->
 
