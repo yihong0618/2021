@@ -94,3 +94,4 @@
 | [gevent](https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-940564342 | 2021-10-12 | 2021-10-12 | False |
 | [tinyrender](https://github.com/ssloy/tinyrenderer) | https://github.com/yihong0618/2021/issues/21#issuecomment-940609736 | 2021-10-12 | 2021-10-12 | False |
 | [人脸识别](http://www.piginzoo.com/machine-learning/2021/09/15/face-recognition) | https://github.com/yihong0618/2021/issues/21#issuecomment-941932128 | 2021-10-13 | 2021-10-13 | False |
+| [checkbox 神人](https://www.bryanbraun.com/blog/) | https://github.com/yihong0618/2021/issues/21#issuecomment-941940302 | 2021-10-13 | 2021-10-13 | False |
