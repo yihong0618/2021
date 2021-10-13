@@ -95,3 +95,4 @@
 | [tinyrender](https://github.com/ssloy/tinyrenderer) | https://github.com/yihong0618/2021/issues/21#issuecomment-940609736 | 2021-10-12 | 2021-10-12 | False |
 | [人脸识别](http://www.piginzoo.com/machine-learning/2021/09/15/face-recognition) | https://github.com/yihong0618/2021/issues/21#issuecomment-941932128 | 2021-10-13 | 2021-10-13 | False |
 | [checkbox 神人](https://www.bryanbraun.com/blog/) | https://github.com/yihong0618/2021/issues/21#issuecomment-941940302 | 2021-10-13 | 2021-10-13 | False |
+| [C++ 相关](模板https://zhuanlan.zhihu.com/p/101898043) | https://github.com/yihong0618/2021/issues/21#issuecomment-941945641 | 2021-10-13 | 2021-10-13 | False |
