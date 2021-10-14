@@ -96,3 +96,4 @@
 | [人脸识别](http://www.piginzoo.com/machine-learning/2021/09/15/face-recognition) | https://github.com/yihong0618/2021/issues/21#issuecomment-941932128 | 2021-10-13 | 2021-10-13 | False |
 | [checkbox 神人](https://www.bryanbraun.com/blog/) | https://github.com/yihong0618/2021/issues/21#issuecomment-941940302 | 2021-10-13 | 2021-10-13 | False |
 | [C++ 相关](模板https://zhuanlan.zhihu.com/p/101898043) | https://github.com/yihong0618/2021/issues/21#issuecomment-941945641 | 2021-10-13 | 2021-10-13 | False |
+| [编译器神人](http://maskray.me/blog/presentations/) | https://github.com/yihong0618/2021/issues/21#issuecomment-942945377 | 2021-10-14 | 2021-10-14 | False |
