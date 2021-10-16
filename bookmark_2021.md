@@ -98,3 +98,4 @@
 | [C++ 相关](模板https://zhuanlan.zhihu.com/p/101898043) | https://github.com/yihong0618/2021/issues/21#issuecomment-941945641 | 2021-10-13 | 2021-10-13 | False |
 | [编译器神人](http://maskray.me/blog/presentations/) | https://github.com/yihong0618/2021/issues/21#issuecomment-942945377 | 2021-10-14 | 2021-10-14 | False |
 | [喜欢](https://lingsamuel.github.io/page/) | https://github.com/yihong0618/2021/issues/21#issuecomment-944104779 | 2021-10-15 | 2021-10-15 | False |
+| [加速 Actions](https://hanxiao.io/2021/01/24/Speedup-CI-Workflow-in-Github-Actions-via-Strategy-Matrix/) | https://github.com/yihong0618/2021/issues/21#issuecomment-944843221 | 2021-10-16 | 2021-10-16 | False |
