@@ -228,7 +228,7 @@
 | 孜然牛肉 | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797952551) | [2021-03-13](https://github.com/yihong0618/2021/issues/1#issuecomment-797952551) | 1 |
 | 黄瓜片炒肉 | [2021-03-20](https://github.com/yihong0618/2021/issues/1#issuecomment-803272426) | [2021-04-24](https://github.com/yihong0618/2021/issues/1#issuecomment-826073380) | 2 |
 | 烤鸡腿 | [2021-03-21](https://github.com/yihong0618/2021/issues/1#issuecomment-803503205) | [2021-04-04](https://github.com/yihong0618/2021/issues/1#issuecomment-812964660) | 2 |
-| 尖椒炒肉 | [2021-04-07](https://github.com/yihong0618/2021/issues/1#issuecomment-814546341) | [2021-07-11](https://github.com/yihong0618/2021/issues/1#issuecomment-877735315) | 3 |
+| 尖椒炒肉 | [2021-04-07](https://github.com/yihong0618/2021/issues/1#issuecomment-814546341) | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | 4 |
 | 烤五花肉 | [2021-04-11](https://github.com/yihong0618/2021/issues/1#issuecomment-817283119) | [2021-04-11](https://github.com/yihong0618/2021/issues/1#issuecomment-817283119) | 1 |
 | 西红柿炒蛋 | [2021-04-24](https://github.com/yihong0618/2021/issues/1#issuecomment-826073380) | [2021-04-24](https://github.com/yihong0618/2021/issues/1#issuecomment-826073380) | 1 |
 | 油焖大虾 | [2021-05-04](https://github.com/yihong0618/2021/issues/1#issuecomment-832312665) | [2021-10-06](https://github.com/yihong0618/2021/issues/1#issuecomment-935780091) | 3 |
@@ -251,6 +251,8 @@
 | 杏鲍菇炒肉 | [2021-07-10](https://github.com/yihong0618/2021/issues/1#issuecomment-877621298) | [2021-07-10](https://github.com/yihong0618/2021/issues/1#issuecomment-877621298) | 1 |
 | 煎鸡蛋 | [2021-07-31](https://github.com/yihong0618/2021/issues/1#issuecomment-890417139) | [2021-07-31](https://github.com/yihong0618/2021/issues/1#issuecomment-890417139) | 1 |
 | 炒鱿鱼 | [2021-09-05](https://github.com/yihong0618/2021/issues/1#issuecomment-913117037) | [2021-09-05](https://github.com/yihong0618/2021/issues/1#issuecomment-913117037) | 1 |
+| 排骨炖土豆 | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | 1 |
+| 炒黄瓜片 | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | 1 |
 
 <!--END_SECTION:my_cook-->
 
