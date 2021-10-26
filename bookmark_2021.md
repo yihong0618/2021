@@ -106,3 +106,4 @@
 | [指针](https://boredzo.org/pointers/) | https://github.com/yihong0618/2021/issues/21#issuecomment-949281541 | 2021-10-22 | 2021-10-22 | False |
 | [微信](https://github.com/holdyeah/wechat-pc-hook-python) | https://github.com/yihong0618/2021/issues/21#issuecomment-949323827 | 2021-10-22 | 2021-10-22 | False |
 | [WTF](https://realpython.com/python-boolean/#chaining-comparison-operators) | https://github.com/yihong0618/2021/issues/21#issuecomment-950059860 | 2021-10-23 | 2021-10-23 | False |
+| [es](https://juejin.cn/post/7009593798011387917) | https://github.com/yihong0618/2021/issues/21#issuecomment-951491025 | 2021-10-26 | 2021-10-26 | False |
