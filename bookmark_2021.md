@@ -109,3 +109,4 @@
 | [es](https://juejin.cn/post/7009593798011387917) | https://github.com/yihong0618/2021/issues/21#issuecomment-951491025 | 2021-10-26 | 2021-10-26 | False |
 | [音频相关](https://github.com/0voice/audio_video_streaming) | https://github.com/yihong0618/2021/issues/21#issuecomment-952477341 | 2021-10-27 | 2021-10-27 | False |
 | [遛狗指南](https://via.moe/katago-vs-leelazero/) | https://github.com/yihong0618/2021/issues/21#issuecomment-953503009 | 2021-10-28 | 2021-10-28 | False |
+| [《DDIA》 牛逼](https://github.com/slidoooor/computer_book_list) | https://github.com/yihong0618/2021/issues/21#issuecomment-954447856 | 2021-10-29 | 2021-10-29 | False |
