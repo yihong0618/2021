@@ -360,4 +360,6 @@
 | [divan's blog](https://divan.dev/) | 2021.09.30 | go hacker | English |
 | [Luke](https://lukechampine.com/) | 2021.10.12 | another go hacker | English |
 | [朝花夕拾](https://neozhaoliang-github-io.vercel.app/) | 2021.10.20 | 图形学 | 太美了 |
+| [dgideas](https://dgideas.net/2020/hello-world/) | 2021.11.02 | 喜欢哲学 | 区块链 |
+
 
