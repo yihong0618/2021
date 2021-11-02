@@ -111,3 +111,4 @@
 | [遛狗指南](https://via.moe/katago-vs-leelazero/) | https://github.com/yihong0618/2021/issues/21#issuecomment-953503009 | 2021-10-28 | 2021-10-28 | False |
 | [《DDIA》 牛逼](https://github.com/slidoooor/computer_book_list) | https://github.com/yihong0618/2021/issues/21#issuecomment-954447856 | 2021-10-29 | 2021-10-29 | False |
 | [ChineseAiDungeon开发log](http://icybee.cn/article/71.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-957036873 | 2021-11-02 | 2021-11-02 | False |
+| [超级牛的博客](http://accu.cc/) | https://github.com/yihong0618/2021/issues/21#issuecomment-957187396 | 2021-11-02 | 2021-11-02 | False |
