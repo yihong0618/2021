@@ -113,3 +113,4 @@
 | [ChineseAiDungeon开发log](http://icybee.cn/article/71.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-957036873 | 2021-11-02 | 2021-11-02 | False |
 | [超级牛的博客](http://accu.cc/) | https://github.com/yihong0618/2021/issues/21#issuecomment-957187396 | 2021-11-02 | 2021-11-02 | False |
 | [傅里叶变换](https://www.cnblogs.com/h2zZhou/p/8405717.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-958581564 | 2021-11-03 | 2021-11-03 | False |
+| [python 打包101](https://frostming.com/2021/10-20/pycon-china-2021/) | https://github.com/yihong0618/2021/issues/21#issuecomment-958683262 | 2021-11-03 | 2021-11-03 | False |
