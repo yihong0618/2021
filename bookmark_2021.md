@@ -112,3 +112,4 @@
 | [《DDIA》 牛逼](https://github.com/slidoooor/computer_book_list) | https://github.com/yihong0618/2021/issues/21#issuecomment-954447856 | 2021-10-29 | 2021-10-29 | False |
 | [ChineseAiDungeon开发log](http://icybee.cn/article/71.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-957036873 | 2021-11-02 | 2021-11-02 | False |
 | [超级牛的博客](http://accu.cc/) | https://github.com/yihong0618/2021/issues/21#issuecomment-957187396 | 2021-11-02 | 2021-11-02 | False |
+| [傅里叶变换](https://www.cnblogs.com/h2zZhou/p/8405717.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-958581564 | 2021-11-03 | 2021-11-03 | False |
