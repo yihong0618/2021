@@ -361,5 +361,4 @@
 | [Luke](https://lukechampine.com/) | 2021.10.12 | another go hacker | English |
 | [朝花夕拾](https://neozhaoliang-github-io.vercel.app/) | 2021.10.20 | 图形学 | 太美了 |
 | [dgideas](https://dgideas.net/2020/hello-world/) | 2021.11.02 | 喜欢哲学 | 区块链 |
-
-
+| [Inoki](https://blog.inoki.cc/archives/) | 2021.11.04 | geek | 博士 |
