@@ -115,3 +115,4 @@
 | [傅里叶变换](https://www.cnblogs.com/h2zZhou/p/8405717.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-958581564 | 2021-11-03 | 2021-11-03 | False |
 | [python 打包101](https://frostming.com/2021/10-20/pycon-china-2021/) | https://github.com/yihong0618/2021/issues/21#issuecomment-958683262 | 2021-11-03 | 2021-11-03 | False |
 | [一本神书，希望有精力看](http://craftinginterpreters.com/) | https://github.com/yihong0618/2021/issues/21#issuecomment-961540713 | 2021-11-05 | 2021-11-05 | False |
+| [牛逼啊](https://frostming.com/2019/03-13/where-do-your-packages-go/#%E8%84%9A%E6%9C%AC%E8%BF%90%E8%A1%8C%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%90%9C%E7%B4%A2%E8%B7%AF%E5%BE%84%E7%9A%84%E5%BD%B1%E5%93%8D) | https://github.com/yihong0618/2021/issues/21#issuecomment-961580339 | 2021-11-05 | 2021-11-05 | False |
