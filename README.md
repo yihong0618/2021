@@ -253,6 +253,8 @@
 | 炒鱿鱼 | [2021-09-05](https://github.com/yihong0618/2021/issues/1#issuecomment-913117037) | [2021-09-05](https://github.com/yihong0618/2021/issues/1#issuecomment-913117037) | 1 |
 | 排骨炖土豆 | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | 1 |
 | 炒黄瓜片 | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | [2021-10-24](https://github.com/yihong0618/2021/issues/1#issuecomment-950283789) | 1 |
+| 可乐鸡翅 | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | 1 |
+| 炒蘑菇 | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | 1 |
 
 <!--END_SECTION:my_cook-->
 
