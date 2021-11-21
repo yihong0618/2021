@@ -281,7 +281,7 @@
 | [力扣的程序是如何运行的](https://github.com/yihong0618/gitblog/issues/205) | 2021-02-01 | 2021-02-03 | 1 | 
 | [生存守则](https://github.com/yihong0618/gitblog/issues/204) | 2021-01-27 | 2021-10-07 | 8 | 
 | [沮丧](https://github.com/yihong0618/gitblog/issues/203) | 2021-01-25 | 2021-06-07 | 3 | 
-| [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202) | 2021-01-14 | 2021-07-01 | 2 | 
+| [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202) | 2021-01-14 | 2021-11-21 | 2 | 
 | [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201) | 2021-01-08 | 2021-09-30 | 7 | 
 | [二零二一开始](https://github.com/yihong0618/gitblog/issues/200) | 2021-01-04 | 2021-01-12 | 0 | 
 
