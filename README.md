@@ -180,6 +180,7 @@
 | [《绝叫》](https://github.com/yihong0618/2021/issues/3#issuecomment-903305123) | 2021-08-22 | 2021-08-23 | 
 | [《The Little Schemer》](https://github.com/yihong0618/2021/issues/3#issuecomment-908828749) | 2021-08-31 | 2021-08-31 | 
 | [《两京十五日》](https://github.com/yihong0618/2021/issues/3#issuecomment-934142586) | 2021-10-05 | 2021-10-05 | 
+| [《1984》](https://github.com/yihong0618/2021/issues/3#issuecomment-978867905) | 2021-11-25 | 2021-11-25 | 
 
 <!--END_SECTION:my_read-->
 
