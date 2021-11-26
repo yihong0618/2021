@@ -266,7 +266,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [参加了《开源面对面》和《ByteTalk》播客的一些记录](https://github.com/yihong0618/gitblog/issues/223) | 2021-11-26 | 2021-11-26 | 3 | 
+| [参加了《开源面对面》和《ByteTalk》播客的一些记录](https://github.com/yihong0618/gitblog/issues/223) | 2021-11-26 | 2021-11-26 | 4 | 
 | [有趣与无趣](https://github.com/yihong0618/gitblog/issues/221) | 2021-10-13 | 2021-10-27 | 5 | 
 | [running_page 开源一周年的总结](https://github.com/yihong0618/gitblog/issues/220) | 2021-09-27 | 2021-09-30 | 9 | 
 | [接下来要写的东西](https://github.com/yihong0618/gitblog/issues/219) | 2021-09-27 | 2021-09-27 | 0 | 
