@@ -9,11 +9,12 @@ BOOKMARK_ISSUE_NUMBER = 21
 
 BOOKMARK_FILE_NAME = f"bookmark_{YEAR}.md"
 
-BOOKMARK_FILE_HEAD = f"# 我的 [{YEAR}](https://github.com/yihong0618/2021/issues/21) 的书签\n\n"
-BOOKMARK_STAT_HEAD = (
-    "| Name | Link | Add | Update | Has_file | \n | ---- | ---- | ---- | ---- | ---- |\n"
+BOOKMARK_FILE_HEAD = (
+    f"# 我的 [{YEAR}](https://github.com/yihong0618/2021/issues/21) 的书签\n\n"
 )
+BOOKMARK_STAT_HEAD = "| Name | Link | Add | Update | Has_file | \n | ---- | ---- | ---- | ---- | ---- |\n"
 BOOKMARK_STAT_TEMPLATE = "| {name} | {link} | {add} | {update} | {has_file} |\n"
+
 
 def make_bookmark_str(name, link, add, update, has_file):
     # format
@@ -32,8 +33,7 @@ def main(github_token, repo_name):
     bookmark_issue = repo.get_issue(BOOKMARK_ISSUE_NUMBER)
     comments = bookmark_issue.get_comments()
 
-
-    bookmark_str = BOOKMARK_STAT_HEAD    
+    bookmark_str = BOOKMARK_STAT_HEAD
     for c in comments:
         has_file = False
         comment_str_list = c.body.splitlines()
@@ -44,11 +44,17 @@ def main(github_token, repo_name):
         name, link = comment_str_list[0], comment_str_list[1]
         if link.find(f"{repo_name}/files") != -1:
             has_file = True
-        bookmark_str += make_bookmark_str(f"[{name}]({link})", c.html_url, str(c.created_at)[:10], str(c.updated_at)[:10], has_file)
+        bookmark_str += make_bookmark_str(
+            f"[{name}]({link})",
+            c.html_url,
+            str(c.created_at)[:10],
+            str(c.updated_at)[:10],
+            has_file,
+        )
     with open(BOOKMARK_FILE_NAME, "w+") as f:
         f.write(BOOKMARK_FILE_HEAD)
         f.write(bookmark_str)
-            
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

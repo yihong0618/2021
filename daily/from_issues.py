@@ -1,9 +1,10 @@
 from collections import defaultdict
 
 import pendulum
+from .utils import isMe
 
 
-def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
+def get_info_from_issue_comments(me, issues, map_func, reduce_func=sum):
     """
     also return url for formation
     """
@@ -17,6 +18,8 @@ def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
             url = issue.html_url
         comments = issue.get_comments()
         for c in comments:
+            if not isMe(c, me):
+                continue
             try:
                 data = map_func(c)
                 data_list.append(data)

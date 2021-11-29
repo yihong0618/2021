@@ -55,6 +55,7 @@ def main(
             continue
 
     u = Github(github_token)
+    me = u.get_user().login
     # COMMENTS STAT STR
     for name, value_dict in MY_STATUS_DICT_FROM_COMMENTS.items():
         try:
@@ -68,7 +69,7 @@ def main(
 
         issues = u.get_repo(repo_name).get_issues(labels=labels)
         total_data, streak, today_check, url, month_summary_dict = func(
-            issues, map_func, reduce_func
+            me, issues, map_func, reduce_func
         )
         # change the issue body for month summary
         unit = value_dict.get("unit_str", "")
