@@ -136,6 +136,7 @@
 | [《杀手寓言》](https://github.com/yihong0618/2021/issues/6#issuecomment-814546620) | 2021-04-07 | 2021-04-07 | 
 | [《Odd Taxi》](https://github.com/yihong0618/2021/issues/6#issuecomment-905063357) | 2021-08-25 | 2021-08-25 | 
 | [《瑞克和莫蒂》](https://github.com/yihong0618/2021/issues/6#issuecomment-913369998) | 2021-09-06 | 2021-09-06 | 
+| [《阴谋办公室》](https://github.com/yihong0618/2021/issues/6#issuecomment-981223271) | 2021-11-29 | 2021-11-29 | 
 
 <!--END_SECTION:my_bangumi-->
 
