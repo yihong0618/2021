@@ -371,3 +371,5 @@
 | [dgideas](https://dgideas.net/2020/hello-world/) | 2021.11.02 | 喜欢哲学 | 区块链 |
 | [Inoki](https://blog.inoki.cc/archives/) | 2021.11.04 | geek | 博士 |
 | [kainwen](https://kainwen.com/) | 2021.11.04 | 厉害 | 英雄无岁，江湖无辈 |
+| [4ra1n](https://4ra1n.love/archives/) | 2021.11.30 | 做安全厉害的真多 | 也是个少年 |
+
