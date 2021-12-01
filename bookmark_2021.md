@@ -120,3 +120,4 @@
 | [SRE 路线](https://github.com/bregman-arie/devops-exercises) | https://github.com/yihong0618/2021/issues/21#issuecomment-965930015 | 2021-11-11 | 2021-11-11 | False |
 | [前端](https://github.com/ProtoTeam/blog) | https://github.com/yihong0618/2021/issues/21#issuecomment-975175622 | 2021-11-22 | 2021-11-22 | False |
 | [argparse](https://frostming.com/2021/11-23/advanced-argparse/) | https://github.com/yihong0618/2021/issues/21#issuecomment-976483709 | 2021-11-23 | 2021-11-23 | False |
+| [figma](https://www.figma.com/blog/section/engineering/) | https://github.com/yihong0618/2021/issues/21#issuecomment-983355885 | 2021-12-01 | 2021-12-01 | False |
