@@ -325,7 +325,7 @@
 | [What rooms should you do?](https://blog.tryhackme.com/free_path/) | 2021.07.21 | hack | hack |
 | [WK8s 离线部署方案](https://blog.k8s.li/pass-tob-k8s-offline-deploy.html) | 2021.08.31 | k8s | mark |
 | [致一个二十岁的小镇boy](https://kivzone.com/dear-20yo/) | 2021.09.09 | 现在少年真厉害 | 想起了自己的 20 岁 |
-
+| [38岁北京丁克程序员](https://new.qq.com/rain/a/20201227A06AIT00) | 2021.12.01 | 有些震撼 | cool |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
