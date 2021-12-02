@@ -121,3 +121,4 @@
 | [前端](https://github.com/ProtoTeam/blog) | https://github.com/yihong0618/2021/issues/21#issuecomment-975175622 | 2021-11-22 | 2021-11-22 | False |
 | [argparse](https://frostming.com/2021/11-23/advanced-argparse/) | https://github.com/yihong0618/2021/issues/21#issuecomment-976483709 | 2021-11-23 | 2021-11-23 | False |
 | [figma](https://www.figma.com/blog/section/engineering/) | https://github.com/yihong0618/2021/issues/21#issuecomment-983355885 | 2021-12-01 | 2021-12-01 | False |
+| [事件循环](https://github.com/aceld/libevent) | https://github.com/yihong0618/2021/issues/21#issuecomment-984228398 | 2021-12-02 | 2021-12-02 | False |
