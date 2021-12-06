@@ -124,3 +124,4 @@
 | [事件循环](https://github.com/aceld/libevent) | https://github.com/yihong0618/2021/issues/21#issuecomment-984228398 | 2021-12-02 | 2021-12-02 | False |
 | [BBBBBTREE](https://github.com/lichuang/algorithm_notes/blob/master/btree/btree.py) | https://github.com/yihong0618/2021/issues/21#issuecomment-984250614 | 2021-12-02 | 2021-12-03 | False |
 | [思维导图](https://www.plectica.com/) | https://github.com/yihong0618/2021/issues/21#issuecomment-985151997 | 2021-12-03 | 2021-12-03 | False |
+| [LRU cache](https://realpython.com/lru-cache-python/) | https://github.com/yihong0618/2021/issues/21#issuecomment-986388616 | 2021-12-06 | 2021-12-06 | False |
