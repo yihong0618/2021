@@ -125,3 +125,4 @@
 | [BBBBBTREE](https://github.com/lichuang/algorithm_notes/blob/master/btree/btree.py) | https://github.com/yihong0618/2021/issues/21#issuecomment-984250614 | 2021-12-02 | 2021-12-03 | False |
 | [思维导图](https://www.plectica.com/) | https://github.com/yihong0618/2021/issues/21#issuecomment-985151997 | 2021-12-03 | 2021-12-03 | False |
 | [LRU cache](https://realpython.com/lru-cache-python/) | https://github.com/yihong0618/2021/issues/21#issuecomment-986388616 | 2021-12-06 | 2021-12-06 | False |
+| [线条表达内心的画](https://www.behance.net/nova_introvert) | https://github.com/yihong0618/2021/issues/21#issuecomment-988495839 | 2021-12-08 | 2021-12-08 | False |
