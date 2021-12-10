@@ -128,3 +128,4 @@
 | [线条表达内心的画](https://www.behance.net/nova_introvert) | https://github.com/yihong0618/2021/issues/21#issuecomment-988495839 | 2021-12-08 | 2021-12-08 | False |
 | [也要记笔记](https://github.com/nikitavoloboev/knowledge) | https://github.com/yihong0618/2021/issues/21#issuecomment-988558570 | 2021-12-08 | 2021-12-08 | False |
 | [redis 作者的博客](http://antirez.com/latest/0) | https://github.com/yihong0618/2021/issues/21#issuecomment-990603446 | 2021-12-10 | 2021-12-10 | False |
+| [搞懂容器的基石 namespace](https://moelove.info/2021/12/10/%E6%90%9E%E6%87%82%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E7%9A%84%E5%9F%BA%E7%9F%B3-namespace-%E4%B8%8A/) | https://github.com/yihong0618/2021/issues/21#issuecomment-990616193 | 2021-12-10 | 2021-12-10 | False |
