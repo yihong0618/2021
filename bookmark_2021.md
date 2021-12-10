@@ -127,3 +127,4 @@
 | [LRU cache](https://realpython.com/lru-cache-python/) | https://github.com/yihong0618/2021/issues/21#issuecomment-986388616 | 2021-12-06 | 2021-12-06 | False |
 | [线条表达内心的画](https://www.behance.net/nova_introvert) | https://github.com/yihong0618/2021/issues/21#issuecomment-988495839 | 2021-12-08 | 2021-12-08 | False |
 | [也要记笔记](https://github.com/nikitavoloboev/knowledge) | https://github.com/yihong0618/2021/issues/21#issuecomment-988558570 | 2021-12-08 | 2021-12-08 | False |
+| [redis 作者的博客](http://antirez.com/latest/0) | https://github.com/yihong0618/2021/issues/21#issuecomment-990603446 | 2021-12-10 | 2021-12-10 | False |
