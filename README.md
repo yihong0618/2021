@@ -330,6 +330,8 @@
 | [WK8s 离线部署方案](https://blog.k8s.li/pass-tob-k8s-offline-deploy.html) | 2021.08.31 | k8s | mark |
 | [致一个二十岁的小镇boy](https://kivzone.com/dear-20yo/) | 2021.09.09 | 现在少年真厉害 | 想起了自己的 20 岁 |
 | [38岁北京丁克程序员](https://new.qq.com/rain/a/20201227A06AIT00) | 2021.12.01 | 有些震撼 | cool |
+| [Long Time No See](https://kemingy.github.io/blogs/long-time-no-see/) | 2021.12.10 | English | 有意思 |
+
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
@@ -377,6 +379,3 @@
 | [kainwen](https://kainwen.com/) | 2021.11.04 | 厉害 | 英雄无岁，江湖无辈 |
 | [4ra1n](https://4ra1n.love/archives/) | 2021.11.30 | 做安全厉害的真多 | 也是个少年 |
 | [虎哥的博客](https://bohutang.me/) | 2021.12.02 | 数据库 | 虎哥 |
-
-
-
