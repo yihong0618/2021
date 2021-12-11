@@ -264,6 +264,8 @@
 | 可乐鸡翅 | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | 1 |
 | 炒蘑菇 | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | [2021-11-07](https://github.com/yihong0618/2021/issues/1#issuecomment-962572211) | 1 |
 | 炒荷兰豆 | [2021-12-05](https://github.com/yihong0618/2021/issues/1#issuecomment-986188669) | [2021-12-05](https://github.com/yihong0618/2021/issues/1#issuecomment-986188669) | 1 |
+| 小牛肉 | [2021-12-11](https://github.com/yihong0618/2021/issues/1#issuecomment-991536515) | [2021-12-11](https://github.com/yihong0618/2021/issues/1#issuecomment-991536515) | 1 |
+| 蘑菇炒肉 | [2021-12-11](https://github.com/yihong0618/2021/issues/1#issuecomment-991536515) | [2021-12-11](https://github.com/yihong0618/2021/issues/1#issuecomment-991536515) | 1 |
 
 <!--END_SECTION:my_cook-->
 
