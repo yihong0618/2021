@@ -130,3 +130,4 @@
 | [redis 作者的博客](http://antirez.com/latest/0) | https://github.com/yihong0618/2021/issues/21#issuecomment-990603446 | 2021-12-10 | 2021-12-10 | False |
 | [搞懂容器的基石 namespace](https://moelove.info/2021/12/10/%E6%90%9E%E6%87%82%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E7%9A%84%E5%9F%BA%E7%9F%B3-namespace-%E4%B8%8A/) | https://github.com/yihong0618/2021/issues/21#issuecomment-990616193 | 2021-12-10 | 2021-12-10 | False |
 | [dpark 漫谈](https://github.com/zzl0/DparkIntro) | https://github.com/yihong0618/2021/issues/21#issuecomment-990706694 | 2021-12-10 | 2021-12-10 | False |
+| [寻路算法](https://github.com/zhm-real/PathPlanning) | https://github.com/yihong0618/2021/issues/21#issuecomment-992078233 | 2021-12-13 | 2021-12-13 | False |
