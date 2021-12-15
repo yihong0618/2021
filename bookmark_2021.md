@@ -20,7 +20,7 @@
 | [播客](https://changelog.com/podcasts) | https://github.com/yihong0618/2021/issues/21#issuecomment-885489041 | 2021-07-23 | 2021-09-23 | False |
 | [ipv4](https://www.jannet.hk/ip-address-version-4-ipv4-zh-hans/) | https://github.com/yihong0618/2021/issues/21#issuecomment-886459925 | 2021-07-26 | 2021-09-23 | False |
 | [学日语](https://www.sigure.tw/) | https://github.com/yihong0618/2021/issues/21#issuecomment-886491193 | 2021-07-26 | 2021-09-23 | False |
-| [roguelike](http://rogueliketutorials.com/tutorials/tcod/v2/part-1/) | https://github.com/yihong0618/2021/issues/21#issuecomment-887268625 | 2021-07-27 | 2021-07-27 | False |
+| [roguelike](http://rogueliketutorials.com/tutorials/tcod/v2/part-1/) | https://github.com/yihong0618/2021/issues/21#issuecomment-887268625 | 2021-07-27 | 2021-12-15 | False |
 | [思考](下面这个图) | https://github.com/yihong0618/2021/issues/21#issuecomment-887365170 | 2021-07-27 | 2021-09-26 | False |
 | [独立游戏](https://www.douban.com/note/808457532/) | https://github.com/yihong0618/2021/issues/21#issuecomment-888028079 | 2021-07-28 | 2021-09-23 | False |
 | [需要补的内功](https://github.com/woai3c/nand2tetris) | https://github.com/yihong0618/2021/issues/21#issuecomment-890677062 | 2021-08-02 | 2021-09-26 | False |
