@@ -335,7 +335,7 @@
 | [致一个二十岁的小镇boy](https://kivzone.com/dear-20yo/) | 2021.09.09 | 现在少年真厉害 | 想起了自己的 20 岁 |
 | [38岁北京丁克程序员](https://new.qq.com/rain/a/20201227A06AIT00) | 2021.12.01 | 有些震撼 | cool |
 | [Long Time No See](https://kemingy.github.io/blogs/long-time-no-see/) | 2021.12.10 | English | 有意思 |
-
+| [我跟存储的这10年](https://www.douban.com/note/637760886/) | 2021.12.10 | 豆瓣 | 再给自己 10 年 |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
