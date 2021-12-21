@@ -135,3 +135,4 @@
 | [神人](https://easyperf.net/notes/) | https://github.com/yihong0618/2021/issues/21#issuecomment-994371946 | 2021-12-15 | 2021-12-15 | False |
 | [好美](https://github.com/inconvergent/weird) | https://github.com/yihong0618/2021/issues/21#issuecomment-994487337 | 2021-12-15 | 2021-12-15 | False |
 | [Dynamic Brainfuck](https://adam-mcdaniel.github.io/harbor/) | https://github.com/yihong0618/2021/issues/21#issuecomment-995391083 | 2021-12-16 | 2021-12-16 | False |
+| [牛逼的逆向](https://github.red/asoul-video-trick/) | https://github.com/yihong0618/2021/issues/21#issuecomment-998549397 | 2021-12-21 | 2021-12-21 | False |
