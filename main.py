@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import argparse
 from datetime import datetime
-from collections import defaultdict
 
 from github import Github
 
