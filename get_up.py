@@ -6,7 +6,7 @@ import pendulum
 from github import Github
 
 # 14 for test 12 real get up
-GET_UP_ISSUE_NUMBER = 14
+GET_UP_ISSUE_NUMBER = 12
 GET_UP_MESSAGE_TEMPLATE = (
     "今天的起床时间是--{get_up_time}.\r\n\r\n 起床啦，喝杯咖啡，背个单词，去跑步。\r\n\r\n 今天的一句诗:\r\n {sentence}"
 )
@@ -46,8 +46,8 @@ def get_today_get_up_status(issue):
 def make_get_up_message():
     sentence = get_one_sentence()
     now = pendulum.now(TIMEZONE)
-    # 3 - 6 means early for me
-    is_get_up_early = 3 <= now.hour <= 12
+    # 3 - 7 means early for me
+    is_get_up_early = 3 <= now.hour <= 7 
     get_up_time = now.to_datetime_string()
     body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
     return body, is_get_up_early
