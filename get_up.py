@@ -71,7 +71,9 @@ def main(github_token, repo_name, weather_message, tele_token, tele_chat_id):
         # send to telegram
         if tele_token and tele_chat_id:
             requests.post(
-                url="https://api.telegram.org/bot{0}/{1}".format(tele_token, "sendMessage"),
+                url="https://api.telegram.org/bot{0}/{1}".format(
+                    tele_token, "sendMessage"
+                ),
                 data={
                     "chat_id": tele_chat_id,
                     "text": body,
@@ -85,9 +87,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("github_token", help="github_token")
     parser.add_argument("repo_name", help="repo_name")
-    parser.add_argument("--weather_message", help="weather_message")
-    parser.add_argument("--tele_token", help="tele_token", default="")
-    parser.add_argument("--tele_chat_id", help="tele_chat_id", default="")
+    parser.add_argument(
+        "--weather_message", help="weather_message", nargs="?", default=""
+    )
+    parser.add_argument("--tele_token", help="tele_token", nargs="?", default="")
+    parser.add_argument("--tele_chat_id", help="tele_chat_id", nargs="?", default="")
     options = parser.parse_args()
     main(
         options.github_token,
