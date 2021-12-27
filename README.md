@@ -166,6 +166,7 @@
 | [《马里奥手游》](https://github.com/yihong0618/2021/issues/11#issuecomment-800756308) | 2021-03-17 | 2021-03-17 | 
 | [《以撒》](https://github.com/yihong0618/2021/issues/11#issuecomment-873855697) | 2021-07-05 | 2021-07-05 | 
 | [《into the breach》](https://github.com/yihong0618/2021/issues/11#issuecomment-984220402) | 2021-12-02 | 2021-12-02 | 
+| [《BABA is you》](https://github.com/yihong0618/2021/issues/11#issuecomment-1001287672) | 2021-12-27 | 2021-12-27 | 
 
 <!--END_SECTION:my_game-->
 
