@@ -137,3 +137,4 @@
 | [Dynamic Brainfuck](https://adam-mcdaniel.github.io/harbor/) | https://github.com/yihong0618/2021/issues/21#issuecomment-995391083 | 2021-12-16 | 2021-12-16 | False |
 | [牛逼的逆向](https://github.red/asoul-video-trick/) | https://github.com/yihong0618/2021/issues/21#issuecomment-998549397 | 2021-12-21 | 2021-12-21 | False |
 | [docker everything ](https://nystudio107.com/blog/dock-life-using-docker-for-all-the-things) | https://github.com/yihong0618/2021/issues/21#issuecomment-1000602741 | 2021-12-24 | 2021-12-24 | False |
+| [记笔记记笔记](https://roamresearch.com/#/app/FEZ/page/N7HgMbToE) | https://github.com/yihong0618/2021/issues/21#issuecomment-1001849830 | 2021-12-28 | 2021-12-28 | False |
