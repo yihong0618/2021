@@ -386,4 +386,5 @@
 | [虎哥的博客](https://bohutang.me/) | 2021.12.02 | 数据库 | 虎哥 |
 | [翁天信](https://www.dandyweng.com/) | 2021.12.13 | 有些震惊 | 理想的生活 |
 | [eatonphil](https://notes.eatonphil.com/) | 2021.12.28 | English | 希望有一天我也可以 |
+| [灵魂逻辑](https://soulogic.com/article/recent) | 2021.12.29 | 思考的人 | 今年最后一个 |
 
