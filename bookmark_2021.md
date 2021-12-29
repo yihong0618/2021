@@ -16,7 +16,7 @@
 | [后真相时代]([我们生活在“后真相时代”吗——基于微信公众平台“罗尔事件”传播的研究.pdf](https://github.com/yihong0618/2021/files/6847489/default.pdf)) | https://github.com/yihong0618/2021/issues/21#issuecomment-883282938 | 2021-07-20 | 2021-09-24 | True |
 | [面向对象的弊端](https://www.zhihu.com/question/20275578/answer/26577791) | https://github.com/yihong0618/2021/issues/21#issuecomment-883829490 | 2021-07-21 | 2021-09-24 | False |
 | [机器学习中的数学](https://github.com/mml-book/mml-book.github.io) | https://github.com/yihong0618/2021/issues/21#issuecomment-883839085 | 2021-07-21 | 2021-07-21 | False |
-| [raft](http://thesecretlivesofdata.com/raft/) | https://github.com/yihong0618/2021/issues/21#issuecomment-883966746 | 2021-07-21 | 2021-12-16 | False |
+| [raft](http://thesecretlivesofdata.com/raft/) | https://github.com/yihong0618/2021/issues/21#issuecomment-883966746 | 2021-07-21 | 2021-12-29 | False |
 | [播客](https://changelog.com/podcasts) | https://github.com/yihong0618/2021/issues/21#issuecomment-885489041 | 2021-07-23 | 2021-09-23 | False |
 | [ipv4](https://www.jannet.hk/ip-address-version-4-ipv4-zh-hans/) | https://github.com/yihong0618/2021/issues/21#issuecomment-886459925 | 2021-07-26 | 2021-09-23 | False |
 | [学日语](https://www.sigure.tw/) | https://github.com/yihong0618/2021/issues/21#issuecomment-886491193 | 2021-07-26 | 2021-09-23 | False |
