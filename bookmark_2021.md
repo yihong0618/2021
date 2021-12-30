@@ -139,3 +139,4 @@
 | [docker everything ](https://nystudio107.com/blog/dock-life-using-docker-for-all-the-things) | https://github.com/yihong0618/2021/issues/21#issuecomment-1000602741 | 2021-12-24 | 2021-12-24 | False |
 | [记笔记记笔记](https://roamresearch.com/#/app/FEZ/page/N7HgMbToE) | https://github.com/yihong0618/2021/issues/21#issuecomment-1001849830 | 2021-12-28 | 2021-12-28 | False |
 | [Writing a simple JSON parser](https://notes.eatonphil.com/writing-a-simple-json-parser.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-1001904335 | 2021-12-28 | 2021-12-28 | False |
+| [rust](https://course.rs/about-book.html) | https://github.com/yihong0618/2021/issues/21#issuecomment-1002837177 | 2021-12-30 | 2021-12-30 | False |
